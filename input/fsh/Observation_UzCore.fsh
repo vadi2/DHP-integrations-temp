@@ -1,8 +1,13 @@
 Profile: ResearchObservation
 Parent: Observation
 Id: research-observation
-Title: "Research Observation"
+Title: "Observation (uz-core) Hepatitis"
 Description: "Для получения лабораторных результатов используются ПЦР, экспресс-тест, ИФА-тест, а для визуализационной диагностики — УЗИ."
+* ^version = "5.0.0"
+* ^experimental = true
+* ^status = #active
+* ^date = "2025-08-25"
+* ^publisher = "Uzinfocom"
 
 * identifier 1..* MS
 * identifier ^short = "Идентификатор"
@@ -14,12 +19,15 @@ Description: "Для получения лабораторных результ�
 * effective[x] MS
 * effective[x] only dateTime or Period
 * effective[x] ^short = "Время наблюдения"
-  
-  //valueAttechment not found in effective[x] in FHIR R4,so that i commented it
+
+
+* value[x] MS
+* value[x] only Attachment
+* value[x] ^short = "Файл или изображение, прикреплённое к наблюдению"
 
 * performer MS
-* performer only Reference(Practitioner)
-* performer ^short = "Текст вопроса"
+* performer only Reference(Practitioner or Organization)
+* performer ^short = "Определяет исполнителя (врач или организация)"
 
 * category MS
 * category only CodeableConcept
@@ -31,7 +39,4 @@ Description: "Для получения лабораторных результ�
 * interpretation from https://terminology.medcore.uz/ValueSet/TheNameOfTheResearch (required)
 * interpretation ^short = "Клиническое значение результата теста."
 
-
-// ask this from Vadim
-* extension contains ObservationServiceProvider named serviceProvider 0..1
-* extension[serviceProvider] ^short = "Определяет организацию"
+// I cant add serviceProvider to Observation !!!
