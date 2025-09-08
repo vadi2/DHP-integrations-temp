@@ -1,3 +1,8 @@
 # DHP-integrations
 
-Feel free to modify this index page with your own awesome content!
+{% include dependency-table-en.xhtml %} -->
+
+{% include ip-statements-en.xhtml %} -->
+
+{% include globals-table-en.xhtml %} -->
+

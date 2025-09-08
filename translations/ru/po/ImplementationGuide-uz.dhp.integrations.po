@@ -1,0 +1,61 @@
+
+# A natural language name identifying the implementation guide. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: ImplementationGuide.name
+msgid "DHPintegrations"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the implementation guide.
+#: ImplementationGuide.title
+msgid "Uzbekistan Digital Health Platform - Integrations"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the implementation guide.
+#: ImplementationGuide.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the implementation guide from a consumer's perspective.
+#: ImplementationGuide.description
+msgid "Profiles for DHP integrations with systems in Uzbekistan"
+msgstr ""
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Uzbekistan"
+msgstr ""
+
+# Indicates the URL or the actual content to provide for the page.
+#: ImplementationGuide.definition.page.source[x]
+msgid "toc.html"
+msgstr ""
+
+# A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
+#: ImplementationGuide.definition.page.title
+msgid "Table of Contents"
+msgstr ""
+
+# Indicates the URL or the actual content to provide for the page.
+#: ImplementationGuide.definition.page.source[x]
+msgid "index.html"
+msgstr ""
+
+# A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
+#: ImplementationGuide.definition.page.title
+msgid "Home"
+msgstr ""
+
+# Indicates the URL or the actual content to provide for the page.
+#: ImplementationGuide.definition.page.source[x]
+msgid "changelog.html"
+msgstr ""
+
+# A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
+#: ImplementationGuide.definition.page.title
+msgid "Changelog"
+msgstr ""
+

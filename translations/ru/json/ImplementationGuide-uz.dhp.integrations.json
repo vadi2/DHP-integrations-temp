@@ -1,0 +1,83 @@
+{
+  "id" : "ImplementationGuide-uz.dhp.integrations",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "ImplementationGuide.name",
+          "context" : "A natural language name identifying the implementation guide. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "DHPintegrations",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.title",
+          "context" : "A short, descriptive, user-friendly title for the implementation guide.",
+          "source" : "Uzbekistan Digital Health Platform - Integrations",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the implementation guide.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.description",
+          "context" : "A free text natural language description of the implementation guide from a consumer's perspective.",
+          "source" : "Profiles for DHP integrations with systems in Uzbekistan",
+          "target" : null
+        },
+        {
+          "id" : "Coding.display",
+          "context" : "A representation of the meaning of the code in the system, following the rules of the system.",
+          "source" : "Uzbekistan",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.page.source[x]",
+          "context" : "Indicates the URL or the actual content to provide for the page.",
+          "source" : "toc.html",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.page.title",
+          "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
+          "source" : "Table of Contents",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.page.source[x]",
+          "context" : "Indicates the URL or the actual content to provide for the page.",
+          "source" : "index.html",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.page.title",
+          "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
+          "source" : "Home",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.page.source[x]",
+          "context" : "Indicates the URL or the actual content to provide for the page.",
+          "source" : "changelog.html",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.page.title",
+          "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
+          "source" : "Changelog",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}
