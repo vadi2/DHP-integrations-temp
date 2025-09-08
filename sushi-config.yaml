@@ -4,8 +4,8 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: uz.dhp.integrations
-canonical: http://integrations.dhp.uz
-name: DHP-integrations
+canonical: https://dhp.uz/fhir/integrations
+name: DHP integrations
 title: Uzbekistan Digital Health Platform - Integrations
 description: Profiles for DHP integrations with systems in Uzbekistan
 status: draft # draft | active | retired | unknown
@@ -25,7 +25,10 @@ publisher:
 # use cases, the value can be an object with keys for id, uri, and version.
 #
 dependencies:
-  uz.dhp.core: 0.2.0
+  uz.dhp.core: 
+    id: dhpcore
+    uri: http://dhp.uz/ImplementationGuide/uz.dhp.core
+    version: 0.2.0
 #
 #
 # The pages property corresponds to IG.definition.page. SUSHI can
@@ -58,8 +61,24 @@ dependencies:
 # For parameters defined by the FHIR Tools IG see:
 # http://build.fhir.org/ig/FHIR/fhir-tools-ig/branches/master/CodeSystem-ig-parameters.html
 #
-# parameters:
-#   excludettl: true
+parameters:
+  special-url-base: https://terminology.dhp.uz
+  excludettl: true
+  # shownav: true
+
+  pin-canonicals: pin-all
+  apply-version: false # don't override the version in the knowledge resources
+  default-version: true
+
+  # multi-lingual support
+  i18n-default-lang: en
+  i18n-lang: 
+    - ru
+    # - uz # to be enabled later - requires translating not just this IG, but core IG publisher texts as well
+  translation-sources:
+    - input/translations/ru
+    # - input/translations/uz
+
 #   validation: [allow-any-extensions, no-broken-links]
 #
 # ╭────────────────────────────────────────────menu.xml────────────────────────────────────────────╮
@@ -73,6 +92,7 @@ dependencies:
 menu:
   Home: index.html
   Artifacts: artifacts.html
+  Changelog: changelog.html
 
 # ╭───────────────────────────Less Common Implementation Guide Properties──────────────────────────╮
 # │  Uncomment the properties below to configure additional properties on the ImplementationGuide  │
