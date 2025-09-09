@@ -1,4 +1,4 @@
-Profile: CarePlan
+Profile: SickLeaveCarePlan
 Parent: CarePlan
 Id: careplan
 Title: "Care Plan Profile for Uzbekistan Healthcare System"
