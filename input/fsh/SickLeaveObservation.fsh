@@ -28,47 +28,57 @@ Description: "Profile for sick leave observations with structured components"
     infectiousContact 0..1 MS and
     kinshipDegree 0..1 MS and
     regime 0..1 MS and
-    regimeViolation 0..* MS and
+    regimeViolation 0..1 MS and
     jobTransfer 0..1 MS and
-    conclusions 0..* MS and
-    verificationDate 0..* MS
+    conclusions 0..1 MS and
+    verificationDate 0..1 MS
 
 * component[cityAffiliation] ^short = "City affiliation"
 * component[cityAffiliation].code = SickLeaveComponentCS#emdoc-0009-0001
 * component[cityAffiliation].value[x] only CodeableConcept
+* component[cityAffiliation].value[x] 1..1
 
 * component[placeOfIncident] ^short = "Place of incident"
 * component[placeOfIncident].code = SickLeaveComponentCS#emdoc-0009-0002
 * component[placeOfIncident].value[x] only CodeableConcept
+* component[placeOfIncident].value[x] 1..1
 
 * component[issuanceOtherCity] ^short = "Issuance of sick leave to patient from another city"
 * component[issuanceOtherCity].code = SickLeaveComponentCS#emdoc-0009-0003
 * component[issuanceOtherCity].value[x] only boolean
+* component[issuanceOtherCity].value[x] 1..1
 
 * component[infectiousContact] ^short = "Information about contact with infectious disease patient"
 * component[infectiousContact].code = SickLeaveComponentCS#emdoc-0009-0004
 * component[infectiousContact].value[x] only boolean
+* component[infectiousContact].value[x] 1..1
 
 * component[kinshipDegree] ^short = "Degree of kinship"
 * component[kinshipDegree].code = SickLeaveComponentCS#emdoc-0009-0005
 * component[kinshipDegree].value[x] only CodeableConcept
+* component[kinshipDegree].value[x] 1..1
 
 * component[regime] ^short = "Regime/Mode"
 * component[regime].code = SickLeaveComponentCS#emdoc-0009-0006
 * component[regime].value[x] only CodeableConcept
+* component[regime].value[x] 1..1
 
 * component[regimeViolation] ^short = "Data on regime violation"
 * component[regimeViolation].code = SickLeaveComponentCS#emdoc-0009-0007
 * component[regimeViolation].value[x] only CodeableConcept
+* component[regimeViolation].value[x] 1..1
 
 * component[jobTransfer] ^short = "Temporarily transfer to another job"
 * component[jobTransfer].code = SickLeaveComponentCS#emdoc-0009-0008
 * component[jobTransfer].value[x] only dateTime
+* component[jobTransfer].value[x] 1..1
 
 * component[conclusions] ^short = "Conclusions"
 * component[conclusions].code = SickLeaveComponentCS#emdoc-0009-0009
 * component[conclusions].value[x] only CodeableConcept
+* component[conclusions].value[x] 1..1
 
 * component[verificationDate] ^short = "Date of verification"
 * component[verificationDate].code = SickLeaveComponentCS#emdoc-0009-0010
 * component[verificationDate].value[x] only dateTime
+* component[verificationDate].value[x] 1..1
