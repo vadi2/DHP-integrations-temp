@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="CodeSystem-place-of-incident-cs" original="Resource CodeSystem-place-of-incident-cs" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-place-of-incident-cs" resname="CodeSystem.name">
+             <notes>
+               <note id="n1">A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.</note>
+             </notes>
+        <source>PlaceOfIncidentCS</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-place-of-incident-cs" resname="CodeSystem.title">
+             <notes>
+               <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
+             </notes>
+        <source>Place of Incident translation in Russian and English</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-place-of-incident-cs" resname="CodeSystem.publisher">
+             <notes>
+               <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-place-of-incident-cs" resname="ContactDetail.name">
+             <notes>
+               <note id="n1">The name of an individual to contact.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-place-of-incident-cs" resname="CodeSystem.description">
+             <notes>
+               <note id="n1">A free text natural language description of the code system from a consumer's perspective.</note>
+             </notes>
+        <source>Code system for Place of Incident in Uzbekistan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-place-of-incident-cs" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Uzbekistan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-place-of-incident-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>ish joyida</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-place-of-incident-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>at the workplace</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-place-of-incident-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>на рабочем месте</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-place-of-incident-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>kundalik hayotda</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-place-of-incident-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>in everyday life</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-place-of-incident-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>в повседневной жизни</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

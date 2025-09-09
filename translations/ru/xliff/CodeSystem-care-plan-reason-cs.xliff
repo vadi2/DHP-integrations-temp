@@ -1,0 +1,365 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="CodeSystem-care-plan-reason-cs" original="Resource CodeSystem-care-plan-reason-cs" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.name">
+             <notes>
+               <note id="n1">A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.</note>
+             </notes>
+        <source>CarePlanReasonCS</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.title">
+             <notes>
+               <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
+             </notes>
+        <source>Care plan reason translation in Russian and English</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.publisher">
+             <notes>
+               <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="ContactDetail.name">
+             <notes>
+               <note id="n1">The name of an individual to contact.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.description">
+             <notes>
+               <note id="n1">A free text natural language description of the code system from a consumer's perspective.</note>
+             </notes>
+        <source>Care plan reason code system for Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Uzbekistan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>kasallik</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>disease</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>заболевание</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>vaqtinchalik mehnatga layoqatsizlikka olib kelgan jarohat</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>injury with temporary loss of work capacity</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>травма с временной утратой нетрудоспособности</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>karantin</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>quarantine</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>карантин</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>ishlab chiqarishda yuz bergan baxtsiz hodisa va uning oqibatlari</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>occupational accident and its consequences</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>несчастный случай на производстве и его последствия</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>homiladorlik va tug‘ruq ta’tili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>maternity leave</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>отпуск по беременности и родам</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>ortopedik-protez muassasasining statsionar sharoitida protezlash</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>prosthetic care provided in the inpatient setting of a prosthetic and orthopedic facility</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>протезирование в условиях стационара протезно-ортопедического предприятия</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>kasbiy kasallik va uning kuchayishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>occupational disease and its exacerbation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>профессиональное заболевание и его обострение</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>sanator-kurort (yoki ambulator-kurort) davolanish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>sanatorium-resort (outpatient-resort) treatment</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>санаторно-курортного (амбулаторно-курортного) лечения</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>kasal oila a’zosini parvarish qilish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>care for a sick family member</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>уход за больным членом семьи</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>boshqa holatlar (zaharlanish, tibbiy muolajalar va boshqalar)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>other conditions (poisoning, medical procedures, etc.)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>иное состояние (отравление, проведение манипуляци и др.)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>14 yoshdan kichik bolaning kasalligi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>illness of a child under 14 years of age</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>в случае заболевания ребенка в возрасте до 14 лет</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>nogiron bola</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>disabled child</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>ребенок-инвалид</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>emlashdan keyingi asorat yoki bolaning yomon sifatli o‘smalari bilan bog‘liq kasallik</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>disease associated with post-vaccination complication or with malignant neoplasm in a child</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>заболевание, связанное с поствакцинальным осложнением, или при злокачественном новообразовании у ребенка</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>OIV bilan kasallangan bola</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>child infected with HIV</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>вич-инфицированный ребенок</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>yangi tug‘ilgan chaqaloqni parvarish qilish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>care for a newborn</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-care-plan-reason-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>уход за новорожденным</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
