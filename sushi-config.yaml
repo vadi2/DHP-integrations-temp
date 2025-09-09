@@ -4,8 +4,9 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: uz.dhp.integrations
+packageId: uz.dhp.integrations
 canonical: https://dhp.uz/fhir/integrations
-name: DHP integrations
+name: DHP-integrations
 title: Uzbekistan Digital Health Platform - Integrations
 description: Profiles for DHP integrations with systems in Uzbekistan
 status: draft # draft | active | retired | unknown
@@ -27,7 +28,7 @@ publisher:
 # use cases, the value can be an object with keys for id, uri, and version.
 #
 dependencies:
-  uz.dhp.core: 
+  uz.dhp.core:
     id: dhpcore
     uri: http://dhp.uz/ImplementationGuide/uz.dhp.core
     version: 0.2.0

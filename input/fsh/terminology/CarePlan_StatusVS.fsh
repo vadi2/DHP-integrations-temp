@@ -12,8 +12,9 @@ Description: "Value set for care plan status translations"
 * include $care-plan-status#revoked
 * include $care-plan-status#completed
 * include $care-plan-status#entered-in-error
-* include care-plan-status-home-cs#emdoc-0002-0001
-* include care-plan-status-home-cs#emdoc-0002-0002
-* include care-plan-status-home-cs#emdoc-0002-0003
-* include care-plan-status-home-cs#emdoc-0002-0004
-* include care-plan-status-home-cs#emdoc-0002-0005
+
+* include $care-plan-status-home-cs#emdoc-0002-0001
+* include $care-plan-status-home-cs#emdoc-0002-0002
+* include $care-plan-status-home-cs#emdoc-0002-0003
+* include $care-plan-status-home-cs#emdoc-0002-0004
+* include $care-plan-status-home-cs#emdoc-0002-0005

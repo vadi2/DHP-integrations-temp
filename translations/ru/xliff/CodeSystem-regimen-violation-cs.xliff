@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="CodeSystem-regimen-violation-cs" original="Resource CodeSystem-regimen-violation-cs" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.name">
+             <notes>
+               <note id="n1">A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.</note>
+             </notes>
+        <source>RegimenViolationCS</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.title">
+             <notes>
+               <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
+             </notes>
+        <source>Regimen Violation code system for Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.publisher">
+             <notes>
+               <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="ContactDetail.name">
+             <notes>
+               <note id="n1">The name of an individual to contact.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.description">
+             <notes>
+               <note id="n1">A free text natural language description of the code system from a consumer's perspective.</note>
+             </notes>
+        <source>Code system for Regimen Violation in Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Uzbekistan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>vaqtinchalik mehnatga layoqatsizlik davrida o‘zboshimchalik bilan ishga chiqish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>unauthorized return to work during temporary incapacity for work</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>самовольный выход на работу в период временной нетрудоспособности</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>mastlik</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>intoxication</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>опьянение</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>sog‘liq holatiga ko‘ra taqiqlangan ishni bajarish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>performing work contraindicated due to health condition</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>выполнение работы, провопоказанной по состоянию здоровья</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>mehnatga layoqatsizlik davrida o‘zboshimchalik bilan boshqa joyga chiqib ketish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>unauthorized departure to another location during incapacity for work</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>самовольный выезд в другую местность в период нетрудоспособности</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>boshqa qoidabuzarliklar</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>other violations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-regimen-violation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>другие нарушения</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

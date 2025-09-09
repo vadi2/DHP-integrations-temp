@@ -11,12 +11,12 @@ Description: "Code system for Place of Incident in Uzbekistan"
 * ^experimental = true
 
 * #emdoc-0004-0001 "ish joyida"
-    * ^designation[0].language = #en
-    * ^designation[=].value = "at the workplace"
-    * ^designation[+].language = #ru
-    * ^designation[=].value = "на рабочем месте"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "at the workplace"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "на рабочем месте"
 * #emdoc-0004-0002 "kundalik hayotda"
-    * ^designation[0].language = #en
-    * ^designation[=].value = "in everyday life"
-    * ^designation[+].language = #ru
-    * ^designation[=].value = "в повседневной жизни"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "in everyday life"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "в повседневной жизни"
