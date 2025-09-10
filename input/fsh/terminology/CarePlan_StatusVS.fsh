@@ -2,10 +2,9 @@ ValueSet: CarePlanStatusVS
 Id: care-plan-status-vs
 Title: "Care plan status translations"
 Description: "Value set for care plan status translations"
-* ^url = "https://terminology.dhp.uz/ValueSet/care-plan-status-vs"
+* ^url = "https://terminology.dhp.uz/fhir/integrations/ValueSet/care-plan-status-vs"
+* ^status = #active
 * ^experimental = true
-* ^extension[0].url = $valueset-supplement
-* ^extension[=].valueCanonical = Canonical(CarePlanStatusCS)
 
 * include $care-plan-status#draft
 * include $care-plan-status#active

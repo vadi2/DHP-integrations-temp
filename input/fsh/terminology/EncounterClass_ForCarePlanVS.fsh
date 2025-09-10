@@ -1,11 +1,10 @@
 ValueSet: EncounterClass_ForCareplanVS
 Id: encounter-class-for-careplan-vs
-Title: "Encounter Class for Careplan translation in Russian and Uzbek"
-Description: "Value set for Encounter Class for Careplan in Uzbekistan healthcare system"
-* ^url = "https://terminology.dhp.uz/ValueSet/encounter-class-for-careplan-vs"
+Title: "Encounter Class for CarePlan translations"
+Description: "ValueSet combining HL7 ActCode supplement and Uzbekistan local codes"
+* ^url = "https://terminology.dhp.uz/fhir/integrations/ValueSet/encounter-class-for-careplan-vs"
+* ^status = #active
 * ^experimental = true
-* ^extension[0].url = $valueset-supplement
-* ^extension[=].valueCanonical = Canonical(EncounterClass_ForCareplanCS)
 
 * include $v3-ActCode#AMB
 * include $v3-ActCode#IMP

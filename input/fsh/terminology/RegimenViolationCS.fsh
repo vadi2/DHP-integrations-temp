@@ -2,7 +2,7 @@ CodeSystem: RegimenViolationCS
 Id: regimen-violation-cs
 Title: "Regimen Violation code system for Uzbekistan healthcare system"  
 Description: "Code system for Regimen Violation in Uzbekistan healthcare system"
-* ^url = "https://terminology.dhp.uz/CodeSystem/regimen-violation-cs"
+* ^url = "https://terminology.dhp.uz/fhir/integrations/CodeSystem/regimen-violation-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true
