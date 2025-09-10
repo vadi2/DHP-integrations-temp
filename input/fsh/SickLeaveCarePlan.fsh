@@ -68,26 +68,5 @@ Id: care-for-relatedperson
 Title: "Care For Related Person Extension"
 Description: "Информация о связанном лице для ухода за ребенком/членом семьи"
 
-* extension contains
-    name 0..1 and
-    gender 0..1 and
-    genderOther 0..1 and
-    birthDate 0..1 MS
-
-* extension[name].value[x] only HumanName
-* extension[name] ^short = "ФИО связанного лица"
-* extension[name] ^definition = "ФИО связанного лица. Только если Причина ЛН: уход за больным членом семьи, ребенок до 14 лет или ребенок-инвалид."
-
-* extension[gender].value[x] only code
-* extension[gender] ^short = "Пол связанного лица"
-* extension[gender] ^binding.strength = #required
-* extension[gender] ^binding.valueSet = "https://terminology.medcore.uz/ValueSet/gender"
-
-* extension[genderOther].value[x] only Coding
-* extension[genderOther] ^short = "Дифференциация административного пола 'другой'"
-* extension[genderOther] ^binding.strength = #required
-* extension[genderOther] ^binding.valueSet = "https://terminology.medcore.uz/ValueSet/gender-other-vs"
-
-* extension[birthDate].value[x] only date
-* extension[birthDate] ^short = "Дата рождения связанного лица"
-* extension[birthDate] ^definition = "Дата рождения связанного лица. Только если Причина ЛН: уход за больным членом семьи, ребенок до 14 лет либо ребенок-инвалид."
+* value[x] only Reference(SickLeaveRelatedPerson)
+* value[x] 1..1
