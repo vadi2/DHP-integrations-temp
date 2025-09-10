@@ -2,7 +2,7 @@ ValueSet: CarePlanBelongingVS
 Id: care-plan-belonging-vs
 Title: "Care Plan Belonging translations"
 Description: "Value set for Care Plan belonging in Uzbekistan healthcare system"
-* ^url = "https://terminology.dhp.uz/ValueSet/care-plan-belonging-vs"
+* ^url = "https://terminology.dhp.uz/fhir/integrationss/ValueSet/care-plan-belonging-vs"
 * ^experimental = true
 * ^language = #uz
 

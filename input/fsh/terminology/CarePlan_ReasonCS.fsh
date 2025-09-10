@@ -2,7 +2,7 @@ CodeSystem: CarePlanReasonCS
 Id: care-plan-reason-cs
 Title: "Care plan reason translation in Russian and English"  
 Description: "Care plan reason code system for Uzbekistan healthcare system"
-* ^url = "https://terminology.dhp.uz/CodeSystem/care-plan-reason-cs"
+* ^url = "https://terminology.dhp.uz/fhir/integrations/CodeSystem/care-plan-reason-cs"
 * ^status = #active
 * ^caseSensitive = true
 * ^hierarchyMeaning = #is-a
