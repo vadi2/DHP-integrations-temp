@@ -1,7 +1,7 @@
 Profile: EncounterDeath
 Parent: Encounter
 Id: encounter-death
-Title: "Death Encounter Profile for Uzbekistan Healthcare System"
+Title: "Death Encounter Profile"
 Description: "Profile for registration of patient deaths in the healthcare system of Uzbekistan."
 * ^version = "5.0.0"
 * ^experimental = true
