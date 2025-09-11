@@ -1,10 +1,10 @@
-Profile: SickLeaveObservation
+Profile: DHPSickLeaveObservation
 Parent: Observation
-Id: sick-leave-observation
+Id: dhp-sick-leave-observation
 Title: "Sick Leave Observation Profile"
 Description: "Profile for sick leave observations with structured components"
 * basedOn 1..* MS
-* basedOn only Reference(SickLeaveCarePlan)
+* basedOn only Reference(DHPSickLeaveCarePlan)
 * basedOn ^short = "Reference to the associated CarePlan"
 
 * status MS
