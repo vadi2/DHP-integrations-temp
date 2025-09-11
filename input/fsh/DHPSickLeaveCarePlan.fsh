@@ -1,13 +1,11 @@
-Profile: SickLeaveCarePlan
+Profile: DHPSickLeaveCarePlan
 Parent: CarePlan
-Id: careplan
-Title: "Care Plan Profile"
+Id: dhp-sick-leave-careplan
+Title: "DHP Sick Leave CarePlan"
 Description: "Profile for documenting care plans in the healthcare system of Uzbekistan."
 * ^url = "https://terminology.dhp.uz/StructureDefinition/careplan"
 * ^experimental = true
-* ^status = #active
-* ^date = "2025-08-25"
-* ^publisher = "Uzinfocom"
+* ^status = #draft
 
 * category 1..1 MS
 * category ^short = "Категория CarePlan"
@@ -59,7 +57,7 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
 * extension contains CareForRelatedPerson named care-for 0..1
 
 * supportingInfo 0..* MS
-* supportingInfo only Reference(SickLeaveObservation)
+* supportingInfo only Reference(DHPSickLeaveObservation)
 * supportingInfo ^short = "Ссылается на Observation (листок нетрудоспособности)"
 
 
