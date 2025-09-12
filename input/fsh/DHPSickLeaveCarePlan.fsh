@@ -7,10 +7,10 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
 * ^experimental = true
 * ^status = #draft
 
-* category 1..1 MS
+* category MS
 * category ^short = "Category CarePlan"
 
-* subject 1..1 MS
+* subject MS
 * subject only Reference(Patient or Group)
 * subject ^short = "For whom is the Certificate of Incapacity for Work opened"
 
@@ -23,17 +23,17 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
 * addresses[reason] only CodeableReference
   * ^short = "Reason: Sick leave"
   * ^binding.strength = #required
-  * ^binding.valueSet = SickLeaveReasonVS
+* addresses[reason] from CarePlanReasonVS
 
 * addresses[diagnosis] only CodeableReference
   * ^short = "ICD-10 diagnosis"
   * ^binding.strength = #required
   * ^binding.valueSet = http://hl7.org/fhir/sid/icd-10
 
-* status 1..1
+* status MS
   * ^short = "Status: Sick Leave"
   * ^binding.strength = #required
-  * ^binding.valueSet = SickLeaveWorkflowStatusVS
+* status from CarePlanStatusVS
 
 * identifier ^slicing.discriminator.type = #pattern
 * identifier ^slicing.discriminator.path = "system"
@@ -62,11 +62,9 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
 * supportingInfo only Reference(DHPSickLeaveObservation)
 * supportingInfo ^short = "Refers to Observation (sick leave)"
 
-// # Plz check this activity detail
+* activity MS
+* activity ^short = "Activities planned as part of the sick leave care plan"
 
-// * activity.detail
-// * activity ^short = "Detailed description of the activity"
-
-// * activity.detail.code
-// * activity.detail.code from EncounterClass_ForCareplanVS
+* activity.plannedActivityReference MS
+* activity.plannedActivityReference only Reference(DHPSickLeaveActivityRequest)
 

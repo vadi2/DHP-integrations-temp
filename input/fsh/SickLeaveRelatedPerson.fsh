@@ -9,5 +9,5 @@ Description: "Profile for related persons in sick leave cases"
 
 * name 0..1 MS
 * gender 0..1 MS
-* gender ^binding.valueSet = "https://terminology.medcore.uz/ValueSet/gender"
+* gender from https://terminology.medcore.uz/ValueSet/gender (required)
 * birthDate 0..1 MS
