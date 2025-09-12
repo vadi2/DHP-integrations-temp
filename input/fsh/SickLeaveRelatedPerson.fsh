@@ -1,6 +1,13 @@
 Profile: SickLeaveRelatedPerson
 Parent: RelatedPerson
-Id: SickLeaveRelatedPerson
-Title: "fill me in"
-Description: "fill me in"
-* name MS
+Id: sick-leave-relatedperson
+Title: "Sick Leave Related Person"
+Description: "Profile for related persons in sick leave cases"
+* ^url = "https://dhp.uz/fhir/integrations/StructureDefinition/sick-leave-relatedperson"
+* ^status = #draft
+* ^experimental = true
+
+* name 0..1 MS
+* gender 0..1 MS
+* gender ^binding.valueSet = "https://terminology.medcore.uz/ValueSet/gender"
+* birthDate 0..1 MS

@@ -2,7 +2,7 @@ CodeSystem: EncounterClass_ForCareplanHomeCS
 Id: encounter-class-for-careplan-home-cs
 Title: "CarePlan Encounter Class (Uzbekistan only)"
 Description: "Local Encounter Class codes for Uzbekistan healthcare system"
-* ^url = "https://terminology.dhp.uz/fhir/integrations/CodeSystem/encounter-class-for-careplan-home-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-class-for-careplan-home-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true

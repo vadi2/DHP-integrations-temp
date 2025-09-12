@@ -11,37 +11,37 @@ Description: "Используется для описания медицинс�
 
 // Identifikator
 * identifier MS
-* identifier ^short = "Идентификатор"
+* identifier ^short = "Identifier"
 
 // Код (ICD-10)
 * code MS
-* code ^short = "Код заболевания"
+* code ^short = "Disease code"
 * code from https://terminology.medcore.uz/ValueSet/ICD-10 (required)
 
 // Пациент
 * subject MS
 * subject only Reference(Patient)
-* subject ^short = "Диагностированный пациент."
+* subject ^short = "Diagnosed patient."
 
 // Локация
 * location MS
 * location only Reference(Location)
-* location ^short = "Место лечения."
+* location ^short = "Place of treatment."
 
 // Время проведения
 * occurrence[x] MS
-* occurrence[x] ^short = "Дата или время лечения."
+* occurrence[x] ^short = "Date or time of treatment."
 
 // Причина
 * reason MS
-* reason ^short = "Состояние или диагноз, приведшее к лечению."
+* reason ^short = "The condition or diagnosis that led to treatment."
 * reason from https://terminology.medcore.uz/ValueSet/The (required)
 
 // Исполнитель
 * performer MS
-* performer ^short = "Врач, подтвердивший диагноз."
+* performer ^short = "The doctor who confirmed the diagnosis."
 
 // Отчет
 * report MS
 * report only Reference(DiagnosticReport)
-* report ^short = "Результаты анализа."
+* report ^short = "Results of the analysis."
