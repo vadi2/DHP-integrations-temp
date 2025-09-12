@@ -29,7 +29,7 @@ RuleSet: HumanName
   * use and text and family and given and suffix and period MS
 
 RuleSet: OriginalCodeSystemDraft(id)
-* ^url = "https://terminology.dhp.uz/fhir/integrations/CodeSystem/{id}"
+* ^url = "https://dhp.uz/fhir/integrations/CodeSystem/{id}"
 * ^status = #draft
 * ^content = #complete
 * ^caseSensitive = true

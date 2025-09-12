@@ -2,7 +2,7 @@ CodeSystem: ConclusionsCS
 Id: conclusions-cs
 Title: "Conclusions translation in Russian and Uzbek"
 Description: "Code system for Conclusions in Uzbekistan healthcare system"
-* ^url = "https://terminology.dhp.uz/fhir/integrations/CodeSystem/conclusions-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/conclusions-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true

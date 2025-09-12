@@ -2,7 +2,7 @@ CodeSystem: CarePlanStatusHomeCS
 Id: care-plan-status-home-cs
 Title: "Care plan status translation in Russian and English"  
 Description: "Care plan status code system for Uzbekistan healthcare system"
-* ^url = "https://terminology.dhp.uz/fhir/integrations/CodeSystem/care-plan-status-home-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/care-plan-status-home-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true
