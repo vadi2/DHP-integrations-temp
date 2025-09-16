@@ -19,6 +19,7 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
 * addresses ^slicing.rules = #open
 
 * addresses contains reason 0..1 and diagnosis 0..1 MS
+* extension contains CarePlanStatusHistory named statusHistory 0..*
 
 * addresses[reason] only CodeableReference
   * ^short = "Reason: Sick leave"
