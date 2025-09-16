@@ -24,12 +24,24 @@ Description: "Прием пациента, во время которого оп
 * serviceProvider ^short = "Определяет организацию."
 
 * reason MS
-* reason only CodeableReference(Observation or Procedure)
 * reason ^short = "Причина встречи."
 
+* reason.use
+* reason.use only CodeableConcept
+* reason.use from https://terminology.dhp.uz/ValueSet/hepat_reason-use
+
+* reason.value MS
+* reason.value only CodeableReference(Condition or Observation or Procedure)
+* reason.value from https://terminology.dhp.uz/ValueSet/hepat_reason-value
+
 * diagnosis MS
-* diagnosis from Encounter.diagnosis
 * diagnosis ^short = "Процесс диагностики."
+
+* diagnosis.condition MS
+* diagnosis.condition only CodeableReference(Condition)
+
+* diagnosis.use MS
+* diagnosis.use only CodeableConcept
 
 * participant MS
 * participant ^short = "Список участников, вовлеченных во встречу
@@ -39,9 +51,9 @@ Description: "Прием пациента, во время которого оп
 * participant.period MS
 * participant.period ^short = "Период времени во время встречи, в котором участвовал участник."
 
-* location MS
-* location from Encounter.location
-* location ^short = "В каком месте это было сделано."
+// * location MS
+// * location from Encounter.location
+// * location ^short = "В каком месте это было сделано."
 
 * partOf MS
 * partOf only Reference(Encounter)
