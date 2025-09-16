@@ -1,15 +1,14 @@
-Profile: ObservationUzCore
+Profile: ObservationHepatitis
 Parent: Observation
-Id: observation-uz-core
+Id: observation-hepatitis
 Title: "Observation (Hepatitis)"
 Description: "Для получения лабораторных результатов используются ПЦР, экспресс-тест, ИФА-тест, а для визуализационной диагностики — УЗИ."
 * ^version = "5.0.0"
 * ^experimental = true
 * ^status = #active
-* ^date = "2025-08-25"
 * ^publisher = "Uzinfocom"
 
-* identifier 1..* MS
+* identifier MS
 * identifier ^short = "Идентификатор"
 
 * subject MS
@@ -20,18 +19,23 @@ Description: "Для получения лабораторных результ�
 * effective[x] only dateTime or Period
 * effective[x] ^short = "Время наблюдения"
 
-
 * value[x] MS
 * value[x] only Attachment
-* value[x] ^short = "Файл или изображение, прикреплённое к наблюдению"
+* value[x] ^short = "Прикрепить файл"
 
 * performer MS
-* performer only Reference(Practitioner or Organization)
-* performer ^short = "Определяет исполнителя (врач или организация)"
+* performer only Reference(Practitioner)
+* performer ^short = "Текст вопроса"
+
+* category MS
+* category only CodeableConcept
+* category ^short = "Категория наблюдения"
+* category from https://terminology.dhp.uz/ValueSet/hepat_category
 
 * interpretation MS
 * interpretation only CodeableConcept
-* interpretation from https://terminology.medcore.uz/ValueSet/TheNameOfTheResearch (required)
+* interpretation from https://terminology.medcore.uz/ValueSet/hepat_interpretation
 * interpretation ^short = "Клиническое значение результата теста."
 
-// I cant add serviceProvider to Observation !!!
+* extension contains ObservationServiceProvider named serviceProvider 1..1 MS
+* extension[serviceProvider] ^short = "Определяет организацию."
