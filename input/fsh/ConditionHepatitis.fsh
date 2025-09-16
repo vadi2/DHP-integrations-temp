@@ -28,7 +28,6 @@ Description: "Представляет собой информацию о диа
 
 * participant MS
 * participant ^short = "Врач, зафиксировавший диагноз."
-// * participant.function = http://terminology.hl7.org/CodeSystem/participant-function#recorder
 * participant.actor only Reference(Practitioner)
 
 
