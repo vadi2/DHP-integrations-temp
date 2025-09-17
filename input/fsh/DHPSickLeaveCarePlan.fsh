@@ -57,6 +57,7 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
 * custodian ^short = "Who is the designated responsible party (name of the head of the department)"
 
 * extension contains CareForRelatedPerson named care-for 0..1
+* extension contains CarePlanStatusHistory named statusHistory 0..*
 
 * supportingInfo 0..* MS
 * supportingInfo only Reference(DHPSickLeaveObservation)
