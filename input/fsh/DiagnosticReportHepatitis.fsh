@@ -36,7 +36,6 @@ Description: "Используется для хранения информац�
 * result ^short = "Результат (связанный с наблюдением)."
 
 * conclusion MS
-* conclusion only string
 * conclusion ^short = "Заключение врача."
 
 * conclusionCode MS
