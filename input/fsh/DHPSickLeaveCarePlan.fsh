@@ -28,12 +28,14 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
 * addresses[diagnosis] only CodeableReference
   * ^short = "ICD-10 diagnosis"
   * ^binding.strength = #required
-  * ^binding.valueSet = http://hl7.org/fhir/sid/icd-10
+  * ^binding.valueSet = $ICD10VS
 
 * status MS
   * ^short = "Status: Sick Leave"
   * ^binding.strength = #required
-* status from CarePlanStatusVS
+* status from CarePlanStatusVS (required)
+
+* status.extension contains UZCarePlanHomeStatusExtension named uzStatus 0..1
 
 * identifier ^slicing.discriminator.type = #pattern
 * identifier ^slicing.discriminator.path = "system"
