@@ -13,7 +13,7 @@ Description: "Представляет собой информацию о диа
 
 * code MS
 * code ^short = "Код заболевания"
-* code from http://hl7.org/fhir/ValueSet/icd-10 (required)
+* code from CodeFor_ICD10VS (required)
 
 * subject MS
 * subject only Reference(Patient)

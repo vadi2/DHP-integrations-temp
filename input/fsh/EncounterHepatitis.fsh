@@ -28,11 +28,9 @@ Description: "Прием пациента, во время которого оп
 
 * reason.use
 * reason.use only CodeableConcept
-* reason.use from https://terminology.dhp.uz/ValueSet/hepat_reason-use
 
 * reason.value MS
 * reason.value only CodeableReference(Condition or Observation or Procedure)
-* reason.value from https://terminology.dhp.uz/ValueSet/hepat_reason-value
 
 * diagnosis MS
 * diagnosis ^short = "Процесс диагностики."
@@ -51,9 +49,9 @@ Description: "Прием пациента, во время которого оп
 * participant.period MS
 * participant.period ^short = "Период времени во время встречи, в котором участвовал участник."
 
-// * location MS
-// * location from Encounter.location
-// * location ^short = "В каком месте это было сделано."
+* location MS
+* location.location only Reference(Location)
+* location.location ^short = "В каком месте это было сделано."
 
 * partOf MS
 * partOf only Reference(Encounter)

@@ -13,7 +13,7 @@ Description: "Используется для описания медицинс�
 
 * code MS
 * code ^short = "Код заболевания"
-* code from http://hl7.org/fhir/ValueSet/icd-10 (required)
+* code from CodeFor_ICD10VS (required)
 
 * subject MS
 * subject only Reference(Patient)
@@ -23,12 +23,8 @@ Description: "Используется для описания медицинс�
 * location only Reference(Location)
 * location ^short = "Место лечения."
 
-* occurrence[x] MS
-* occurrence[x] ^short = "Дата или время лечения"
-
 * reason MS
-* reason ^short = "Состояние или диагноз, который привел к лечению."
-* reason from https://terminology.medcore.uz/ValueSet/hepat_interpretation (preferred)
+* reason ^short = "Причина выполнения процедуры."
 * reason only CodeableReference(Condition)
 
 * performer MS

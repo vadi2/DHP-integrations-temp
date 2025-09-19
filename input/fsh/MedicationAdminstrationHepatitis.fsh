@@ -16,12 +16,12 @@
 // * partOf ^short = "Компонент лечения или посещения"
 
 // * category MS
-// * category from https://terminology.dhp.uz/ValueSet/hepat_accounting-type (required)
+// * category from HepatAccauntingTypeVS (required)
 // * category ^short = "Тип приема лекарств"
 
 // * medication MS
 // * medication only CodeableReference(Medication)
-// * medication from https://terminology.dhp.uz/ValueSet/hepat_nameDrugs (required)
+// * medication from HepatListDrugsVS (required)
 // * medication ^short = "Определяет код введенного препарата"
 
 // * encounter MS

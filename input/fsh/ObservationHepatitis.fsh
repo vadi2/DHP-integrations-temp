@@ -30,11 +30,11 @@ Description: "Для получения лабораторных результ�
 * category MS
 * category only CodeableConcept
 * category ^short = "Категория наблюдения"
-* category from https://terminology.dhp.uz/ValueSet/hepat_category
+* category from HepatCategoryVS (required)
 
 * interpretation MS
 * interpretation only CodeableConcept
-* interpretation from https://terminology.medcore.uz/ValueSet/hepat_interpretation
+* interpretation from HepatitisInterpretationVS (required)
 * interpretation ^short = "Клиническое значение результата теста."
 
 * extension contains ObservationServiceProvider named serviceProvider 1..1 MS

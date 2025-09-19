@@ -13,7 +13,7 @@
 
 // * medication MS
 // * medication only CodeableReference(Medication)
-// * medication from https://terminology.dhp.uz/ValueSet/hepat_listDrugs (required)
+// * medication from HepatListDrugsVS (required)
 // * medication ^short = "Название назначенного лекарства"
 
 // * subject MS
@@ -26,7 +26,7 @@
 
 // * reason MS
 // * reason only CodeableReference(Condition or Observation)
-// * reason from https://terminology.dhp.uz/ValueSet/hepat_accounting-type (required)
+// * reason from HepatAccauntingTypeVS (required)
 // * reason ^short = "По какой причине его назначили (например, гепатит В)"
 
 // * dispenseRequest MS

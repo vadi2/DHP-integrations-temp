@@ -9,11 +9,11 @@ Description: "Используется для хранения информац�
 
 * category MS
 * category only CodeableConcept
-* category from https://terminology.medcore.uz/ValueSet/Research-category (required)
-* category ^short = "Название назначенного лекарства."
+* category from HepatCategoryVS (required)
+* category ^short = "Категория назначенного лекарства."
 
 * code MS
-* code from https://terminology.medcore.uz/ValueSet/The-name-of-the-research (required)
+* code from HepatitisInterpretationVS (required)
 * code ^short = "Название теста (ПЦР, ИФА, УЗИ и т.д.)."
 
 * subject MS
