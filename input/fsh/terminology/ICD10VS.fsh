@@ -1,8 +1,7 @@
 // ValueSet: icd10-vs
 // Title: "ICD-10 full value set"
 // Description: "All ICD-10 codes as a value set"
-// * ^url = "https://dhp.uz/fhir/integrations/ValueSet/icd10-vs"
+// * ^url = "http://hl7.org/fhir/ValueSet/icd-10"
 // * ^status = #active
-// * ^experimental = true
 
 // * include valueset from CarePlanStatusHomeVS

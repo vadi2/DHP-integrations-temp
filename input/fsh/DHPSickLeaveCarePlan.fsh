@@ -28,7 +28,7 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
 * addresses[diagnosis] only CodeableReference
   * ^short = "ICD-10 diagnosis"
   * ^binding.strength = #required
-  * ^binding.valueSet = $ICD10VS
+  * ^binding.valueSet = http://hl7.org/fhir/ValueSet/icd-10
 
 * status MS
   * ^short = "Status: Sick Leave"

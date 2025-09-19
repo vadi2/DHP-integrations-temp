@@ -13,7 +13,7 @@ Description: "Используется для описания медицинс�
 
 * code MS
 * code ^short = "Код заболевания"
-* code from https://terminology.medcore.uz/ValueSet/ICD-10 (required)
+* code from http://hl7.org/fhir/ValueSet/icd-10 (required)
 
 * subject MS
 * subject only Reference(Patient)

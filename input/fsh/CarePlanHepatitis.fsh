@@ -21,7 +21,7 @@ Description: "План медицинского обслуживания для 
 
 * category MS
 * category only CodeableConcept
-* category from https://terminology.medcore.uz/ValueSet/ICD-10 (required)
+* category from http://hl7.org/fhir/ValueSet/icd-10 (required)
 * category ^short = "Определяет код характера лечения"
 
 * custodian MS

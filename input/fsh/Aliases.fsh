@@ -4,4 +4,4 @@ Alias: $valueset-supplement = http://hl7.org/fhir/StructureDefinition/valueset-s
 Alias: $care-plan-status-home-cs = https://terminology.dhp.uz/CodeSystem/care-plan-status-home-cs
 Alias: $sct = http://snomed.info/sct
 Alias: $encounter-CareplanHome = https://terminology.dhp.uz/CodeSystem/encounter-class-for-careplan-home-cs
-Alias: $ICD10VS = https://terminology.dhp.uz/ValueSet/icd-10
+Alias: $ICD10VS = http://hl7.org/fhir/ValueSet/icd-10
