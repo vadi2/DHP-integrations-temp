@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="CodeSystem-local-cirrhosis-etiology-cs" original="Resource CodeSystem-local-cirrhosis-etiology-cs" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-local-cirrhosis-etiology-cs" resname="CodeSystem.name">
+             <notes>
+               <note id="n1">A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.</note>
+             </notes>
+        <source>LocalCirrhosisEtiologyCS</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-local-cirrhosis-etiology-cs" resname="CodeSystem.title">
+             <notes>
+               <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
+             </notes>
+        <source>Local extensions for cirrhosis etiology</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-local-cirrhosis-etiology-cs" resname="CodeSystem.publisher">
+             <notes>
+               <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-local-cirrhosis-etiology-cs" resname="ContactDetail.name">
+             <notes>
+               <note id="n1">The name of an individual to contact.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-local-cirrhosis-etiology-cs" resname="CodeSystem.description">
+             <notes>
+               <note id="n1">A free text natural language description of the code system from a consumer's perspective.</note>
+             </notes>
+        <source>Locally defined sub-codes for cirrhosis etiology (not present in official ICD-10)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-local-cirrhosis-etiology-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>HBV etiologiyasiga ega jigar sirrozi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-local-cirrhosis-etiology-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Цирроз HBV этиология</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-local-cirrhosis-etiology-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Cirrhosis of the liver due to hepatitis B virus (HBV) etiology</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-local-cirrhosis-etiology-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>HBV+HDV etiologiyasiga ega jigar sirrozi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-local-cirrhosis-etiology-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Цирроз HBV+HDV этиологии</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-local-cirrhosis-etiology-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Cirrhosis of the liver due to HBV and HDV etiology</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-local-cirrhosis-etiology-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>HCV etiologiyasiga ega jigar sirrozi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-local-cirrhosis-etiology-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Цирроз HCV этиология</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-local-cirrhosis-etiology-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Cirrhosis of the liver due to HCV etiology</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

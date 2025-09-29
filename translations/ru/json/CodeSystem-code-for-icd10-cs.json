@@ -1,0 +1,329 @@
+{
+  "id" : "CodeSystem-code-for-icd10-cs",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "CodeSystem.name",
+          "context" : "A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "CodeFor_ICD10CS",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.title",
+          "context" : "A short, descriptive, user-friendly title for the code system.",
+          "source" : "ICD-10 translations in Uzbek and Russian",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the code system.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.description",
+          "context" : "A free text natural language description of the code system from a consumer's perspective.",
+          "source" : "Supplement to ICD-10 with Uzbek and Russian translations",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Острый гепатит A",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Oq virusli gepatit A",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Острый гепатит A с гепатальной комой",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Oq virusli gepatit A gepatal komaga ega",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Острый гепатит A без гепатальной комы",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Oq virusli gepatit A gepatal komasiz",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Острый гепатит B",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Oq virusli gepatit B",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Острый гепатит B с дельта-агентом (коинфекция) и гепатальной комой",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Oq virusli gepatit B delta-agent bilan (coinfektsiya) va gepatal koma bilan",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Острый гепатит B с дельта-агентом (коинфекция) без гепатальной комы",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Oq virusli gepatit B delta-agent bilan (coinfektsiya) gepatal komasiz",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Острый гепатит B без дельта-агента с гепатальной комой",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Oq virusli gepatit B delta-agentisiz va gepatal koma bilan",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Острый гепатит B без дельта-агента и без гепатальной комы",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Oq virusli gepatit B delta-agentisiz va gepatal komasiz",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Другие острые вирусные гепатиты",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Boshqa o‘tkir virusli gepatitlar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Острый дельта-(гепатит D) инфекция (суперинфекция хронического носителя гепатита B)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Oq delta-(gepatit D) infektsiya (B gepatiti surunkali tashuvchisining superinfektsiyasi)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Острый гепатит C",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Oq virusli gepatit C",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Острый гепатит E",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Oq virusli gepatit E",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Другие уточненные острые вирусные гепатиты",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Boshqa aniqlangan o‘tkir virusli gepatitlar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Хронические вирусные гепатиты",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Surunkali virusli gepatitlar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Хронический вирусный гепатит B с дельта-агентом",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Surunkali virusli gepatit B delta-agent bilan",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Хронический вирусный гепатит B без дельта-агента",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Surunkali virusli gepatit B delta-agentisiz",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Хронический вирусный гепатит C",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Surunkali virusli gepatit C",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Другие хронические вирусные гепатиты",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Boshqa surunkali virusli gepatitlar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Хронический вирусный гепатит неуточненный",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Aniqlanmagan surunkali virusli gepatit",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Неуточненный вирусный гепатит",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Aniqlanmagan virusli gepatit",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Неуточненный вирусный гепатит с гепатальной комой",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Aniqlanmagan virusli gepatit gepatal koma bilan",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Неуточненный вирусный гепатит без гепатальной комы",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Aniqlanmagan virusli gepatit gepatal komasiz",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Цирроз печени",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Jigar sirrozi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Другой и неуточненный цирроз печени",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Boshqa va aniqlanmagan jigar sirrozi",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

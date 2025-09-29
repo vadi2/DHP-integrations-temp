@@ -1,0 +1,176 @@
+
+# A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: CodeSystem.name
+msgid "SickLeaveComponentCS"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the code system.
+#: CodeSystem.title
+msgid "Sick Leave Component CodeSystem"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the code system.
+#: CodeSystem.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the code system from a consumer's perspective.
+#: CodeSystem.description
+msgid "CodeSystem for sick leave observation components"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Shahar tegishligi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Городская принадлежность"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "City affiliation"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Hodisa joyi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Место происшествия"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Place of incident"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Boshqa shahardan kelgan bemorga KV berish"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Выдача ЛН пациенту из другого города"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Issuance of sick leave to a patient from another city"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yuqumli kasallikka chalingan bemor bilan aloqa haqida ma'lumot"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Информация о контакте с больным инфекционным заболеванием"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Information about contact with an infectious disease patient"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qarindoshlik darajasi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Степень родства"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Degree of kinship"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Rejim"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Режим"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Regime/Mode"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Rejim buzilishi haqida ma'lumotlar"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Данные о нарушении режима"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Data on regime violation"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Vaqtincha boshqa ishga o'tish"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Временно перевестись на другую работу"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Temporarily transfer to another job"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Xulosalar"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Заключения"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Conclusions"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tekshirish sanasi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Дата проверки"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Date of verification"
+msgstr ""
+

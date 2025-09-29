@@ -1,0 +1,149 @@
+{
+  "id" : "CodeSystem-conclusions-cs",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "CodeSystem.name",
+          "context" : "A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "ConclusionsCS",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.title",
+          "context" : "A short, descriptive, user-friendly title for the code system.",
+          "source" : "Conclusions translation in Russian and Uzbek",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the code system.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.description",
+          "context" : "A free text natural language description of the code system from a consumer's perspective.",
+          "source" : "Code system for Conclusions in Uzbekistan healthcare system",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Birinchi marta yoki qaytadan nogironligi bo‘lgan shaxs sifatida aniqlangan",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Identified as a person with disability for the first time or repeatedly",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Первый раз или повторно идентифицирован как человек с инвалидностью",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Nogironligi bo‘lgan shaxs sifatida aniqlangan (I guruh)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Identified as a person with disability (Group I)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Идентифицирован как человек с инвалидностью (Группа I)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Nogironligi bo‘lgan shaxs sifatida aniqlangan (II guruh)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Identified as a person with disability (Group II)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Идентифицирован как человек с инвалидностью (Группа II)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Nogironligi bo‘lgan shaxs sifatida aniqlangan (III guruh)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Identified as a person with disability (Group III)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Идентифицирован как человек с инвалидностью (Группа III)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Nogironligi bo‘lgan shaxs sifatida aniqlanmagan",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Not identified as a person with disability",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Не идентифицирован как человек с инвалидностью",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Mehnatga layoqatsizlik varaqasi uzaytirildi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sick leave certificate extended",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Листок нетрудоспособности продлен",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

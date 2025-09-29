@@ -1,0 +1,379 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="CodeSystem-code-for-icd10-cs" original="Resource CodeSystem-code-for-icd10-cs" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.name">
+             <notes>
+               <note id="n1">A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.</note>
+             </notes>
+        <source>CodeFor_ICD10CS</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.title">
+             <notes>
+               <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
+             </notes>
+        <source>ICD-10 translations in Uzbek and Russian</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.publisher">
+             <notes>
+               <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="ContactDetail.name">
+             <notes>
+               <note id="n1">The name of an individual to contact.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.description">
+             <notes>
+               <note id="n1">A free text natural language description of the code system from a consumer's perspective.</note>
+             </notes>
+        <source>Supplement to ICD-10 with Uzbek and Russian translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Острый гепатит A</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Oq virusli gepatit A</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Острый гепатит A с гепатальной комой</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Oq virusli gepatit A gepatal komaga ega</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Острый гепатит A без гепатальной комы</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Oq virusli gepatit A gepatal komasiz</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Острый гепатит B</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Oq virusli gepatit B</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Острый гепатит B с дельта-агентом (коинфекция) и гепатальной комой</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Oq virusli gepatit B delta-agent bilan (coinfektsiya) va gepatal koma bilan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Острый гепатит B с дельта-агентом (коинфекция) без гепатальной комы</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Oq virusli gepatit B delta-agent bilan (coinfektsiya) gepatal komasiz</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Острый гепатит B без дельта-агента с гепатальной комой</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Oq virusli gepatit B delta-agentisiz va gepatal koma bilan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Острый гепатит B без дельта-агента и без гепатальной комы</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Oq virusli gepatit B delta-agentisiz va gepatal komasiz</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Другие острые вирусные гепатиты</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Boshqa o‘tkir virusli gepatitlar</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Острый дельта-(гепатит D) инфекция (суперинфекция хронического носителя гепатита B)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Oq delta-(gepatit D) infektsiya (B gepatiti surunkali tashuvchisining superinfektsiyasi)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Острый гепатит C</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Oq virusli gepatit C</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Острый гепатит E</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Oq virusli gepatit E</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Другие уточненные острые вирусные гепатиты</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Boshqa aniqlangan o‘tkir virusli gepatitlar</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Хронические вирусные гепатиты</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Surunkali virusli gepatitlar</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Хронический вирусный гепатит B с дельта-агентом</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Surunkali virusli gepatit B delta-agent bilan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Хронический вирусный гепатит B без дельта-агента</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Surunkali virusli gepatit B delta-agentisiz</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Хронический вирусный гепатит C</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Surunkali virusli gepatit C</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Другие хронические вирусные гепатиты</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Boshqa surunkali virusli gepatitlar</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Хронический вирусный гепатит неуточненный</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Aniqlanmagan surunkali virusli gepatit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Неуточненный вирусный гепатит</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Aniqlanmagan virusli gepatit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Неуточненный вирусный гепатит с гепатальной комой</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Aniqlanmagan virusli gepatit gepatal koma bilan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Неуточненный вирусный гепатит без гепатальной комы</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Aniqlanmagan virusli gepatit gepatal komasiz</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Цирроз печени</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Jigar sirrozi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Другой и неуточненный цирроз печени</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-code-for-icd10-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Boshqa va aniqlanmagan jigar sirrozi</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

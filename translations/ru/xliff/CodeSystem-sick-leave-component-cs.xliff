@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="CodeSystem-sick-leave-component-cs" original="Resource CodeSystem-sick-leave-component-cs" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.name">
+             <notes>
+               <note id="n1">A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.</note>
+             </notes>
+        <source>SickLeaveComponentCS</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.title">
+             <notes>
+               <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
+             </notes>
+        <source>Sick Leave Component CodeSystem</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.publisher">
+             <notes>
+               <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="ContactDetail.name">
+             <notes>
+               <note id="n1">The name of an individual to contact.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.description">
+             <notes>
+               <note id="n1">A free text natural language description of the code system from a consumer's perspective.</note>
+             </notes>
+        <source>CodeSystem for sick leave observation components</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Shahar tegishligi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Городская принадлежность</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>City affiliation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Hodisa joyi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Место происшествия</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Place of incident</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Boshqa shahardan kelgan bemorga KV berish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Выдача ЛН пациенту из другого города</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Issuance of sick leave to a patient from another city</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Yuqumli kasallikka chalingan bemor bilan aloqa haqida ma'lumot</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Информация о контакте с больным инфекционным заболеванием</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Information about contact with an infectious disease patient</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Qarindoshlik darajasi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Степень родства</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Degree of kinship</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Rejim</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Режим</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Regime/Mode</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Rejim buzilishi haqida ma'lumotlar</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Данные о нарушении режима</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Data on regime violation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Vaqtincha boshqa ishga o'tish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Временно перевестись на другую работу</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Temporarily transfer to another job</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Xulosalar</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Заключения</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Conclusions</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Tekshirish sanasi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Дата проверки</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-sick-leave-component-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Date of verification</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

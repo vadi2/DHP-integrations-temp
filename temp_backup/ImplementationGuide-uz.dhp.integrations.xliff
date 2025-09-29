@@ -1,0 +1,799 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="ImplementationGuide-uz.dhp.integrations" original="Resource ImplementationGuide-uz.dhp.integrations" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.name">
+             <notes>
+               <note id="n1">A natural language name identifying the implementation guide. This name should be usable as an identifier for the module by machine processing applications such as code generation.</note>
+             </notes>
+        <source>DHPintegrations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.title">
+             <notes>
+               <note id="n1">A short, descriptive, user-friendly title for the implementation guide.</note>
+             </notes>
+        <source>Uzbekistan Digital Health Platform - Integrations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.publisher">
+             <notes>
+               <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the implementation guide.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ContactDetail.name">
+             <notes>
+               <note id="n1">The name of an individual to contact.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.description">
+             <notes>
+               <note id="n1">A free text natural language description of the implementation guide from a consumer's perspective.</note>
+             </notes>
+        <source>Profiles for DHP integrations with systems in Uzbekistan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Care For Related Person Extension</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Information about the related person for caring for the child/family member</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Care plan belonging translation in Russian and English</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Care plan belonging code system for Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Care Plan Belonging translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for Care Plan belonging in Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Care plan reason translation in Russian and English</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Care plan reason code system for Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Care Plan Reason translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for Care Plan reasons in Uzbekistan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Care plan status translation in Russian and English</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Care plan status code system for Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Care plan status translations (HL7)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for CarePlan.status HL7 base codes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>CarePlan Encounter Class (Uzbekistan only)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Local Encounter Class codes for Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>CarePlan Hepatitis</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>План медицинского обслуживания для пациента (гепатит)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>CarePlan Status History</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Codes for ICD10 translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for ICD10 with Uzbek translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Conclusions translation in Russian and Uzbek</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for Conclusions in Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Code system for Conclusions in Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Condition (Hepatitis)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Представляет собой информацию о диагнозе, симптомах или истории болезни пациента.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Death Encounter Profile</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Profile for registration of patient deaths in the healthcare system of Uzbekistan.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Death Place Extension</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Extension to capture the place of death, including type, location, and service provider.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>DHP Sick Leave CarePlan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Profile for documenting care plans in the healthcare system of Uzbekistan.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>DiagnosticReport (Hepatitis)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Используется для хранения информации о результатах лабораторных исследований, медицинских изображений (УЗИ, МРТ) или патологических исследований.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Encounter (Hepatitis)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Прием пациента, во время которого определяется состояние пациента и тип его лечения.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Encounter Class for CarePlan translation in Russian and Uzbek</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Supplement to v3-ActCode with translations for Uzbekistan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Encounter Class for CarePlan translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>ValueSet combining HL7 ActCode supplement and Uzbekistan local codes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>EpisodeOfCare Hepatitis</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Ресурс, представляющий процесс лечения пациента в больнице или медицинском учреждении.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Hepatitis Accounting Type Code System</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Directory of Hepatitis Accounting Types</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Hepatitis Accounting Type Value Set</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for Accounting Types related to Hepatitis</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Hepatitis Category Value Set</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for Categories related to Hepatitis</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Hepatitis Interpretation Code System</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Directory of Hepatitis Interpretation Categories</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Directory of Hepatitis Interpretations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Hepatitis Interpretation Value Set</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for interpretations related to Hepatitis</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Hepatitis List of Drugs</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Drugs used in the treatment of Hepatitis</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Hepatitis List of Drugs Value Set</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for Drugs used in the treatment of Hepatitis</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>ICD-10 translations in Uzbek and Russian</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Supplement to ICD-10 with Uzbek and Russian translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Local extensions for cirrhosis etiology</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Locally defined sub-codes for cirrhosis etiology (not present in official ICD-10)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>MNN Code System</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Directory of International Nonproprietary Names of Medicines</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>MNN Value Set</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for MNN (Международное непатентованное наименование) codes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Observation (Hepatitis)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Для получения лабораторных результатов используются ПЦР, экспресс-тест, ИФА-тест, а для визуализационной диагностики — УЗИ.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Observation Service Provider</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Организация, предоставившая услугу для Observation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Place of Incident translation in Russian and English</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for Place of Incident in Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Code system for Place of Incident in Uzbekistan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Procedure (Hepatitis)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Используется для описания медицинских процедур, проводимых над пациентом, диагностических процедур.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Questionnaire (Hepatitis)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Структурированный набор вопросов.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>QuestionnaireResponse (Hepatitis)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Структурированный набор вопросов и ответов на них.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Regimen Violation code system for Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Code system for Regimen Violation in Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Regimen Violation translation in Russian and Uzbek</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for Regimen Violation in Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Relation Degree translation in Russian and English</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for Relation Degree in Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Code system for Relation Degree in Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Sick Leave Activity Request</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Request for Sick Leave Activity in Uzbekistan healthcare system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Sick Leave Category translation in Russian and English</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for Sick Leave categories in Uzbekistan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Code system for Sick Leave categories in Uzbekistan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Sick Leave Component CodeSystem</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>CodeSystem for sick leave observation components</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Sick Leave Component ValueSet</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>ValueSet containing all sick leave component codes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Sick Leave Observation Profile</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Profile for sick leave observations with structured components</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Sick Leave Related Person</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Profile for related persons in sick leave cases</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Uzbekistan CarePlan additional statuses</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Extension for national CarePlan status codes (Uzbekistan)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Uzbekistan CarePlan Home Status codes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Value set for national (Uzbekistan) CarePlan home statuses</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.page.source[x]">
+             <notes>
+               <note id="n1">Indicates the URL or the actual content to provide for the page.</note>
+             </notes>
+        <source>toc.html</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.page.title">
+             <notes>
+               <note id="n1">A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.</note>
+             </notes>
+        <source>Table of Contents</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.page.source[x]">
+             <notes>
+               <note id="n1">Indicates the URL or the actual content to provide for the page.</note>
+             </notes>
+        <source>index.html</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.page.title">
+             <notes>
+               <note id="n1">A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.</note>
+             </notes>
+        <source>Home</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.page.source[x]">
+             <notes>
+               <note id="n1">Indicates the URL or the actual content to provide for the page.</note>
+             </notes>
+        <source>changelog.html</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.integrations" resname="ImplementationGuide.definition.page.title">
+             <notes>
+               <note id="n1">A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.</note>
+             </notes>
+        <source>Changelog</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

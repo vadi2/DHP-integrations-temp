@@ -1,0 +1,116 @@
+
+# A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: CodeSystem.name
+msgid "ConclusionsCS"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the code system.
+#: CodeSystem.title
+msgid "Conclusions translation in Russian and Uzbek"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the code system.
+#: CodeSystem.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the code system from a consumer's perspective.
+#: CodeSystem.description
+msgid "Code system for Conclusions in Uzbekistan healthcare system"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Birinchi marta yoki qaytadan nogironligi bo‘lgan shaxs sifatida aniqlangan"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Identified as a person with disability for the first time or repeatedly"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Первый раз или повторно идентифицирован как человек с инвалидностью"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Nogironligi bo‘lgan shaxs sifatida aniqlangan (I guruh)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Identified as a person with disability (Group I)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Идентифицирован как человек с инвалидностью (Группа I)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Nogironligi bo‘lgan shaxs sifatida aniqlangan (II guruh)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Identified as a person with disability (Group II)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Идентифицирован как человек с инвалидностью (Группа II)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Nogironligi bo‘lgan shaxs sifatida aniqlangan (III guruh)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Identified as a person with disability (Group III)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Идентифицирован как человек с инвалидностью (Группа III)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Nogironligi bo‘lgan shaxs sifatida aniqlanmagan"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Not identified as a person with disability"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Не идентифицирован как человек с инвалидностью"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Mehnatga layoqatsizlik varaqasi uzaytirildi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Sick leave certificate extended"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Листок нетрудоспособности продлен"
+msgstr ""
+

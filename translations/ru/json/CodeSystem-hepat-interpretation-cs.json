@@ -1,0 +1,431 @@
+{
+  "id" : "CodeSystem-hepat-interpretation-cs",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "CodeSystem.name",
+          "context" : "A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "HepatitisInterpretationCS",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.title",
+          "context" : "A short, descriptive, user-friendly title for the code system.",
+          "source" : "Hepatitis Interpretation Code System",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the code system.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.description",
+          "context" : "A free text natural language description of the code system from a consumer's perspective.",
+          "source" : "Directory of Hepatitis Interpretations",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit B virusining DNK sini sifatli aniqlash uchun PCR usuli bilan laboratoriya tahlili",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ПЦР определение ДНК вирусного гепатита В, качественный метод",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the PCR method for the qualitative determination of hepatitis B virus DNA.",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit D virusining RNK sini miqdoriy aniqlash uchun PCR usuli bilan laboratoriya tahlili",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ПЦР Определение РНК вирусного гепатита Д, количественный метод",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the PCR method for the quantitative determination of hepatitis D virus RNA.",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit C virusining RNK sini miqdoriy aniqlash uchun PCR usuli bilan laboratoriya tahlili",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ПЦР определение РНК вирусного гепатита С, количественный метод",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the PCR method for the quantitative determination of hepatitis C virus RNA.",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit C virusining genotipini aniqlash uchun PCR usuli bilan laboratoriya tahlili (genotiplash)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ПЦР определение генотипа вирусного гепатита С, генотипирование",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the PCR method for the determination of the genotype of the hepatitis C virus, genotyping.",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit B virusining DNK sini miqdoriy aniqlash uchun PCR usuli bilan laboratoriya tahlili",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ПЦР определение ДНК вирусного гепатита В, количественный метод",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the PCR method for the quantitative determination of hepatitis B virus DNA.",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit D virusining RNK sini sifatli aniqlash uchun PCR usuli bilan laboratoriya tahlili",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ПЦР Определение РНК вирусного гепатита Д, качественный метод",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the PCR method for the qualitative detection of hepatitis D virus RNA.",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit C virusiga qarshi antitanalarni aniqlash uchun express usul bilan laboratoriya tahlili",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование экспресс методом, определение антител к вирусному гепатиту С",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using an express method for the determination of antibodies to hepatitis C virus.",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "HBs sirt antigenini aniqlash uchun express usul bilan laboratoriya tahlili",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование экспресс методом, определение поверхностного антигена HBs",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using an express method for the determination of the HBs surface antigen.",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "HBsAg sirt antigeniga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili (anti-HBsAg)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ИФА, определение антител к поверхностному антигену- анти HBsAg",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the enzyme immunoassay method for the determination of antibodies to the surface antigen – anti-HBsAg",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit B virusining sirt antigenini aniqlash uchun IFT usuli bilan laboratoriya tahlili (HBsAg)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ИФА, определение поверхностного антигена HBs вирусного гепатита B (HBsAg)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the enzyme immunoassay method for the determination of the hepatitis B virus surface antigen (HBsAg).",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit C virusiga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili (jami)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ИФА, определение антител к вирусному гепатиту C (total)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the enzyme immunoassay method for the determination of antibodies to the hepatitis C virus (total).",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit B virusining HBc antigeniga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ИФА, определение антител к HBcor антигену, вирусного гепатита B",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the enzyme immunoassay method for the determination of antibodies to the HBc antigen of hepatitis B virus.",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit B virusining HBe antigenini aniqlash uchun IFT usuli bilan laboratoriya tahlili",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ИФА, определение HBe антигена, вирусного гепатита B",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the enzyme immunoassay method for the determination of the HBe antigen of hepatitis B virus.",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit A virusiga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili (anti-HAV)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ИФА, определение антител к вирусному гепатиту А (anti-HAV)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the enzyme immunoassay method for the determination of antibodies to hepatitis A virus (anti-HAV).",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit B virusining HBe antigeniga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ИФА, определение антител к HBe антигену, вирусного гепатита B",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the enzyme immunoassay method for the determination of antibodies to the HBe antigen of hepatitis B virus.",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit D virusiga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili (jami)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ИФА, определение антител к вирусному гепатиту D (total)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the enzyme immunoassay method for the determination of antibodies to the hepatitis D virus.",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Alfa-fetoprotein",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Альфа-фетопротеин",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Alpha-fetoprotein",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "HBs sirt antigenini aniqlash uchun express usuli bilan laboratoriya tahlili",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "HBs antigenini miqdoriy aniqlash uchun IFA usuli bilan laboratoriya tahlili",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ИФА, количественное определение HBs антигена",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the ELISA method for the quantitative determination of the HBs antigen",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit C virusining RNK sini sifatli aniqlash uchun PCR usuli bilan laboratoriya tahlili",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лабораторное исследование методом ПЦР определение РНК вирусного гепатита С, качественный метод",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laboratory test using the PCR method for the qualitative detection of hepatitis C virus RNA.",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gepatit C virusiga qarshi antitanalarni aniqlash uchun express usuli bilan laboratoriya tahlili",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Siroz belgilari",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Признаки цирроза",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Signs of cirrhosis",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Jigar shakllanishlari belgilari",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Признаки образований в печени",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Signs of liver masses",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}
