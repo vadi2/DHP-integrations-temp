@@ -1,6 +1,6 @@
 CodeSystem: CarePlanBelongingCS
 Id: care-plan-belonging-cs
-Title: "Care plan belonging translation in Russian and English"  
+Title: "Care plan belonging translation in Russian and English ValueSet"  
 Description: "Care plan belonging code system for Uzbekistan healthcare system"
 * ^url = "https://terminology.dhp.uz/CodeSystem/care-plan-belonging-cs"
 * ^status = #active

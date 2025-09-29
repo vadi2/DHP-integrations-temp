@@ -1,6 +1,6 @@
 CodeSystem: PlaceOfIncidentCS
 Id: place-of-incident-cs
-Title: "Place of Incident translation in Russian and English"
+Title: "Place of incident CodeSystem"
 Description: "Code system for Place of Incident in Uzbekistan"
 * ^url = "https://terminology.dhp.uz/CodeSystem/place-of-incident-cs"
 * ^status = #active

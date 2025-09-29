@@ -1,6 +1,6 @@
 CodeSystem: RelationDegreeCS
 Id: relation-degree-cs
-Title: "Relation Degree translation in Russian and English"
+Title: "Relation Degree translation in Russian and English ValueSet"
 Description: "Code system for Relation Degree in Uzbekistan healthcare system"
 * ^url = "https://terminology.dhp.uz/CodeSystem/relation-degree-cs"
 * ^status = #active

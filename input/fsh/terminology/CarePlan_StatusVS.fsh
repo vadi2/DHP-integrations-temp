@@ -1,6 +1,6 @@
 ValueSet: CarePlanStatusVS
 Id: care-plan-status-vs
-Title: "Care plan status translations"
+Title: "Care plan status translations ValueSet"
 Description: "Value set for care plan status translations"
 * ^url = "https://terminology.dhp.uz/ValueSet/care-plan-status-vs"
 * ^status = #active
