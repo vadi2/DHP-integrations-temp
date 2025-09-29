@@ -1,6 +1,7 @@
 Extension: CarePlanStatusHistory
 Id: careplan-status-history
-Title: "CarePlan Status History"
+Title: "CarePlan status history"
+Description: "Past list of status codes (the current status may be included to cover the start date of the status)"
 * ^context.type = #element
 * ^context.expression = "CarePlan"
 * extension contains
