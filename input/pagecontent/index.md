@@ -1,8 +1,8 @@
 # DHP-integrations
 
-{% include dependency-table-en.xhtml %} -->
+{% include dependency-table.xhtml %} -->
 
-{% include ip-statements-en.xhtml %} -->
+{% include ip-statements.xhtml %} -->
 
-{% include globals-table-en.xhtml %} -->
+{% include globals-table.xhtml %} -->
 
