@@ -26,10 +26,8 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
   * ^binding.strength = #required
 * addresses[reason] from CarePlanReasonVS
 
-* addresses[diagnosis] only CodeableReference
+* addresses[diagnosis] from $icd-10-vs (required)
   * ^short = "ICD-10 diagnosis"
-  * ^binding.strength = #required
-  * ^binding.valueSet = http://hl7.org/fhir/sid/icd-10
 
 * status MS
   * ^short = "Status: Sick Leave"
@@ -66,6 +64,6 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
 * activity MS
 * activity ^short = "Activities planned as part of the sick leave care plan"
 
-* activity.plannedActivityReference MS
-* activity.plannedActivityReference only Reference(DHPSickLeaveActivityRequest)
+// * activity.plannedActivityReference MS
+// * activity.plannedActivityReference only Reference(DHPSickLeaveActivityRequest)
 
