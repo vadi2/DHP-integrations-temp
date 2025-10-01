@@ -6,4 +6,4 @@ Description: "Value set for Sick Leave categories in Uzbekistan"
 * ^experimental = true
 * ^language = #uz
 
-* include codes from system sick-leave-category-cs
+* include codes from system SickLeaveCategoryCS

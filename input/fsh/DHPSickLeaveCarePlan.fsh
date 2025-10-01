@@ -3,12 +3,16 @@ Parent: CarePlan
 Id: dhp-sick-leave-careplan
 Title: "DHP Sick Leave CarePlan"
 Description: "Profile for documenting care plans in the healthcare system of Uzbekistan."
-* ^url = "https://dhp.uz/fhir/integrations/StructureDefinition/dhp-sick-leave-careplan"
 * ^experimental = true
 * ^status = #draft
 
 * category MS
-* category ^short = "Category CarePlan"
+* category ^slicing.discriminator.type = #value
+* category ^slicing.discriminator.path = "coding.system"
+* category ^slicing.rules = #open
+* category contains sickLeave 1..* MS
+* category[sickLeave] = SickLeaveCategoryCS#mserv-0005-00001
+* category[sickLeave] ^short = "Category of the CarePlan"
 
 * subject MS
 * subject only Reference(Patient or Group)
@@ -34,7 +38,7 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
   * ^binding.strength = #required
 * status from CarePlanStatusVS
 
-* identifier ^slicing.discriminator.type = #pattern
+* identifier ^slicing.discriminator.type = #value
 * identifier ^slicing.discriminator.path = "system"
 * identifier ^slicing.rules = #open
 * identifier contains series 0..1 MS
