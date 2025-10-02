@@ -15,7 +15,7 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
 * category[sickLeave] ^short = "Category of the CarePlan"
 
 * subject MS
-* subject only Reference(Patient or Group)
+* subject only Reference(UZCorePatientPatient)
 * subject ^short = "For whom is the Certificate of Incapacity for Work opened"
 
 * addresses ^slicing.discriminator.type = #value
@@ -25,10 +25,8 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
 * addresses contains reason 0..1 and diagnosis 0..1 MS
 * extension contains CarePlanStatusHistory named statusHistory 0..*
 
-* addresses[reason] only CodeableReference
-  * ^short = "Reason: Sick leave"
-  * ^binding.strength = #required
-* addresses[reason] from CarePlanReasonVS
+* addresses[reason] from CarePlanReasonVS (required)
+  * ^short = "Reason for the sick leave"
 
 * addresses[diagnosis] from $icd-10-vs (required)
   * ^short = "ICD-10 diagnosis"
