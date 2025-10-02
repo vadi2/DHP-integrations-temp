@@ -15,7 +15,7 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
 * category[sickLeave] ^short = "Category of the CarePlan"
 
 * subject MS
-* subject only Reference(UZCorePatientPatient)
+* subject only Reference(UZCorePatient)
 * subject ^short = "For whom is the Certificate of Incapacity for Work opened"
 
 * addresses ^slicing.discriminator.type = #value
