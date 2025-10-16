@@ -1,6 +1,6 @@
 CodeSystem: SickLeaveCategoryCS
 Id: sick-leave-category-cs
-Title: "Sick Leave Category translation in Russian and English"  
+Title: "Sick Leave Category CodeSystem"  
 Description: "Code system for Sick Leave categories in Uzbekistan"
 * ^url = "https://terminology.dhp.uz/CodeSystem/sick-leave-category-cs"
 * ^status = #active

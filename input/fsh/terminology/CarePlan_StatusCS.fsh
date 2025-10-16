@@ -1,6 +1,6 @@
 CodeSystem: CarePlanStatusCS
 Id: care-plan-status-cs
-Title: "Sick Leave Category translation in Russian and English"  
+Title: "Careplan Status CodeSystem"  
 Description: "Code system for Sick Leave categories in Uzbekistan"
 * ^url = "https://terminology.dhp.uz/CodeSystem/care-plan-status-cs"
 * ^experimental = true

@@ -1,6 +1,6 @@
 CodeSystem: HepatCategoryCS // hepat-category
 Id: hepat-category-cs
-Title: "Hepatitis Interpretation Code System"  
+Title: "Hepatitis Category Code System"  
 Description: "Directory of Hepatitis Interpretation Categories"
 * ^url = "https://terminology.dhp.uz/CodeSystem/hepat-category-cs"
 * ^status = #active
