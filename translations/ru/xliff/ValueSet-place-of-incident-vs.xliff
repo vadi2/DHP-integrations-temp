@@ -14,7 +14,7 @@
              <notes>
                <note id="n1">A short, descriptive, user-friendly title for the value set.</note>
              </notes>
-        <source>Place of Incident translation in Russian and English</source>
+        <source>Place of Incident translation ValueSet</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ValueSet-place-of-incident-vs" resname="ValueSet.publisher">

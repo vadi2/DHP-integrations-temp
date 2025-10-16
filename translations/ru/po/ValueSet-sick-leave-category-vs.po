@@ -6,7 +6,7 @@ msgstr ""
 
 # A short, descriptive, user-friendly title for the value set.
 #: ValueSet.title
-msgid "Sick Leave Category translation in Russian and English"
+msgid "Sick Leave Category ValueSet"
 msgstr ""
 
 # The name of the organization or individual responsible for the release and ongoing maintenance of the value set.

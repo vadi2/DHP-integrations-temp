@@ -14,7 +14,7 @@
         {
           "id" : "CodeSystem.title",
           "context" : "A short, descriptive, user-friendly title for the code system.",
-          "source" : "Place of Incident translation in Russian and English",
+          "source" : "Place of Incident translation CodeSystem",
           "target" : null
         },
         {

@@ -14,7 +14,7 @@
              <notes>
                <note id="n1">A short, descriptive, user-friendly title for the value set.</note>
              </notes>
-        <source>Relation Degree translation in Russian and English</source>
+        <source>Relation Degree translation ValueSet</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ValueSet-relation-degree-vs" resname="ValueSet.publisher">

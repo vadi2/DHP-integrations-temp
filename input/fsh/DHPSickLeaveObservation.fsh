@@ -82,3 +82,61 @@ Description: "Profile for sick leave observations with structured components"
 * component[verificationDate].code = SickLeaveComponentCS#emdoc-0009-0010
 * component[verificationDate].value[x] only dateTime
 * component[verificationDate].value[x] 1..1
+
+Instance: InstanceObservationSickLeave
+InstanceOf: DHPSickLeaveObservation
+Title: "Example - Sick Leave Observation"
+Description: "Observation representing data related to sick leave CarePlan"
+Usage: #example
+
+// majburiy subject
+* subject = Reference(Patient/example)
+
+// bog‘lanish
+* basedOn = Reference(CarePlan/InstanceSickLeave)
+
+// asosiy kod
+* code.coding.system = "http://snomed.info/sct"
+* code.coding.code = #224459001
+* code.coding.display = "On sick leave from work"
+
+// qiymat
+* valueCodeableConcept.coding.system = "http://snomed.info/sct"
+* valueCodeableConcept.coding.code = #224459001
+* valueCodeableConcept.coding.display = "On sick leave from work"
+
+// komponentlar
+* component[+].code.coding.system = "https://dhp.uz/fhir/integrations/CodeSystem/sick-leave-component-cs"
+* component[=].code.coding.code = #emdoc-0009-0001
+* component[=].code.coding.display = "Городская принадлежность"
+* component[=].valueString = "emdoc-0003-0001"
+
+* component[+].code.coding.system = "https://dhp.uz/fhir/integrations/CodeSystem/sick-leave-component-cs"
+* component[=].code.coding.code = #emdoc-0009-0002
+* component[=].code.coding.display = "Место происшествия"
+* component[=].valueString = "emdoc-0004-0002"
+
+* component[+].code.coding.system = "https://dhp.uz/fhir/integrations/CodeSystem/sick-leave-component-cs"
+* component[=].code.coding.code = #emdoc-0009-0003
+* component[=].code.coding.display = "Выдача ЛН пациенту из другого города"
+* component[=].valueBoolean = false
+
+* component[+].code.coding.system = "https://dhp.uz/fhir/integrations/CodeSystem/sick-leave-component-cs"
+* component[=].code.coding.code = #emdoc-0009-0004
+* component[=].code.coding.display = "Информация о контакте с больным инфекционным заболеванием"
+* component[=].valueBoolean = false
+
+* component[+].code.coding.system = "https://dhp.uz/fhir/integrations/CodeSystem/sick-leave-component-cs"
+* component[=].code.coding.code = #emdoc-0009-0006
+* component[=].code.coding.display = "Режим"
+* component[=].valueString = "AMB"
+
+* component[+].code.coding.system = "https://dhp.uz/fhir/integrations/CodeSystem/sick-leave-component-cs"
+* component[=].code.coding.code = #emdoc-0009-0007
+* component[=].code.coding.display = "Данные о нарушении режима"
+* component[=].valueString = "emdoc-0007-0005"
+
+* component[+].code.coding.system = "https://dhp.uz/fhir/integrations/CodeSystem/care-for-relatedperson-component-cs"
+* component[=].code.coding.code = #care-for.RelatedPerson.birthdate
+* component[=].code.coding.display = "Дата рождения связанного лица"
+* component[=].valueDateTime = "1950-01-01"

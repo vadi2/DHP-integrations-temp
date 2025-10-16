@@ -71,3 +71,30 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
 * activity.plannedActivityReference MS
 * activity.plannedActivityReference only Reference(DHPSickLeaveActivityRequest)
 
+Instance: InstanceSickLeave
+InstanceOf: DHPSickLeaveCarePlan
+Title: "Example - Sick Leave CarePlan"
+Description: "Example CarePlan instance for sick leave case"
+Usage: #example
+
+* status = #completed
+* intent = #plan
+* category = https://dhp.uz/fhir/integrations/CodeSystem/sick-leave-category-cs#mserv-0005-00001 "Mehnatga layoqatsizlik varaqasi"
+* subject = Reference(Patient/example)
+* created = "2025-08-20"
+* period.start = "2025-08-20"
+* period.end = "2025-08-24"
+* identifier[series].value = "01ТШ 005591125"
+
+// Diagnoses and Reasons
+* addresses[reason].concept = https://terminology.dhp.uz/CodeSystem/care-plan-reason-cs#emdoc-0001-0001 "Kasallik"
+
+// Contributors
+* contributor = Reference(Practitioner/doctor-example)
+* contributor.display = "Dr. Boltayev Damir Ketmonovich"
+* custodian = Reference(Practitioner/department-head-example)
+
+// RelatedPerson Extensions
+* extension[care-for].extension[name].valueHumanName.text = "Boltayev Damir Ketmonovich"
+* extension[care-for].extension[gender].valueCodeableConcept = https://terminology.dhp.uz/ValueSet/gender#male "Male"
+* extension[care-for].extension[birthdate].valueDate = "1950-01-01"

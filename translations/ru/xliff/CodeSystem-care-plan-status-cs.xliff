@@ -14,7 +14,7 @@
              <notes>
                <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
              </notes>
-        <source>Sick Leave Category translation in Russian and English</source>
+        <source>Careplan Status CodeSystem</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-care-plan-status-cs" resname="CodeSystem.publisher">

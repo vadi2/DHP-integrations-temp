@@ -11,7 +11,7 @@ Description: "Information about the related person for caring for the child/fami
 
 * extension[name].value[x] only HumanName
 * extension[gender].value[x] only CodeableConcept
-* extension[gender].value[x] from https://terminology.medcore.uz/ValueSet/gender
+* extension[gender].value[x] from https://terminology.dhp.uz/ValueSet/gender
 * extension[gender-other].value[x] only CodeableConcept
-* extension[gender-other].value[x] from https://terminology.medcore.uz/ValueSet/gender-other-vs
+* extension[gender-other].value[x] from https://terminology.dhp.uz/ValueSet/gender-other-vs
 * extension[birthdate].value[x] only date
