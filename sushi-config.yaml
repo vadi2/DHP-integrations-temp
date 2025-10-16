@@ -4,17 +4,21 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: uz.dhp.integrations
+packageId: uz.dhp.integrations
 canonical: https://dhp.uz/fhir/integrations
-name: DHP integrations
+name: DHP-integrations
 title: Uzbekistan Digital Health Platform - Integrations
 description: Profiles for DHP integrations with systems in Uzbekistan
 status: draft # draft | active | retired | unknown
 version: 0.1.0
 fhirVersion: 5.0.0 # https://www.hl7.org/fhir/valueset-FHIR-version.html
+dependencies:
+  hl7.fhir.r5.core: 5.0.0
 copyrightYear: 2025+
 releaseLabel: ci-build
 # license: CC0-1.0 # https://www.hl7.org/fhir/valueset-spdx-license.html
-jurisdiction: urn:iso:std:iso:3166#UZ "Uzbekistan"
+# jurisdiction: urn:iso:std:iso:3166#UZ "Uzbekistan" temporarily disabled due to issues with IG publisher translation template
+jurisdiction: http://unstats.un.org/unsd/methods/m49/m49.htm#001
 publisher:
   name: Uzinfocom LLC
   url: https://uzinfocom.uz
@@ -23,12 +27,6 @@ publisher:
 # The dependencies property corresponds to IG.dependsOn. The key is the
 # package id and the value is the version (or dev/current). For advanced
 # use cases, the value can be an object with keys for id, uri, and version.
-#
-dependencies:
-  uz.dhp.core: 
-    id: dhpcore
-    uri: http://dhp.uz/ImplementationGuide/uz.dhp.core
-    version: 0.2.0
 #
 #
 # The pages property corresponds to IG.definition.page. SUSHI can

@@ -1,0 +1,351 @@
+
+# A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: CodeSystem.name
+msgid "HepatitisInterpretationCS"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the code system.
+#: CodeSystem.title
+msgid "Hepatitis Interpretation Code System"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the code system.
+#: CodeSystem.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the code system from a consumer's perspective.
+#: CodeSystem.description
+msgid "Directory of Hepatitis Interpretations"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit B virusining DNK sini sifatli aniqlash uchun PCR usuli bilan laboratoriya tahlili"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ПЦР определение ДНК вирусного гепатита В, качественный метод"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the PCR method for the qualitative determination of hepatitis B virus DNA."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit D virusining RNK sini miqdoriy aniqlash uchun PCR usuli bilan laboratoriya tahlili"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ПЦР Определение РНК вирусного гепатита Д, количественный метод"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the PCR method for the quantitative determination of hepatitis D virus RNA."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit C virusining RNK sini miqdoriy aniqlash uchun PCR usuli bilan laboratoriya tahlili"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ПЦР определение РНК вирусного гепатита С, количественный метод"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the PCR method for the quantitative determination of hepatitis C virus RNA."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit C virusining genotipini aniqlash uchun PCR usuli bilan laboratoriya tahlili (genotiplash)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ПЦР определение генотипа вирусного гепатита С, генотипирование"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the PCR method for the determination of the genotype of the hepatitis C virus, genotyping."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit B virusining DNK sini miqdoriy aniqlash uchun PCR usuli bilan laboratoriya tahlili"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ПЦР определение ДНК вирусного гепатита В, количественный метод"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the PCR method for the quantitative determination of hepatitis B virus DNA."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit D virusining RNK sini sifatli aniqlash uchun PCR usuli bilan laboratoriya tahlili"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ПЦР Определение РНК вирусного гепатита Д, качественный метод"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the PCR method for the qualitative detection of hepatitis D virus RNA."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit C virusiga qarshi antitanalarni aniqlash uchun express usul bilan laboratoriya tahlili"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование экспресс методом, определение антител к вирусному гепатиту С"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using an express method for the determination of antibodies to hepatitis C virus."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "HBs sirt antigenini aniqlash uchun express usul bilan laboratoriya tahlili"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование экспресс методом, определение поверхностного антигена HBs"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using an express method for the determination of the HBs surface antigen."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "HBsAg sirt antigeniga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili (anti-HBsAg)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ИФА, определение антител к поверхностному антигену- анти HBsAg"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the enzyme immunoassay method for the determination of antibodies to the surface antigen – anti-HBsAg"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit B virusining sirt antigenini aniqlash uchun IFT usuli bilan laboratoriya tahlili (HBsAg)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ИФА, определение поверхностного антигена HBs вирусного гепатита B (HBsAg)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the enzyme immunoassay method for the determination of the hepatitis B virus surface antigen (HBsAg)."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit C virusiga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili (jami)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ИФА, определение антител к вирусному гепатиту C (total)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the enzyme immunoassay method for the determination of antibodies to the hepatitis C virus (total)."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit B virusining HBc antigeniga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ИФА, определение антител к HBcor антигену, вирусного гепатита B"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the enzyme immunoassay method for the determination of antibodies to the HBc antigen of hepatitis B virus."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit B virusining HBe antigenini aniqlash uchun IFT usuli bilan laboratoriya tahlili"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ИФА, определение HBe антигена, вирусного гепатита B"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the enzyme immunoassay method for the determination of the HBe antigen of hepatitis B virus."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit A virusiga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili (anti-HAV)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ИФА, определение антител к вирусному гепатиту А (anti-HAV)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the enzyme immunoassay method for the determination of antibodies to hepatitis A virus (anti-HAV)."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit B virusining HBe antigeniga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ИФА, определение антител к HBe антигену, вирусного гепатита B"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the enzyme immunoassay method for the determination of antibodies to the HBe antigen of hepatitis B virus."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit D virusiga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili (jami)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ИФА, определение антител к вирусному гепатиту D (total)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the enzyme immunoassay method for the determination of antibodies to the hepatitis D virus."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Alfa-fetoprotein"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Альфа-фетопротеин"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Alpha-fetoprotein"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "HBs sirt antigenini aniqlash uchun express usuli bilan laboratoriya tahlili"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "HBs antigenini miqdoriy aniqlash uchun IFA usuli bilan laboratoriya tahlili"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ИФА, количественное определение HBs антигена"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the ELISA method for the quantitative determination of the HBs antigen"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit C virusining RNK sini sifatli aniqlash uchun PCR usuli bilan laboratoriya tahlili"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лабораторное исследование методом ПЦР определение РНК вирусного гепатита С, качественный метод"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Laboratory test using the PCR method for the qualitative detection of hepatitis C virus RNA."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gepatit C virusiga qarshi antitanalarni aniqlash uchun express usuli bilan laboratoriya tahlili"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Siroz belgilari"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Признаки цирроза"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Signs of cirrhosis"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Jigar shakllanishlari belgilari"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Признаки образований в печени"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Signs of liver masses"
+msgstr ""
+

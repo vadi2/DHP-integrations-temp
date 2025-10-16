@@ -1,0 +1,498 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="CodeSystem-hepat-interpretation-cs" original="Resource CodeSystem-hepat-interpretation-cs" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.name">
+             <notes>
+               <note id="n1">A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.</note>
+             </notes>
+        <source>HepatitisInterpretationCS</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.title">
+             <notes>
+               <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
+             </notes>
+        <source>Hepatitis Interpretation Code System</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.publisher">
+             <notes>
+               <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="ContactDetail.name">
+             <notes>
+               <note id="n1">The name of an individual to contact.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.description">
+             <notes>
+               <note id="n1">A free text natural language description of the code system from a consumer's perspective.</note>
+             </notes>
+        <source>Directory of Hepatitis Interpretations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit B virusining DNK sini sifatli aniqlash uchun PCR usuli bilan laboratoriya tahlili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ПЦР определение ДНК вирусного гепатита В, качественный метод</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the PCR method for the qualitative determination of hepatitis B virus DNA.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit D virusining RNK sini miqdoriy aniqlash uchun PCR usuli bilan laboratoriya tahlili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ПЦР Определение РНК вирусного гепатита Д, количественный метод</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the PCR method for the quantitative determination of hepatitis D virus RNA.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit C virusining RNK sini miqdoriy aniqlash uchun PCR usuli bilan laboratoriya tahlili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ПЦР определение РНК вирусного гепатита С, количественный метод</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the PCR method for the quantitative determination of hepatitis C virus RNA.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit C virusining genotipini aniqlash uchun PCR usuli bilan laboratoriya tahlili (genotiplash)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ПЦР определение генотипа вирусного гепатита С, генотипирование</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the PCR method for the determination of the genotype of the hepatitis C virus, genotyping.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit B virusining DNK sini miqdoriy aniqlash uchun PCR usuli bilan laboratoriya tahlili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ПЦР определение ДНК вирусного гепатита В, количественный метод</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the PCR method for the quantitative determination of hepatitis B virus DNA.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit D virusining RNK sini sifatli aniqlash uchun PCR usuli bilan laboratoriya tahlili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ПЦР Определение РНК вирусного гепатита Д, качественный метод</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the PCR method for the qualitative detection of hepatitis D virus RNA.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit C virusiga qarshi antitanalarni aniqlash uchun express usul bilan laboratoriya tahlili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование экспресс методом, определение антител к вирусному гепатиту С</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using an express method for the determination of antibodies to hepatitis C virus.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>HBs sirt antigenini aniqlash uchun express usul bilan laboratoriya tahlili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование экспресс методом, определение поверхностного антигена HBs</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using an express method for the determination of the HBs surface antigen.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>HBsAg sirt antigeniga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili (anti-HBsAg)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ИФА, определение антител к поверхностному антигену- анти HBsAg</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the enzyme immunoassay method for the determination of antibodies to the surface antigen – anti-HBsAg</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit B virusining sirt antigenini aniqlash uchun IFT usuli bilan laboratoriya tahlili (HBsAg)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ИФА, определение поверхностного антигена HBs вирусного гепатита B (HBsAg)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the enzyme immunoassay method for the determination of the hepatitis B virus surface antigen (HBsAg).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit C virusiga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili (jami)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ИФА, определение антител к вирусному гепатиту C (total)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the enzyme immunoassay method for the determination of antibodies to the hepatitis C virus (total).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit B virusining HBc antigeniga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ИФА, определение антител к HBcor антигену, вирусного гепатита B</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the enzyme immunoassay method for the determination of antibodies to the HBc antigen of hepatitis B virus.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit B virusining HBe antigenini aniqlash uchun IFT usuli bilan laboratoriya tahlili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ИФА, определение HBe антигена, вирусного гепатита B</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the enzyme immunoassay method for the determination of the HBe antigen of hepatitis B virus.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit A virusiga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili (anti-HAV)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ИФА, определение антител к вирусному гепатиту А (anti-HAV)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the enzyme immunoassay method for the determination of antibodies to hepatitis A virus (anti-HAV).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit B virusining HBe antigeniga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ИФА, определение антител к HBe антигену, вирусного гепатита B</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the enzyme immunoassay method for the determination of antibodies to the HBe antigen of hepatitis B virus.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit D virusiga qarshi antitanalarni aniqlash uchun IFT usuli bilan laboratoriya tahlili (jami)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ИФА, определение антител к вирусному гепатиту D (total)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the enzyme immunoassay method for the determination of antibodies to the hepatitis D virus.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Alfa-fetoprotein</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Альфа-фетопротеин</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Alpha-fetoprotein</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>HBs sirt antigenini aniqlash uchun express usuli bilan laboratoriya tahlili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>HBs antigenini miqdoriy aniqlash uchun IFA usuli bilan laboratoriya tahlili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ИФА, количественное определение HBs антигена</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the ELISA method for the quantitative determination of the HBs antigen</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit C virusining RNK sini sifatli aniqlash uchun PCR usuli bilan laboratoriya tahlili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лабораторное исследование методом ПЦР определение РНК вирусного гепатита С, качественный метод</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Laboratory test using the PCR method for the qualitative detection of hepatitis C virus RNA.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Gepatit C virusiga qarshi antitanalarni aniqlash uchun express usuli bilan laboratoriya tahlili</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Siroz belgilari</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Признаки цирроза</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Signs of cirrhosis</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Jigar shakllanishlari belgilari</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Признаки образований в печени</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-hepat-interpretation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Signs of liver masses</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

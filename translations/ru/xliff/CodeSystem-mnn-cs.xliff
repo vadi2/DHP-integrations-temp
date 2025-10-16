@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="CodeSystem-mnn-cs" original="Resource CodeSystem-mnn-cs" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.name">
+             <notes>
+               <note id="n1">A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.</note>
+             </notes>
+        <source>MNNCS</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.title">
+             <notes>
+               <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
+             </notes>
+        <source>MNN Code System</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.publisher">
+             <notes>
+               <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="ContactDetail.name">
+             <notes>
+               <note id="n1">The name of an individual to contact.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.description">
+             <notes>
+               <note id="n1">A free text natural language description of the code system from a consumer's perspective.</note>
+             </notes>
+        <source>Directory of International Nonproprietary Names of Medicines</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>tenofovir</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>tenofovir</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>тенофовир</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>entekavir</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>entecavir</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>энтекавир</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>sofosbuvir</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>sofosbuvir</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>софосбувир</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>daklatasvir</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>daclatasvir</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-mnn-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>даклатасвир</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
