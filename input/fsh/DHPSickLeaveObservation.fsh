@@ -15,7 +15,7 @@ Description: "Profile for sick leave observations with structured components"
 * code = $sct#224459001 "On sick leave from work"
 
 * subject 1..1 MS
-* subject only Reference(UZCorePatient)
+* subject only Reference(Patient or Group)
 
 * component ^slicing.discriminator.type = #value
 * component ^slicing.discriminator.path = "code"
