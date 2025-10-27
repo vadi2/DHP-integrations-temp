@@ -7,6 +7,7 @@ Description: "Структурированный набор вопросов."
 * ^experimental = true
 * ^status = #active
 * ^publisher = "Uzinfocom"
+* jurisdiction = http://unstats.un.org/unsd/methods/m49/m49.htm#001
 
 * identifier MS
 * identifier ^short = "Идентификатор."
