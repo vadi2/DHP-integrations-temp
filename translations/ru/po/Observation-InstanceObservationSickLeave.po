@@ -1,0 +1,41 @@
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "On sick leave from work"
+msgstr ""
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Городская принадлежность"
+msgstr ""
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Место происшествия"
+msgstr ""
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Выдача ЛН пациенту из другого города"
+msgstr ""
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Информация о контакте с больным инфекционным заболеванием"
+msgstr ""
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Режим"
+msgstr ""
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Данные о нарушении режима"
+msgstr ""
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Дата рождения связанного лица"
+msgstr ""
+

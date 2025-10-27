@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="Observation-InstanceObservationSickLeave" original="Resource Observation-InstanceObservationSickLeave" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="Observation-InstanceObservationSickLeave" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>On sick leave from work</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceObservationSickLeave" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Городская принадлежность</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceObservationSickLeave" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Место происшествия</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceObservationSickLeave" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Выдача ЛН пациенту из другого города</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceObservationSickLeave" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Информация о контакте с больным инфекционным заболеванием</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceObservationSickLeave" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Режим</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceObservationSickLeave" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Данные о нарушении режима</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceObservationSickLeave" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Дата рождения связанного лица</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
