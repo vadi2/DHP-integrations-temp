@@ -61,7 +61,7 @@ Description: "Academic degrees of citizens residing in the Republic of Uzbekista
   * ^designation[0].language = #en
   * ^designation[=].value = "Did not study (social/medical reason)"
   * ^designation[+].language = #ru
-  * ^designation[=].value = "Не учился (социальная\медицинская причина)"
+  * ^designation[=].value = "Не учился (социальная/медицинская причина)"
   
 * #regis0005.00010 "Boshqa"
   * ^designation[0].language = #en
