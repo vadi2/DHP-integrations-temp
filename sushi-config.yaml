@@ -25,10 +25,10 @@ publisher:
 # use cases, the value can be an object with keys for id, uri, and version.
 #
 dependencies:
-  uz.dhp.core: 
+  uz.dhp.core:
     id: dhpcore
     uri: http://dhp.uz/ImplementationGuide/uz.dhp.core
-    version: 0.2.0
+    version: 0.3.0
 #
 #
 # The pages property corresponds to IG.definition.page. SUSHI can
@@ -72,7 +72,7 @@ parameters:
 
   # multi-lingual support
   i18n-default-lang: en
-  i18n-lang: 
+  i18n-lang:
     - ru
     # - uz # to be enabled later - requires translating not just this IG, but core IG publisher texts as well
   translation-sources:

@@ -31,7 +31,7 @@ RuleSet: IntAndUzAddressRules
   * type from AddressTypeVS (required)
   * use from AddressUseVS (required)
   * use ^short = "Type of address, home | temp"
-  * country from ISO3166_2SansUZ (required)
+  * country from https://terminology.dhp.uz/fhir/core/ValueSet/iso-3166-2-vs-sans-uz (required)
   * country 1..
   * country ^short = "Country code (ISO 3166-1 2 letter code)"
   * text ^short = "Text part of the address"
@@ -44,12 +44,12 @@ RuleSet: IntAndUzAddressRules
 RuleSet: UzAddressRules
 * address MS
   * type and use and text and line and city and district and state and country and period MS
-  * type from AddressTypeVS (required) 
-  * use from AddressUseVS (required) 
+  * type from AddressTypeVS (required)
+  * use from AddressUseVS (required)
   * use ^short = "Type of address, home | temp"
   * country from ISO3166_2 (required)
   * district from RegionsVS (required)
-  * state from StateVS (required) 
+  * state from StateVS (required)
   * city from MahallaVS (required)
 
   * country ^short = "Country code"
