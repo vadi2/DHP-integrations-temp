@@ -99,6 +99,6 @@ Alias: $v3-NullFlavor = http://terminology.hl7.org/CodeSystem/v3-NullFlavor
 Alias: $v3-ParticipationType = http://terminology.hl7.org/CodeSystem/v3-ParticipationType
 Alias: $v3-ParticipationType = http://terminology.hl7.org/CodeSystem/v3-ParticipationType
 Alias: $v3-RoleClass = http://terminology.hl7.org/CodeSystem/v3-RoleClass
-Alias: $v3-RoleCode = http://terminology.hl7.org/CodeSystem/v3-RoleCode 
+Alias: $v3-RoleCode = http://terminology.hl7.org/CodeSystem/v3-RoleCode
 Alias: $v3ActPriority = http://terminology.hl7.org/CodeSystem/v3-ActPriority
 Alias: $valueset-supplement = http://hl7.org/fhir/StructureDefinition/valueset-supplement
