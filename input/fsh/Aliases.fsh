@@ -1,7 +1,6 @@
 Alias: $gender = http://hl7.org/fhir/administrative-gender
 Alias: $observation-status = http://hl7.org/fhir/observation-status
 Alias: $observation-category = http://terminology.hl7.org/CodeSystem/observation-category
-// Alias: $encounter-class = https://terminology.dhp.uz/fhir/core/ValueSet/encounter-class
 Alias: $address-type = http://hl7.org/fhir/address-type
 Alias: $address-use = http://hl7.org/fhir/address-use
 Alias: $audit-event-action = http://hl7.org/fhir/audit-event-action
@@ -73,9 +72,6 @@ Alias: $penitentiaryinstitution = https://gov.uz/iiv/identifier/penitentiaryinst
 Alias: $provenance-entity-role = http://hl7.org/fhir/provenance-entity-role
 Alias: $provenance-participant-type = http://terminology.hl7.org/CodeSystem/provenance-participant-type
 Alias: $qualification-codes = http://terminology.hl7.org/CodeSystem/v2-0360
-Alias: $reason-use = https://terminology.dhp.uz/fhir/core/ValueSet/ReasonUse
-Alias: $reason-use-cs = https://terminology.dhp.uz/fhir/core/CodeSystem/ReasonUse
-Alias: $reason-use-vs = https://terminology.dhp.uz/fhir/core/ValueSet/ReasonUseVS
 Alias: $reference-meaning = http://terminology.hl7.org/CodeSystem/referencerange-meaning
 Alias: $sample-security-structural-codes = http://hl7.org/fhir/sample-security-structural-roles
 Alias: $sct = http://snomed.info/sct
