@@ -10,9 +10,9 @@ DHP Integrations IG provides:
 
 - **Standard data structures** - FHIR profiles and extensions for external systems integrating with DHP
 - **Terminology** - CodeSystems and ValueSets for standardized coding
-- **API specifications** - Data exchange patterns between external systems and DHP
-- **Integration patterns** - Support for DHP's hybrid architecture
-- **Conformance requirements** - Requirements for third-party system integrations
+- **API specifications** - data exchange patterns between external systems and DHP
+- **Integration patterns** - support for DHP's hybrid architecture
+- **Conformance requirements** - requirements for third-party system integrations
 
 This IG is intended for implementers developing or configuring systems that need to integrate with DHP. Example systems include Medical Information Systems (MIS), Picture Archiving and Communication Systems (PACS), Laboratory Information Systems (LIS), as well as any other third-party healthcare applications that need to exchange data with DHP.
 
@@ -48,20 +48,20 @@ graph LR
 
 DHP centrally stores and manages core healthcare data:
 
-- **Patient demographics and master data** - Master patient index and demographic information
-- **Core clinical records (EHRs)** - Essential electronic health record data
-- **Referrals and prescriptions** - Clinical orders and referral documentation
-- **Laboratory results** - Lab results and diagnostic reports transmitted from LIS systems
-- **Master registries** - Patient registry, provider directory, organization registry, and terminology services
+- **Patient demographics and master data** - master patient index and demographic information
+- **Core clinical records (EHRs)** - essential electronic health record data
+- **Referrals and prescriptions** - clinical orders and referral documentation
+- **Laboratory results** - lab results and diagnostic reports transmitted from LIS systems
+- **Master registries** - patient registry, provider directory, organization registry, and terminology services
 
 ### Data maintained by external systems
 
 External systems maintain their own operational data while integrating via FHIR APIs. Examples include:
 
-- **MIS systems** - Patient records, appointments, billing data, and facility-specific workflows
-- **PACS systems** - Medical images and diagnostic imaging studies (DHP supports DICOM-based image exchange, storing references to images in PACS and retrieving images for authorized users)
-- **LIS systems** - Laboratory workflows, specimen tracking, and detailed test processing data
-- **Other 3rd-party systems** - Any healthcare application with specialized data or services that need to integrate with DHP
+- **MIS systems** - patient records, appointments, billing data, and facility-specific workflows
+- **PACS systems** - medical images and diagnostic imaging studies (DHP supports DICOM-based image exchange, storing references to images in PACS and retrieving images for authorized users)
+- **LIS systems** - laboratory workflows, specimen tracking, and detailed test processing data
+- **Other 3rd-party systems** - any healthcare application with specialized data or services that need to integrate with DHP
 
 ### Integration pattern
 
