@@ -79,30 +79,32 @@ DHP and external systems maintain complementary data sets and interact through F
 Integrations with DHP support two complementary methods for exchanging healthcare data:
 
 ```mermaid
-graph TB
-    subgraph "Atomic FHIR Resources"
-        External1["External System"]
-        DHP1["DHP"]
-        Resources["Individual Resources<br/>• Observation<br/>• Condition<br/>• Procedure<br/>• MedicationRequest<br/>• Encounter"]
+graph LR
+    External["3rd-Party Systems"]
 
-        External1 <-->|"CRUD operations"| Resources
-        Resources <-->|"RESTful API"| DHP1
+    subgraph Approach1["Atomic FHIR Resources"]
+        Resources["Individual Resources:<br/>Observation<br/>Condition<br/>Procedure<br/>MedicationRequest<br/>etc."]
     end
 
-    subgraph "Clinical Documents"
-        External2["External System"]
-        DHP2["DHP"]
-        Document["Clinical Document Bundle<br/>├─ Composition (header)<br/>│  ├─ metadata<br/>│  ├─ sections<br/>│  └─ attestation<br/>└─ Referenced Resources<br/>   ├─ Patient<br/>   ├─ Observation<br/>   ├─ Condition<br/>   └─ ..."]
-        Forms["Forms<br/>• Form 003 (inpatient)<br/>• Form 096 (birth)<br/>• Other regulatory forms"]
-
+    subgraph Approach2["Clinical Documents"]
+        Forms["Clinical Forms<br/>Form 003 (inpatient)<br/>Form 096 (birth)<br/>etc."]
+        Document["Document Bundle<br/>Composition header (metadata, attestation)<br/>Referenced Resources:<br/>Patient, Observation, Encounter, etc."]
         Forms -.->|"represented as"| Document
-        External2 <-->|"submit/retrieve"| Document
-        Document <-->|"RESTful API"| DHP2
     end
 
+    DHP["DHP"]
+
+    External <-->|"CRUD<br/>operations"| Resources
+    External <-->|"submit/<br/>retrieve"| Document
+
+    Resources -->|"FHIR API"| DHP
+    Document -->|"FHIR API"| DHP
+
+    style External fill:#9B59B6,stroke:#7D3C98,stroke-width:2px,color:#fff
     style Resources fill:#E8F4F8,stroke:#4A90E2,stroke-width:2px
-    style Document fill:#FFF4E6,stroke:#F5A623,stroke-width:2px
     style Forms fill:#F0E6FF,stroke:#9B59B6,stroke-width:2px
+    style Document fill:#FFF4E6,stroke:#F5A623,stroke-width:2px
+    style DHP fill:#4A90E2,stroke:#2E5C8A,stroke-width:3px,color:#fff
 ```
 
 ### Atomic FHIR resources
@@ -130,17 +132,17 @@ In FHIR, such forms can be represented as either Questionnaire resources or Clin
 - **Composition** - document header with metadata, sections, and attestation
 - **Referenced resources** - the actual clinical data (Patient, Observation, Condition, etc.)
 
-#### Why Clinical Documents instead of Questionnaires
+#### Why Clinical Documents
 
 Clinical Documents provide essential characteristics that make them the preferred approach for healthcare forms:
 
 - **Persistence** - documents remain unaltered for regulatory periods (5, 10, or more years as required by law), surviving beyond their original servers and formats
+- **Profile re-use** - Clinical Documents leverage standard FHIR resources, enabling re-use of UZ Core profiles wherever they are a fit, promoting consistency across the healthcare ecosystem
+- **Secondary use and interoperability** - Clinical Documents (as FHIR Bundles) can be easily split into individual standard FHIR resources for analytics, reporting, and data exchange, whereas Questionnaire responses have custom data models that vary by questionnaire, making them more challenging to process
 - **Stewardship** - healthcare organizations maintain clear responsibility for document care and integrity
 - **Authentication** - documents are designed as complete assemblages intended for legal authentication and attestation by healthcare providers
 - **Context establishment** - documents provide default context for all contained information, ensuring proper interpretation
 - **Human readability** - mandatory narrative requirements ensure that authenticated content is clearly presented and reproducible across different systems, essential for both clinical use and legal validity
-- **Secondary use and interoperability** - Clinical Documents (as FHIR Bundles) can be easily split into individual standard FHIR resources for analytics, reporting, and data exchange, whereas Questionnaire responses have custom data models that vary by questionnaire, making them more challenging to process
-- **Profile re-use** - Clinical Documents leverage standard FHIR resources, enabling re-use of UZ Core profiles wherever they are a fit, promoting consistency across the healthcare ecosystem
 
 In contrast, Questionnaire resources are designed primarily for data capture workflows rather than long-term authenticated storage. Clinical Documents better align with regulatory requirements for healthcare documentation, including mandatory retention periods and the need for legally attestable records.
 
