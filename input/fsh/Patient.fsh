@@ -6,4 +6,4 @@ Description: "Uzbekistan Birth Patient profile, used to represent patients admin
 * ^status = #draft
 
 * birthDate MS
-* extension contains patient-placeOfBirthType named placeOfBirthType 0..1
+* extension contains patient-placeOfBirthType named placeOfBirthType 1..1 MS

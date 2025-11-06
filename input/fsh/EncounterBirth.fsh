@@ -37,6 +37,12 @@ Description: "Uzbekistan Birth Encounter profile, used to represent patients adm
 * plannedEndDate MS
 * plannedEndDate ^short = "Планируемая дата/время окончания (или дата выписки) встречи"
 
+* diagnosis MS
+* diagnosis.condition MS
+* diagnosis.condition ^short = "Наблюдаемые врожденные проблемы (например, желтуха, врожденные аномалии)
+Диагностические состояния при рождении (например, низкий вес при рождении, респираторный дистресс)
+Клинические оценки, связанные с рождением (например, признаки инфекции, аномальные результаты по шкале Апгар)"
+
 * location MS
 * location.location 1..1 MS
 * location.location ^short = "Место, где родился младенец"

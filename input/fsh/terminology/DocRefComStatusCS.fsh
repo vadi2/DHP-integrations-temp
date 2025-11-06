@@ -1,6 +1,6 @@
 CodeSystem: DocRefComStatusCS
 Id: doc-ref-com-status-cs
-Title: "DocumentReference Status CodeSystem"
+Title: "Document Reference Status CodeSystem"
 Description: "This field is a mandatory attribute of the FHIR DocumentReference resource and indicates the current state of the document in the system."
 * insert SupplementCodeSystemDraft(doc-ref-com-status-cs, $drcs, 5.0.0)
 
