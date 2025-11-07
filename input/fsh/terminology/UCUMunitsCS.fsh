@@ -1,4 +1,4 @@
-CodeSystem: ObservationUCUM
+CodeSystem: ObservationUCUMCS
 Id: observation-ucum-cs
 Title: "Observation UCUM units"
 Description: "Units of measurement used to measure the length and weight of a baby at birth"
