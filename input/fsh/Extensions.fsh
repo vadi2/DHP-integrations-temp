@@ -7,7 +7,7 @@ Description: "Extension to indicate the type of place where the patient was born
 * ^context.expression = "Patient"
 
 * value[x] only CodeableConcept
-* valueCodeableConcept from http://terminlogy.medcore.uz/ValueSet/birthPlace-type (required)
+* valueCodeableConcept from https://terminology.dhp.uz/fhir/core/ValueSet/birth-place-vs (required)
 * valueCodeableConcept ^short = "Type of the place where the patient was born"
 
 Extension: RelatedPersonEducation

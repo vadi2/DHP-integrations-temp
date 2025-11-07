@@ -25,7 +25,7 @@ Description: "Document reference for Birth profile"
 
 * practiceSetting MS
 * practiceSetting ^short = "Дополнительные сведения о месте создания контента (например, клиническая специализация)"
-* practiceSetting from UZCorePractitionerRole
+// * practiceSetting from UZCorePractitionerRole
 
 * period MS
 * period ^short = "Время обслуживания, которое документируется"
@@ -35,7 +35,7 @@ Description: "Document reference for Birth profile"
 
 * author MS
 * author ^short = "Кто и/или что является автором документа"
-* author only Reference(UZCorePractitioner or UzCoreOrganization)
+* author only Reference(UZCorePractitioner or UZCoreOrganization)
 
 * attester MS
 * attester ^short = "Подтверждает точность документа."
