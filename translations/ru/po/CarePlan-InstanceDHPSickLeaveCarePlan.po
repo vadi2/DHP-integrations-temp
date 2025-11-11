@@ -1,0 +1,11 @@
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Sick leave"
+msgstr ""
+
+# Plain text narrative that identifies the resource in addition to the resource reference.
+#: Reference.display
+msgid "Related person: Boltayev Damir Ketmonovich"
+msgstr ""
+
