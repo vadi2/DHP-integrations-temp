@@ -30,3 +30,19 @@ Description: "Assessment of the newborn's condition"
 * performer MS
 * performer ^short = "Врач или специалист, измеривший результат"
 * performer only Reference(UZCorePractitioner)
+
+* value[x] MS
+* value[x] ^short = "Фактический результат"
+
+* valueQuantity MS
+* valueQuantity ^short = "Рост, вес ребенка при рождении"
+
+* valueQuantity.value and valueQuantity.unit and valueQuantity.system and valueQuantity.code MS
+
+
+* valueQuantity.value ^short = "Числовое значение (с неявной точностью)"
+* valueQuantity.unit ^short = "Представление единицы"
+* valueQuantity.system ^short = "Система, определяющая форму кодированной единицы"
+
+// * valueQuantity.value from CodeableReference(APGARsocreVS) (required)  // Vadim Could you see that part
+* valueQuantity.code from ObservationUCUMVS (required)
