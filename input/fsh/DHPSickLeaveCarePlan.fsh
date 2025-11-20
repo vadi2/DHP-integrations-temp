@@ -2,7 +2,7 @@ Profile: DHPSickLeaveCarePlan
 Parent: CarePlan
 Id: dhp-sick-leave-careplan
 Title: "DHP Sick Leave CarePlan"
-Description: "Profile for documenting care plans in the healthcare system of Uzbekistan."
+Description: "Profile for documenting sick leave status in the healthcare system of Uzbekistan for legal purposes. This CarePlan is not intended for clinical management but serves to formalize the process of managing sick leave for patients, ensuring compliance with national regulations and facilitating communication between healthcare providers, employers, and relevant authorities."
 * ^experimental = true
 * ^status = #draft
 
@@ -10,9 +10,9 @@ Description: "Profile for documenting care plans in the healthcare system of Uzb
 * category ^slicing.discriminator.type = #value
 * category ^slicing.discriminator.path = "coding.system"
 * category ^slicing.rules = #open
-* category contains sickLeave 1..* MS
+* category contains sickLeave 1..1 MS
 * category[sickLeave] = SickLeaveCategoryCS#mserv-0005-00001
-* category[sickLeave] ^short = "Category of the CarePlan"
+* category[sickLeave] ^short = "Specifies that the CarePlan is for managing sick leave status"
 
 * subject MS
 * subject only Reference(UZCorePatient)
