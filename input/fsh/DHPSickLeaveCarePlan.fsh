@@ -69,3 +69,21 @@ Description: "Profile for documenting sick leave status in the healthcare system
 // * activity.plannedActivityReference MS
 // * activity.plannedActivityReference only Reference(DHPSickLeaveActivityRequest)
 
+Mapping: dmed
+Source: DHPSickLeaveCarePlan
+Target: "http://dhp.uz/fhir/dmed"
+Id: dhp-sick-leave-to-dmed
+Title: "Mapping to DMED"
+Description: "Mapping from DHP Sick Leave CarePlan profile to (DMED)[https://uzinfocom.uz/en/projects/dmed-en-18] source elements"
+* subject -> "Пациент (Patient)"
+* addresses[reason] -> "Причина ЛН (Reason for sick leave)"
+* status -> "Статус (Status)"
+* extension[statusHistory] -> "История статуса (Status history)"
+* extension[statusHistory].extension[status] -> "Исторический статус (Historical status)"
+* extension[statusHistory].extension[period] -> "Период когда статус был активен (Period when status was active)"
+* identifier[series] -> "Номер ЛН (Sick leave number / master ID)"
+* addresses[diagnosis] -> "Диагноз МКБ-10 (ICD-10 diagnosis)"
+* created -> "Дата открытия (Opening date)"
+* period -> "Дата закрытия (Closing date)"
+* contributor -> "ФИО врача (Doctor's full name)"
+* custodian -> "ФИО зав.отделением (Head of department's full name)"
