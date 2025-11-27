@@ -82,8 +82,8 @@ Integrations with DHP support two complementary methods for exchanging healthcar
 graph LR
     External["3rd-Party Systems"]
 
-    subgraph Approach1["Atomic FHIR Resources"]
-        Resources["Individual Resources:<br/>Observation<br/>Condition<br/>Procedure<br/>MedicationRequest<br/>etc."]
+    subgraph Approach1["Request Resources"]
+        Resources["Workflow Resources:<br/>ServiceRequest<br/>MedicationRequest<br/>Appointment<br/>CarePlan<br/>etc."]
     end
 
     subgraph Approach2["Clinical Documents"]
@@ -107,17 +107,27 @@ graph LR
     style DHP fill:#4A90E2,stroke:#2E5C8A,stroke-width:3px,color:#fff
 ```
 
-### Atomic FHIR resources
+### Request resources
 
-External systems can interact with individual FHIR resources directly using standard FHIR RESTful operations. This approach involves creating, reading, updating, and deleting discrete FHIR resources such as:
+For operational workflows that require status tracking and coordination, DHP prefers request resources. External systems can interact with these resources directly using standard FHIR RESTful operations:
 
-- **Observation** - lab results, vital signs, clinical measurements
-- **Condition** - diagnoses, problems, health concerns
-- **Procedure** - medical procedures and interventions
-- **MedicationRequest** - prescriptions and medication orders
-- **Encounter** - patient visits and care episodes
+- [Appointment](https://hl7.org/fhir/R5/appointment.html) / [AppointmentResponse](https://hl7.org/fhir/R5/appointmentresponse.html) - scheduling
+- [ServiceRequest](https://hl7.org/fhir/R5/servicerequest.html) - diagnostic and procedure orders
+- [MedicationRequest](https://hl7.org/fhir/R5/medicationrequest.html) - prescriptions
+- [CarePlan](https://hl7.org/fhir/R5/careplan.html) - care coordination
+- [CommunicationRequest](https://hl7.org/fhir/R5/communicationrequest.html) - communication workflows
+- [DeviceRequest](https://hl7.org/fhir/R5/devicerequest.html) - device orders
+- [SupplyRequest](https://hl7.org/fhir/R5/supplyrequest.html) - supply orders
+- [NutritionOrder](https://hl7.org/fhir/R5/nutritionorder.html) - dietary orders
+- [VisionPrescription](https://hl7.org/fhir/R5/visionprescription.html) - optical prescriptions
+- [Claim](https://hl7.org/fhir/R5/claim.html) - billing requests
+- [CoverageEligibilityRequest](https://hl7.org/fhir/R5/coverageeligibilityrequest.html) - insurance eligibility
+- [EnrollmentRequest](https://hl7.org/fhir/R5/enrollmentrequest.html) - enrollment workflows
+- [Contract](https://hl7.org/fhir/R5/contract.html) - agreements
+- [ImmunizationRecommendation](https://hl7.org/fhir/R5/immunizationrecommendation.html) - vaccination schedules
+- [RequestOrchestration](https://hl7.org/fhir/R5/requestorchestration.html) - complex request coordination
 
-This method is suitable for real-time data exchange where individual clinical facts need to be transmitted independently and processed atomically.
+These resources support [FHIR workflow patterns](https://hl7.org/fhir/R5/workflow.html) with status tracking (e.g., requested → accepted → in-progress → completed), making them ideal for real-time coordination between systems.
 
 ### Clinical forms as Clinical Documents
 
@@ -147,6 +157,45 @@ Clinical Documents provide essential characteristics that make them the preferre
 In contrast, Questionnaire resources are designed primarily for data capture workflows rather than long-term authenticated storage. Clinical Documents better align with regulatory requirements for healthcare documentation, including mandatory retention periods and the need for legally attestable records.
 
 Note that Clinical Documents and FHIR Questionnaires can be converted between each other when needed using standardized mechanisms: [form population](https://hl7.org/fhir/uv/sdc/populate.html) can convert Clinical Documents to Questionnaires, and [form data extraction](https://hl7.org/fhir/uv/sdc/extraction.html) can convert Questionnaire responses to standard FHIR resources. This interoperability means that if there is a need to develop Questionnaires in the future, that option remains available.
+
+#### When to use Clinical Documents vs request resources
+
+While request resources are preferred for workflow coordination, Clinical Documents are the better choice when data needs to be authenticated and persisted as legally attestable records. Documents can be digitally signed and stored as immutable, complete units. DHP will use self-contained Bundles with Composition headers for this purpose.
+
+```mermaid
+flowchart TD
+    Start["Healthcare Data"]
+
+    Q1{"Needs workflow<br/>status tracking?"}
+    Q2{"Needs legal<br/>authentication &<br/>persistence?"}
+    Q3{"Needs physical<br/>signature?"}
+
+    Request["Request Resource<br/>(ServiceRequest, MedicationRequest,<br/>Appointment, etc.)"]
+    Document["Clinical Document<br/>(Bundle + Composition)<br/>with digital signature"]
+    Physical["Print, Sign, Scan"]
+    DocRef["DocumentReference<br/>(scanned PDF)"]
+
+    Start --> Q1
+    Q1 -->|"Yes"| Request
+    Q1 -->|"No"| Q2
+    Q2 -->|"Yes"| Document
+    Q2 -->|"No"| Request
+
+    Document --> Q3
+    Q3 -->|"Yes"| Physical
+    Q3 -->|"No"| Done1["Done"]
+    Physical --> DocRef
+    DocRef -->|"relatesTo.code = signs"| Document
+
+    style Request fill:#E8F4F8,stroke:#4A90E2,stroke-width:2px
+    style Document fill:#FFF4E6,stroke:#F5A623,stroke-width:2px
+    style DocRef fill:#F0E6FF,stroke:#9B59B6,stroke-width:2px
+    style Physical fill:#FCE4EC,stroke:#E91E63,stroke-width:2px
+```
+
+#### Physical signatures
+
+In cases where a document requires a physical signature (when a digital signature is not sufficient), the document will be printed, signed, and uploaded to DHP as a PDF with a DocumentReference accompanying the original Composition. This maintains the relationship between the digital document and its physically signed counterpart while preserving the legal validity of the physical signature.
 
 ---
 
