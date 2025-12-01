@@ -115,6 +115,8 @@ For operational workflows requiring status tracking, DHP prefers [request resour
 
 For data requiring legal authentication and long-term persistence (e.g., Form 003 for inpatient stays, Form 096 for births), DHP uses **Clinical Documents** - a Bundle containing a Composition header with metadata and attestation, plus referenced clinical resources (Patient, Observation, Condition, etc.).
 
+When a physical signature is required, the document is printed, signed, scanned, and uploaded as a PDF. A DocumentReference links the scanned copy back to the original Composition.
+
 
 #### Choosing the right approach
 
@@ -148,8 +150,6 @@ flowchart TD
     style DocRef fill:#F0E6FF,stroke:#9B59B6,stroke-width:2px
     style Physical fill:#FCE4EC,stroke:#E91E63,stroke-width:2px
 ```
-
-When a physical signature is required, the document is printed, signed, scanned, and uploaded as a PDF. A DocumentReference links the scanned copy back to the original Composition.
 
 ---
 
