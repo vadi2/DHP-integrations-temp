@@ -158,3 +158,4 @@ flowchart TD
 
 {% lang-fragment globals-table.xhtml %}
 
+{% include globals-table-ru.xhtml %} -->
