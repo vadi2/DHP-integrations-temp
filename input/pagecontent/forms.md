@@ -2,9 +2,9 @@
 
 Catalog generated from Order 363 of the Ministry of Health of the Republic of Uzbekistan (December 31, 2020). Updated with information from Order 16 (January 17, 2022).
 
-## SECTION 1: HOSPITAL FORMS
+#### SECTION 1: HOSPITAL FORMS
 
-### 1.1 Hospital Journals
+##### 1.1 Hospital Journals
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -30,7 +30,7 @@ Catalog generated from Order 363 of the Ministry of Health of the Republic of Uz
 | 059-2-х/ш | Шошилинч(тез) тиббий ёрдам кўрсатиш постидан фойдаланган бюджет дори-воситаси, тиббий буюмларни хисобга олиш журнали | Emergency post budget medication usage journal | Журнал | 5 years |
 | 102-х/ш | Чақалоқлар бўлими(хона) журнали | Newborn department journal | Журнал | 25 years |
 
-### 1.2 Hospital Medical Cards
+##### 1.2 Hospital Medical Cards
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -42,7 +42,7 @@ Catalog generated from Order 363 of the Ministry of Health of the Republic of Uz
 | 096-х/ш | Туғруқ тиббий картаси | Childbirth medical card | Карта | 25 years |
 | 097-х/ш | Чақалоқнинг ривожланиш тиббий картаси | Newborn development medical card | Карта | 25 years |
 
-### 1.3 Hospital Forms/Blanks
+##### 1.3 Hospital Forms/Blanks
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -56,9 +56,9 @@ Catalog generated from Order 363 of the Ministry of Health of the Republic of Uz
 
 ---
 
-## SECTION 2: OUTPATIENT-POLYCLINIC FORMS
+#### SECTION 2: OUTPATIENT-POLYCLINIC FORMS
 
-### 2.1 Outpatient Journals
+##### 2.1 Outpatient Journals
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -78,7 +78,7 @@ Catalog generated from Order 363 of the Ministry of Health of the Republic of Uz
 | 060-х/ш | Юқумли касалликларни қайд этиш журнали | Infectious diseases registration journal | Журнал | 5 years |
 | 064-х/ш | Эмлашни қайд этиш журнали (АПМ-ларида) | Vaccination registration journal (at APM) | Журнал | 5 years |
 
-### 2.2 Outpatient Cards and Forms
+##### 2.2 Outpatient Cards and Forms
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -108,7 +108,7 @@ Catalog generated from Order 363 of the Ministry of Health of the Republic of Uz
 
 ---
 
-## SECTION 3: LABORATORY FORMS
+#### SECTION 3: LABORATORY FORMS
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -137,7 +137,7 @@ Catalog generated from Order 363 of the Ministry of Health of the Republic of Uz
 
 ---
 
-## SECTION 4: EMERGENCY MEDICAL CARE & SANITARY AVIATION
+#### SECTION 4: EMERGENCY MEDICAL CARE & SANITARY AVIATION
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -154,7 +154,7 @@ Catalog generated from Order 363 of the Ministry of Health of the Republic of Uz
 
 ---
 
-## SECTION 5: PATHOLOGY CENTER
+#### SECTION 5: PATHOLOGY CENTER
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -167,7 +167,7 @@ Catalog generated from Order 363 of the Ministry of Health of the Republic of Uz
 
 ---
 
-## SECTION 6: FORENSIC MEDICAL EXAMINATION CENTER
+#### SECTION 6: FORENSIC MEDICAL EXAMINATION CENTER
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -191,7 +191,7 @@ Catalog generated from Order 363 of the Ministry of Health of the Republic of Uz
 
 ---
 
-## SECTION 7: SCREENING CENTER
+#### SECTION 7: SCREENING CENTER
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -211,7 +211,7 @@ Catalog generated from Order 363 of the Ministry of Health of the Republic of Uz
 
 ---
 
-## SECTION 8: AIDS CENTER
+#### SECTION 8: AIDS CENTER
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -224,7 +224,7 @@ Catalog generated from Order 363 of the Ministry of Health of the Republic of Uz
 
 ---
 
-## SECTION 9: BLOOD SERVICE
+#### SECTION 9: BLOOD SERVICE
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -256,7 +256,7 @@ Catalog generated from Order 363 of the Ministry of Health of the Republic of Uz
 
 ---
 
-## SECTION 10: SANITARY-EPIDEMIOLOGICAL SERVICE
+#### SECTION 10: SANITARY-EPIDEMIOLOGICAL SERVICE
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -301,7 +301,7 @@ Catalog generated from Order 363 of the Ministry of Health of the Republic of Uz
 
 ---
 
-## APPENDIX 2: ELECTRONIC FORMS (Page 18)
+#### APPENDIX 2: ELECTRONIC FORMS (Page 18)
 *Family passport and territory journals maintained electronically*
 
 | # | Uzbek Name | English Translation |
@@ -323,7 +323,7 @@ Catalog generated from Order 363 of the Ministry of Health of the Republic of Uz
 ---
 
 
-## REGULATORY UPDATES
+#### REGULATORY UPDATES
 
 Some forms have been updated by subsequent orders:
 
@@ -335,7 +335,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## FACILITY TYPES AND APPLICABLE FORMS
+#### FACILITY TYPES AND APPLICABLE FORMS
 
 | Facility Type | Uzbek Name | Primary Forms Used |
 |---------------|------------|-------------------|
@@ -353,7 +353,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## DOCUMENT RETENTION SUMMARY
+#### DOCUMENT RETENTION SUMMARY
 
 | Retention Period | Form Types |
 |------------------|-----------------|
@@ -367,8 +367,8 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 ---
 
 
-# Form Relationships Analysis - Order 363
-## Uzbekistan Healthcare Forms - Detailed Relationship Mapping
+### Form Relationships Analysis - Order 363
+#### Uzbekistan Healthcare Forms - Detailed Relationship Mapping
 
 **Purpose:** This document provides comprehensive ASCII diagrams showing data flow and relationships between all healthcare forms in Order 363.
 
@@ -385,11 +385,11 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 1: HOSPITAL FORMS
+### SECTION 1: HOSPITAL FORMS
 
-## 1.1 PATIENT ADMISSION CLUSTER
+#### 1.1 PATIENT ADMISSION CLUSTER
 
-### Core Admission Flow
+##### Core Admission Flow
 ```
                                     ┌─────────────────────────────────────────────────────────────┐
                                     │              HOSPITAL ADMISSION WORKFLOW                     │
@@ -434,7 +434,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ```
 
-### Relationship Details for Admission Cluster:
+##### Relationship Details for Admission Cluster:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -445,9 +445,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 1.2 MATERNAL/OBSTETRIC CLUSTER
+#### 1.2 MATERNAL/OBSTETRIC CLUSTER
 
-### Obstetric Patient Flow
+##### Obstetric Patient Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                         MATERNAL CARE WORKFLOW                                   │
@@ -513,7 +513,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
               └───► Links to Outpatient Form 111-х/ш (Pregnant Woman's Individual Card)
 ```
 
-### Relationship Details for Maternal Cluster:
+##### Relationship Details for Maternal Cluster:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -528,9 +528,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 1.3 SURGICAL CLUSTER
+#### 1.3 SURGICAL CLUSTER
 
-### Surgical Procedures Flow
+##### Surgical Procedures Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                         SURGICAL PROCEDURES WORKFLOW                             │
@@ -579,7 +579,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
                                               └─────────────────────┘
 ```
 
-### Relationship Details for Surgical Cluster:
+##### Relationship Details for Surgical Cluster:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -593,9 +593,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 1.4 DIAGNOSTIC IMAGING CLUSTER
+#### 1.4 DIAGNOSTIC IMAGING CLUSTER
 
-### Diagnostic Procedures Flow
+##### Diagnostic Procedures Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                         DIAGNOSTIC IMAGING WORKFLOW                              │
@@ -635,7 +635,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
     └─────────────────────┘
 ```
 
-### Relationship Details for Imaging Cluster:
+##### Relationship Details for Imaging Cluster:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -646,9 +646,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 1.5 TREATMENT & SUPPORT CLUSTER
+#### 1.5 TREATMENT & SUPPORT CLUSTER
 
-### Treatment Room and Support Services Flow
+##### Treatment Room and Support Services Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    TREATMENT ROOM & SUPPORT SERVICES                             │
@@ -707,9 +707,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 1.6 MEDICATION MANAGEMENT CLUSTER
+#### 1.6 MEDICATION MANAGEMENT CLUSTER
 
-### Medication Tracking Flow
+##### Medication Tracking Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                         MEDICATION MANAGEMENT WORKFLOW                           │
@@ -744,9 +744,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 1.7 DEATH DOCUMENTATION CLUSTER
+#### 1.7 DEATH DOCUMENTATION CLUSTER
 
-### Death Certificate Flow
+##### Death Certificate Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                           DEATH DOCUMENTATION WORKFLOW                           │
@@ -792,9 +792,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 1.8 ANTI-RABIES TREATMENT
+#### 1.8 ANTI-RABIES TREATMENT
 
-### Anti-Rabies Care Flow
+##### Anti-Rabies Care Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                         ANTI-RABIES TREATMENT WORKFLOW                           │
@@ -831,7 +831,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# MASTER HOSPITAL FORMS RELATIONSHIP MAP
+### MASTER HOSPITAL FORMS RELATIONSHIP MAP
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -911,11 +911,11 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 2: OUTPATIENT-POLYCLINIC FORMS
+### SECTION 2: OUTPATIENT-POLYCLINIC FORMS
 
-## 2.1 PRIMARY CARE VISIT CLUSTER
+#### 2.1 PRIMARY CARE VISIT CLUSTER
 
-### Outpatient Registration and Visit Flow
+##### Outpatient Registration and Visit Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                      OUTPATIENT VISIT WORKFLOW                                   │
@@ -969,7 +969,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
                               └─────────────────┘
 ```
 
-### Relationship Details for Primary Care Cluster:
+##### Relationship Details for Primary Care Cluster:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -982,9 +982,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 2.2 DISPENSARY OBSERVATION CLUSTER
+#### 2.2 DISPENSARY OBSERVATION CLUSTER
 
-### Chronic Disease Management Flow
+##### Chronic Disease Management Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                      DISPENSARY (CHRONIC CARE) SYSTEM                            │
@@ -1037,7 +1037,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
                       └─────────────────────┘
 ```
 
-### Relationship Details for Dispensary Cluster:
+##### Relationship Details for Dispensary Cluster:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -1050,9 +1050,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 2.3 FAMILY MEDICINE & HOME CARE CLUSTER
+#### 2.3 FAMILY MEDICINE & HOME CARE CLUSTER
 
-### Family Nurse Activities Flow
+##### Family Nurse Activities Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                      FAMILY MEDICINE WORKFLOW                                    │
@@ -1095,9 +1095,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 2.4 MATERNAL & PRENATAL CARE CLUSTER
+#### 2.4 MATERNAL & PRENATAL CARE CLUSTER
 
-### Prenatal Care Flow (Outpatient Side)
+##### Prenatal Care Flow (Outpatient Side)
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                      PRENATAL CARE WORKFLOW (Outpatient)                         │
@@ -1152,7 +1152,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
                     └─────────────────────┘
 ```
 
-### Relationship Details for Prenatal Cluster:
+##### Relationship Details for Prenatal Cluster:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -1164,9 +1164,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 2.5 VACCINATION & PREVENTIVE CARE CLUSTER
+#### 2.5 VACCINATION & PREVENTIVE CARE CLUSTER
 
-### Vaccination Flow
+##### Vaccination Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                      VACCINATION WORKFLOW                                        │
@@ -1208,9 +1208,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 2.6 INFECTIOUS DISEASE REPORTING CLUSTER
+#### 2.6 INFECTIOUS DISEASE REPORTING CLUSTER
 
-### Infectious Disease Notification Flow
+##### Infectious Disease Notification Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                      INFECTIOUS DISEASE REPORTING                                │
@@ -1254,9 +1254,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 2.7 MEDICAL CONSULTATION & SICK LEAVE CLUSTER
+#### 2.7 MEDICAL CONSULTATION & SICK LEAVE CLUSTER
 
-### Medical Commission and Certificates Flow
+##### Medical Commission and Certificates Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    MEDICAL CONSULTATION & DOCUMENTATION                          │
@@ -1307,9 +1307,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 2.8 HOSPITAL DISCHARGE & STATISTICS CLUSTER
+#### 2.8 HOSPITAL DISCHARGE & STATISTICS CLUSTER
 
-### Post-Hospitalization Documentation Flow
+##### Post-Hospitalization Documentation Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                      HOSPITAL DISCHARGE DOCUMENTATION                            │
@@ -1348,9 +1348,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 2.9 EMERGENCY CALLS FROM OUTPATIENT
+#### 2.9 EMERGENCY CALLS FROM OUTPATIENT
 
-### Emergency Call Integration
+##### Emergency Call Integration
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                      EMERGENCY CALLS THROUGH POLYCLINIC                          │
@@ -1381,7 +1381,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# MASTER OUTPATIENT-POLYCLINIC FORMS RELATIONSHIP MAP
+### MASTER OUTPATIENT-POLYCLINIC FORMS RELATIONSHIP MAP
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -1482,7 +1482,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## CROSS-SECTION LINKAGES: OUTPATIENT ↔ HOSPITAL
+#### CROSS-SECTION LINKAGES: OUTPATIENT ↔ HOSPITAL
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
@@ -1522,11 +1522,11 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 3: LABORATORY FORMS
+### SECTION 3: LABORATORY FORMS
 
-## 3.1 LABORATORY WORKFLOW OVERVIEW
+#### 3.1 LABORATORY WORKFLOW OVERVIEW
 
-### Sample-to-Result Flow
+##### Sample-to-Result Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                         LABORATORY WORKFLOW OVERVIEW                             │
@@ -1585,9 +1585,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 3.2 BLOOD TEST CLUSTER
+#### 3.2 BLOOD TEST CLUSTER
 
-### Hematology and Blood Chemistry Flow
+##### Hematology and Blood Chemistry Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                         BLOOD TEST WORKFLOW                                      │
@@ -1666,7 +1666,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
     └────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Relationship Details for Blood Test Cluster:
+##### Relationship Details for Blood Test Cluster:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -1683,9 +1683,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 3.3 HEMATOLOGY-ONCOLOGY CLUSTER
+#### 3.3 HEMATOLOGY-ONCOLOGY CLUSTER
 
-### Bone Marrow and Myelogram Flow
+##### Bone Marrow and Myelogram Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    HEMATOLOGY-ONCOLOGY DIAGNOSTICS                               │
@@ -1738,9 +1738,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 3.4 NON-BLOOD BODY FLUIDS CLUSTER
+#### 3.4 NON-BLOOD BODY FLUIDS CLUSTER
 
-### Urine, Stool, and Other Fluids Analysis
+##### Urine, Stool, and Other Fluids Analysis
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    NON-BLOOD BODY FLUIDS WORKFLOW                                │
@@ -1821,7 +1821,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
     └────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Relationship Details for Body Fluids Cluster:
+##### Relationship Details for Body Fluids Cluster:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -1837,9 +1837,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 3.5 REPRODUCTIVE MEDICINE CLUSTER
+#### 3.5 REPRODUCTIVE MEDICINE CLUSTER
 
-### Reproductive System Tests
+##### Reproductive System Tests
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    REPRODUCTIVE MEDICINE TESTS                                   │
@@ -1897,9 +1897,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 3.6 MICROBIOLOGY CLUSTER
+#### 3.6 MICROBIOLOGY CLUSTER
 
-### Microbiological Testing Flow
+##### Microbiological Testing Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    MICROBIOLOGY WORKFLOW                                         │
@@ -1970,7 +1970,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
     └────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Relationship Details for Microbiology Cluster:
+##### Relationship Details for Microbiology Cluster:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -1983,9 +1983,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 3.7 LAB ADMINISTRATION CLUSTER
+#### 3.7 LAB ADMINISTRATION CLUSTER
 
-### Laboratory Management
+##### Laboratory Management
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    LABORATORY ADMINISTRATION                                     │
@@ -2026,7 +2026,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# MASTER LABORATORY FORMS RELATIONSHIP MAP
+### MASTER LABORATORY FORMS RELATIONSHIP MAP
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -2123,7 +2123,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## CROSS-SECTION LINKAGES: LABORATORY ↔ OTHER SECTIONS
+#### CROSS-SECTION LINKAGES: LABORATORY ↔ OTHER SECTIONS
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
@@ -2189,11 +2189,11 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 4: EMERGENCY MEDICAL CARE
+### SECTION 4: EMERGENCY MEDICAL CARE
 
-## 4.1 EMERGENCY MEDICAL SERVICES WORKFLOW OVERVIEW
+#### 4.1 EMERGENCY MEDICAL SERVICES WORKFLOW OVERVIEW
 
-### Emergency Call to Care Flow
+##### Emergency Call to Care Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    EMERGENCY MEDICAL SERVICES OVERVIEW                           │
@@ -2243,9 +2243,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 4.2 EMERGENCY CALL PROCESSING CLUSTER
+#### 4.2 EMERGENCY CALL PROCESSING CLUSTER
 
-### Call Reception and Dispatch Flow
+##### Call Reception and Dispatch Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    CALL PROCESSING WORKFLOW                                      │
@@ -2309,7 +2309,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
     └─────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Relationship Details for Call Processing:
+##### Relationship Details for Call Processing:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -2322,9 +2322,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 4.3 PATIENT CARE AND OBSERVATION CLUSTER
+#### 4.3 PATIENT CARE AND OBSERVATION CLUSTER
 
-### On-Scene and Transport Care
+##### On-Scene and Transport Care
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    PATIENT CARE DOCUMENTATION                                    │
@@ -2392,9 +2392,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 4.4 MEDICATION AND RESOURCE MANAGEMENT CLUSTER
+#### 4.4 MEDICATION AND RESOURCE MANAGEMENT CLUSTER
 
-### EMS Medication Tracking
+##### EMS Medication Tracking
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    MEDICATION MANAGEMENT                                         │
@@ -2447,9 +2447,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 4.5 SITUATION MANAGEMENT AND NOTIFICATION CLUSTER
+#### 4.5 SITUATION MANAGEMENT AND NOTIFICATION CLUSTER
 
-### Incident and Situation Tracking
+##### Incident and Situation Tracking
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    SITUATION MANAGEMENT                                          │
@@ -2493,7 +2493,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
     └────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Relationship Details for Situation Management:
+##### Relationship Details for Situation Management:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -2505,9 +2505,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 4.6 SANITARY AVIATION CLUSTER
+#### 4.6 SANITARY AVIATION CLUSTER
 
-### Air Medical Services
+##### Air Medical Services
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    SANITARY AVIATION (AIR MEDICAL)                               │
@@ -2583,7 +2583,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
     └───────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Relationship Details for Sanitary Aviation:
+##### Relationship Details for Sanitary Aviation:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -2595,7 +2595,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# MASTER EMERGENCY MEDICAL CARE RELATIONSHIP MAP
+### MASTER EMERGENCY MEDICAL CARE RELATIONSHIP MAP
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -2672,7 +2672,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## CROSS-SECTION LINKAGES: EMS ↔ OTHER SECTIONS
+#### CROSS-SECTION LINKAGES: EMS ↔ OTHER SECTIONS
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
@@ -2752,11 +2752,11 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 5: PATHOLOGY CENTER
+### SECTION 5: PATHOLOGY CENTER
 
-## 5.1 PATHOLOGY SERVICES OVERVIEW
+#### 5.1 PATHOLOGY SERVICES OVERVIEW
 
-### Pathology Workflow Flow
+##### Pathology Workflow Flow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    PATHOLOGY CENTER OVERVIEW                                     │
@@ -2794,9 +2794,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 5.2 AUTOPSY CLUSTER
+#### 5.2 AUTOPSY CLUSTER
 
-### Post-Mortem Examination Workflow
+##### Post-Mortem Examination Workflow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    AUTOPSY WORKFLOW                                              │
@@ -2868,7 +2868,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
     └────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Relationship Details for Autopsy Cluster:
+##### Relationship Details for Autopsy Cluster:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -2882,9 +2882,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 5.3 HISTOPATHOLOGY CLUSTER
+#### 5.3 HISTOPATHOLOGY CLUSTER
 
-### Surgical and Biopsy Specimen Workflow
+##### Surgical and Biopsy Specimen Workflow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    HISTOPATHOLOGY WORKFLOW                                       │
@@ -2968,7 +2968,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
     └───────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Relationship Details for Histopathology Cluster:
+##### Relationship Details for Histopathology Cluster:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -2981,7 +2981,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# MASTER PATHOLOGY CENTER RELATIONSHIP MAP
+### MASTER PATHOLOGY CENTER RELATIONSHIP MAP
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -3042,7 +3042,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## CROSS-SECTION LINKAGES: PATHOLOGY ↔ OTHER SECTIONS
+#### CROSS-SECTION LINKAGES: PATHOLOGY ↔ OTHER SECTIONS
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
@@ -3129,11 +3129,11 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 6: FORENSIC MEDICAL EXAMINATION CENTER
+### SECTION 6: FORENSIC MEDICAL EXAMINATION CENTER
 
-## 6.1 FORENSIC SERVICES OVERVIEW
+#### 6.1 FORENSIC SERVICES OVERVIEW
 
-### Forensic Medical Examination Structure
+##### Forensic Medical Examination Structure
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │              FORENSIC MEDICAL EXAMINATION CENTER OVERVIEW                        │
@@ -3213,9 +3213,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 6.2 LIVING PERSON EXAMINATION CLUSTER
+#### 6.2 LIVING PERSON EXAMINATION CLUSTER
 
-### Outpatient Forensic Examination Workflow
+##### Outpatient Forensic Examination Workflow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                 LIVING PERSON EXAMINATION WORKFLOW                               │
@@ -3301,7 +3301,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
                           └─────────────────────────┘
 ```
 
-### Relationship Details for Living Person Examination:
+##### Relationship Details for Living Person Examination:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -3315,9 +3315,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 6.3 THANATOLOGY (CORPSE EXAMINATION) CLUSTER
+#### 6.3 THANATOLOGY (CORPSE EXAMINATION) CLUSTER
 
-### Post-Mortem Forensic Examination Workflow
+##### Post-Mortem Forensic Examination Workflow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    THANATOLOGY EXAMINATION WORKFLOW                              │
@@ -3469,7 +3469,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
     └─────────────────────┘
 ```
 
-### Relationship Details for Thanatology:
+##### Relationship Details for Thanatology:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -3488,9 +3488,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 6.4 FORENSIC LABORATORY DEPARTMENTS
+#### 6.4 FORENSIC LABORATORY DEPARTMENTS
 
-### Forensic Biology Department
+##### Forensic Biology Department
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    FORENSIC BIOLOGY DEPARTMENT                                   │
@@ -3539,7 +3539,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
                                 - Exclusion/inclusion analysis
 ```
 
-### Forensic Chemistry Department
+##### Forensic Chemistry Department
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    FORENSIC CHEMISTRY DEPARTMENT                                 │
@@ -3582,7 +3582,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
                                 - Legal implications
 ```
 
-### Medical Criminalistics Department
+##### Medical Criminalistics Department
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    MEDICAL CRIMINALISTICS DEPARTMENT                             │
@@ -3609,9 +3609,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 6.5 ADMINISTRATIVE AND COMPLEX CASES CLUSTER
+#### 6.5 ADMINISTRATIVE AND COMPLEX CASES CLUSTER
 
-### Complex Expertise and Appeals Management
+##### Complex Expertise and Appeals Management
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    ADMINISTRATIVE FUNCTIONS                                      │
@@ -3678,7 +3678,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# MASTER FORENSIC MEDICAL EXAMINATION RELATIONSHIP MAP
+### MASTER FORENSIC MEDICAL EXAMINATION RELATIONSHIP MAP
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -3754,7 +3754,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## CROSS-SECTION LINKAGES: FORENSIC ↔ OTHER SECTIONS
+#### CROSS-SECTION LINKAGES: FORENSIC ↔ OTHER SECTIONS
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
@@ -3852,11 +3852,11 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 7: SCREENING CENTER
+### SECTION 7: SCREENING CENTER
 
-## 7.1 SCREENING SERVICES OVERVIEW
+#### 7.1 SCREENING SERVICES OVERVIEW
 
-### Screening Center Structure
+##### Screening Center Structure
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                        SCREENING CENTER OVERVIEW                                 │
@@ -3923,9 +3923,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 7.2 PRENATAL SCREENING CLUSTER
+#### 7.2 PRENATAL SCREENING CLUSTER
 
-### Prenatal Screening Workflow
+##### Prenatal Screening Workflow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    PRENATAL SCREENING WORKFLOW                                   │
@@ -4051,7 +4051,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
               └────────────────────────────────────────────────────┘
 ```
 
-### Relationship Details for Prenatal Screening:
+##### Relationship Details for Prenatal Screening:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -4066,9 +4066,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 7.3 NEONATAL SCREENING CLUSTER
+#### 7.3 NEONATAL SCREENING CLUSTER
 
-### Newborn Screening Workflow
+##### Newborn Screening Workflow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    NEONATAL SCREENING WORKFLOW                                   │
@@ -4145,7 +4145,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
                                 └─────────────────────────┘
 ```
 
-### Relationship Details for Neonatal Screening:
+##### Relationship Details for Neonatal Screening:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -4158,9 +4158,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 7.4 GENETIC DISEASE MANAGEMENT CLUSTER
+#### 7.4 GENETIC DISEASE MANAGEMENT CLUSTER
 
-### Hereditary Disease Patient Care
+##### Hereditary Disease Patient Care
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    GENETIC DISEASE MANAGEMENT                                    │
@@ -4211,7 +4211,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# MASTER SCREENING CENTER RELATIONSHIP MAP
+### MASTER SCREENING CENTER RELATIONSHIP MAP
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -4280,7 +4280,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## CROSS-SECTION LINKAGES: SCREENING ↔ OTHER SECTIONS
+#### CROSS-SECTION LINKAGES: SCREENING ↔ OTHER SECTIONS
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
@@ -4351,11 +4351,11 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 8: AIDS CENTER
+### SECTION 8: AIDS CENTER
 
-## 8.1 AIDS CENTER SERVICES OVERVIEW
+#### 8.1 AIDS CENTER SERVICES OVERVIEW
 
-### HIV/AIDS Service Structure
+##### HIV/AIDS Service Structure
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                          AIDS CENTER OVERVIEW                                    │
@@ -4439,9 +4439,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 8.2 HIV TESTING AND REGISTRATION CLUSTER
+#### 8.2 HIV TESTING AND REGISTRATION CLUSTER
 
-### HIV Testing and Confirmation Workflow
+##### HIV Testing and Confirmation Workflow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    HIV TESTING WORKFLOW                                          │
@@ -4525,7 +4525,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
                                 - Partner/contact tracing
 ```
 
-### Relationship Details for Testing/Registration:
+##### Relationship Details for Testing/Registration:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -4536,9 +4536,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 8.3 MONITORING AND TREATMENT CLUSTER
+#### 8.3 MONITORING AND TREATMENT CLUSTER
 
-### HIV Patient Monitoring Workflow
+##### HIV Patient Monitoring Workflow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    HIV MONITORING AND TREATMENT                                  │
@@ -4606,7 +4606,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
                                 - Side effects reported
 ```
 
-### Relationship Details for Monitoring/Treatment:
+##### Relationship Details for Monitoring/Treatment:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -4618,7 +4618,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# MASTER AIDS CENTER RELATIONSHIP MAP
+### MASTER AIDS CENTER RELATIONSHIP MAP
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -4673,7 +4673,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## CROSS-SECTION LINKAGES: AIDS CENTER ↔ OTHER SECTIONS
+#### CROSS-SECTION LINKAGES: AIDS CENTER ↔ OTHER SECTIONS
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
@@ -4742,11 +4742,11 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 9: BLOOD SERVICE (ҚОН ХИЗМАТИ)
+### SECTION 9: BLOOD SERVICE (ҚОН ХИЗМАТИ)
 
-## 9.1 BLOOD SERVICE OVERVIEW
+#### 9.1 BLOOD SERVICE OVERVIEW
 
-### Blood Service Organizational Structure
+##### Blood Service Organizational Structure
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                          BLOOD SERVICE OVERVIEW                                  │
@@ -4818,9 +4818,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 9.2 DONOR REGISTRATION AND CERTIFICATION CLUSTER
+#### 9.2 DONOR REGISTRATION AND CERTIFICATION CLUSTER
 
-### Donor Enrollment Workflow
+##### Donor Enrollment Workflow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    DONOR REGISTRATION WORKFLOW                                   │
@@ -4885,7 +4885,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
                               └─────────────────────┘
 ```
 
-### Relationship Details for Donor Registration:
+##### Relationship Details for Donor Registration:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -4896,9 +4896,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 9.3 BLOOD COLLECTION CLUSTER
+#### 9.3 BLOOD COLLECTION CLUSTER
 
-### Blood Collection Methods and Documentation
+##### Blood Collection Methods and Documentation
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    BLOOD COLLECTION WORKFLOW                                     │
@@ -4979,7 +4979,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
                               └─────────────────────────────────────────┘
 ```
 
-### Relationship Details for Blood Collection:
+##### Relationship Details for Blood Collection:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -4991,9 +4991,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 9.4 BLOOD TYPING AND SEROLOGY CLUSTER
+#### 9.4 BLOOD TYPING AND SEROLOGY CLUSTER
 
-### Blood Typing and Serum Preparation
+##### Blood Typing and Serum Preparation
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    BLOOD TYPING AND SEROLOGY                                     │
@@ -5071,7 +5071,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
     └───────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Relationship Details for Blood Typing:
+##### Relationship Details for Blood Typing:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -5082,9 +5082,9 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-## 9.5 INFECTIOUS DISEASE SCREENING CLUSTER
+#### 9.5 INFECTIOUS DISEASE SCREENING CLUSTER
 
-### Blood Safety Testing Workflow
+##### Blood Safety Testing Workflow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    INFECTIOUS DISEASE SCREENING                                  │
@@ -5179,7 +5179,7 @@ NON-REACTIVE                                                              REACTI
     NOTE: Required in agricultural regions where brucellosis is endemic
 ```
 
-### Relationship Details for Infectious Disease Screening:
+##### Relationship Details for Infectious Disease Screening:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -5192,9 +5192,9 @@ NON-REACTIVE                                                              REACTI
 
 ---
 
-## 9.6 COMPONENT PREPARATION AND QUALITY CONTROL CLUSTER
+#### 9.6 COMPONENT PREPARATION AND QUALITY CONTROL CLUSTER
 
-### Blood Component Manufacturing
+##### Blood Component Manufacturing
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    COMPONENT PREPARATION WORKFLOW                                │
@@ -5299,7 +5299,7 @@ NON-REACTIVE                                                              REACTI
                               └─────────────────────┘
 ```
 
-### Relationship Details for Component Preparation:
+##### Relationship Details for Component Preparation:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -5312,9 +5312,9 @@ NON-REACTIVE                                                              REACTI
 
 ---
 
-## 9.7 STORAGE AND DISTRIBUTION CLUSTER
+#### 9.7 STORAGE AND DISTRIBUTION CLUSTER
 
-### Blood Product Distribution Workflow
+##### Blood Product Distribution Workflow
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    STORAGE AND DISTRIBUTION WORKFLOW                             │
@@ -5427,7 +5427,7 @@ NON-REACTIVE                                                              REACTI
     └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Relationship Details for Storage and Distribution:
+##### Relationship Details for Storage and Distribution:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -5440,7 +5440,7 @@ NON-REACTIVE                                                              REACTI
 
 ---
 
-# MASTER BLOOD SERVICE RELATIONSHIP MAP
+### MASTER BLOOD SERVICE RELATIONSHIP MAP
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -5605,7 +5605,7 @@ NON-REACTIVE                                                              REACTI
 
 ---
 
-## CROSS-SECTION LINKAGES: BLOOD SERVICE ↔ OTHER SECTIONS
+#### CROSS-SECTION LINKAGES: BLOOD SERVICE ↔ OTHER SECTIONS
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
@@ -5688,11 +5688,11 @@ NON-REACTIVE                                                              REACTI
 
 ---
 
-# SECTION 10: SANITARY-EPIDEMIOLOGICAL SERVICE
+### SECTION 10: SANITARY-EPIDEMIOLOGICAL SERVICE
 
-## 10.1 SANITARY-EPIDEMIOLOGICAL SERVICE OVERVIEW
+#### 10.1 SANITARY-EPIDEMIOLOGICAL SERVICE OVERVIEW
 
-### SES Organizational Structure
+##### SES Organizational Structure
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                  SANITARY-EPIDEMIOLOGICAL SERVICE OVERVIEW                       │
@@ -5788,9 +5788,9 @@ NON-REACTIVE                                                              REACTI
 
 ---
 
-## 10.2 SANITARY SUPERVISION OF FACILITIES CLUSTER
+#### 10.2 SANITARY SUPERVISION OF FACILITIES CLUSTER
 
-### Facility and Construction Oversight
+##### Facility and Construction Oversight
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    SANITARY SUPERVISION WORKFLOW                                 │
@@ -5905,7 +5905,7 @@ NON-REACTIVE                                                              REACTI
                                 Required before operation each season
 ```
 
-### Relationship Details for Sanitary Supervision:
+##### Relationship Details for Sanitary Supervision:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -5918,9 +5918,9 @@ NON-REACTIVE                                                              REACTI
 
 ---
 
-## 10.3 ENVIRONMENTAL SAMPLING AND ANALYSIS CLUSTER
+#### 10.3 ENVIRONMENTAL SAMPLING AND ANALYSIS CLUSTER
 
-### Sampling Protocols and Testing
+##### Sampling Protocols and Testing
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    ENVIRONMENTAL SAMPLING WORKFLOW                               │
@@ -6035,7 +6035,7 @@ NON-REACTIVE                                                              REACTI
                                 - Recommendations
 ```
 
-### Relationship Details for Environmental Sampling:
+##### Relationship Details for Environmental Sampling:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -6048,9 +6048,9 @@ NON-REACTIVE                                                              REACTI
 
 ---
 
-## 10.4 INFECTIOUS DISEASE CONTROL CLUSTER
+#### 10.4 INFECTIOUS DISEASE CONTROL CLUSTER
 
-### Outbreak Response and Disinfection
+##### Outbreak Response and Disinfection
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    INFECTIOUS DISEASE CONTROL WORKFLOW                           │
@@ -6175,7 +6175,7 @@ PATIENT MANAGEMENT                                            EPIDEMIOLOGICAL
                                 - Follow-up status
 ```
 
-### Relationship Details for Infectious Disease Control:
+##### Relationship Details for Infectious Disease Control:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -6189,9 +6189,9 @@ PATIENT MANAGEMENT                                            EPIDEMIOLOGICAL
 
 ---
 
-## 10.5 ZOONOTIC DISEASE SURVEILLANCE - BRUCELLOSIS CLUSTER
+#### 10.5 ZOONOTIC DISEASE SURVEILLANCE - BRUCELLOSIS CLUSTER
 
-### Brucellosis Detection and Monitoring
+##### Brucellosis Detection and Monitoring
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    BRUCELLOSIS SURVEILLANCE WORKFLOW                             │
@@ -6297,7 +6297,7 @@ PATIENT MANAGEMENT                                            EPIDEMIOLOGICAL
     └───────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Relationship Details for Brucellosis Surveillance:
+##### Relationship Details for Brucellosis Surveillance:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -6309,9 +6309,9 @@ PATIENT MANAGEMENT                                            EPIDEMIOLOGICAL
 
 ---
 
-## 10.6 ZOONOTIC DISEASE SURVEILLANCE - ANTHRAX CLUSTER
+#### 10.6 ZOONOTIC DISEASE SURVEILLANCE - ANTHRAX CLUSTER
 
-### Anthrax Detection and Response
+##### Anthrax Detection and Response
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    ANTHRAX SURVEILLANCE WORKFLOW                                 │
@@ -6412,7 +6412,7 @@ PATIENT MANAGEMENT                                            EPIDEMIOLOGICAL
     └───────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Relationship Details for Anthrax Surveillance:
+##### Relationship Details for Anthrax Surveillance:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -6424,9 +6424,9 @@ PATIENT MANAGEMENT                                            EPIDEMIOLOGICAL
 
 ---
 
-## 10.7 PARASITIC AND VECTOR-BORNE DISEASES CLUSTER
+#### 10.7 PARASITIC AND VECTOR-BORNE DISEASES CLUSTER
 
-### Special Surveillance Programs
+##### Special Surveillance Programs
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    PARASITIC & VECTOR-BORNE DISEASE SURVEILLANCE                 │
@@ -6554,7 +6554,7 @@ PATIENT MANAGEMENT                                            EPIDEMIOLOGICAL
                               └─────────────────────┘
 ```
 
-### Relationship Details for Parasitic/Vector-Borne Diseases:
+##### Relationship Details for Parasitic/Vector-Borne Diseases:
 
 | Source Form | Target Form | Data Transferred | Trigger |
 |-------------|-------------|------------------|---------|
@@ -6566,9 +6566,9 @@ PATIENT MANAGEMENT                                            EPIDEMIOLOGICAL
 
 ---
 
-## 10.8 LABORATORY STRAIN MANAGEMENT CLUSTER
+#### 10.8 LABORATORY STRAIN MANAGEMENT CLUSTER
 
-### Reference Strain Handling
+##### Reference Strain Handling
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    LABORATORY STRAIN MANAGEMENT                                  │
@@ -6641,9 +6641,9 @@ PATIENT MANAGEMENT                                            EPIDEMIOLOGICAL
 
 ---
 
-## 10.9 REGULATORY AND ADMINISTRATIVE CLUSTER
+#### 10.9 REGULATORY AND ADMINISTRATIVE CLUSTER
 
-### Enforcement and Documentation
+##### Enforcement and Documentation
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                    REGULATORY ACTIONS WORKFLOW                                   │
@@ -6710,7 +6710,7 @@ PATIENT MANAGEMENT                                            EPIDEMIOLOGICAL
 
 ---
 
-# MASTER SANITARY-EPIDEMIOLOGICAL SERVICE RELATIONSHIP MAP
+### MASTER SANITARY-EPIDEMIOLOGICAL SERVICE RELATIONSHIP MAP
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -6838,7 +6838,7 @@ PATIENT MANAGEMENT                                            EPIDEMIOLOGICAL
 
 ---
 
-## CROSS-SECTION LINKAGES: SES ↔ OTHER SECTIONS
+#### CROSS-SECTION LINKAGES: SES ↔ OTHER SECTIONS
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
@@ -6919,9 +6919,9 @@ PATIENT MANAGEMENT                                            EPIDEMIOLOGICAL
 
 ---
 
-## APPENDIX 2: ELECTRONIC FORMS
+#### APPENDIX 2: ELECTRONIC FORMS
 
-### APP2.1 Overview
+##### APP2.1 Overview
 
 The Electronic Forms system provides the foundation for Uzbekistan's primary healthcare
 information management, creating a comprehensive population registry that connects
@@ -6962,7 +6962,7 @@ individual patient records to territorial healthcare planning.
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### APP2.2 Form 1: Family Passport
+##### APP2.2 Form 1: Family Passport
 
 The Family Passport is the central electronic registry for each household, aggregating
 all family members' health information and demographic data.
@@ -7015,7 +7015,7 @@ all family members' health information and demographic data.
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### APP2.3 Form 2: Territory Passport
+##### APP2.3 Form 2: Territory Passport
 
 The Territory Passport aggregates population and health data for a defined catchment
 area, typically corresponding to a Family Doctor Point or Family Polyclinic service zone.
@@ -7054,7 +7054,7 @@ area, typically corresponding to a Family Doctor Point or Family Polyclinic serv
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### APP2.4 Territory Sub-forms Data Flow (Forms 2.1-2.10)
+##### APP2.4 Territory Sub-forms Data Flow (Forms 2.1-2.10)
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
@@ -7215,7 +7215,7 @@ area, typically corresponding to a Family Doctor Point or Family Polyclinic serv
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### APP2.5 Form 3: Sector Specialists' Outpatient Cards
+##### APP2.5 Form 3: Sector Specialists' Outpatient Cards
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
@@ -7262,7 +7262,7 @@ area, typically corresponding to a Family Doctor Point or Family Polyclinic serv
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### APP2.6 Master Electronic Forms Relationship Map
+##### APP2.6 Master Electronic Forms Relationship Map
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
@@ -7330,7 +7330,7 @@ area, typically corresponding to a Family Doctor Point or Family Polyclinic serv
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### APP2.7 Electronic Forms to Paper Forms Cross-Reference
+##### APP2.7 Electronic Forms to Paper Forms Cross-Reference
 
 | Electronic Form | Primary Paper Form Links | Data Exchange |
 |-----------------|--------------------------|---------------|
