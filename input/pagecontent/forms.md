@@ -1,12 +1,10 @@
-# Uzbekistan Healthcare Forms Catalog
-## Order 363 (December 31, 2020) - Ministry of Health
+### Uzbekistan Healthcare Forms Catalog
 
----
+Catalog generated from Order 363 of the Ministry of Health of the Republic of Uzbekistan (December 31, 2020). Updated with information from Order 16 (January 17, 2022).
 
 ## SECTION 1: HOSPITAL FORMS
 
 ### 1.1 Hospital Journals
-*Used at Level 1-2-3-4 facilities*
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -33,7 +31,6 @@
 | 102-х/ш | Чақалоқлар бўлими(хона) журнали | Newborn department journal | Журнал | 25 years |
 
 ### 1.2 Hospital Medical Cards
-*Used at Level 1-2-3-4 facilities*
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -46,7 +43,6 @@
 | 097-х/ш | Чақалоқнинг ривожланиш тиббий картаси | Newborn development medical card | Карта | 25 years |
 
 ### 1.3 Hospital Forms/Blanks
-*Used at Level 1-2-3-4 facilities*
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -63,7 +59,6 @@
 ## SECTION 2: OUTPATIENT-POLYCLINIC FORMS
 
 ### 2.1 Outpatient Journals
-*Used at Level 1-2-3-4 facilities*
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -84,7 +79,6 @@
 | 064-х/ш | Эмлашни қайд этиш журнали (АПМ-ларида) | Vaccination registration journal (at APM) | Журнал | 5 years |
 
 ### 2.2 Outpatient Cards and Forms
-*Used at Level 1-2-3-4 facilities*
 
 | Form # | Uzbek Name | English Translation | Type | Storage |
 |--------|------------|---------------------|------|---------|
@@ -523,9 +517,6 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-*Catalog generated from Order 363 of the Ministry of Health of the Republic of Uzbekistan (December 31, 2020)*
-
-*Updated with information from Order 16 (January 17, 2022)*
 
 # Form Relationships Analysis - Order 363
 ## Uzbekistan Healthcare Forms - Detailed Relationship Mapping
