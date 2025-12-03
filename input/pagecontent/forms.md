@@ -1,4 +1,4 @@
-### Uzbekistan Healthcare Forms Catalog
+### Healthcare Forms Catalog
 
 Catalog generated from Order 363 of the Ministry of Health of the Republic of Uzbekistan (December 31, 2020). Updated with information from Order 16 (January 17, 2022).
 
