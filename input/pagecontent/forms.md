@@ -1,331 +1,330 @@
 # Uzbekistan Healthcare Forms Catalog
 ## Order 363 (December 31, 2020) - Ministry of Health
-## Каталог медицинских форм Узбекистана
 
 ---
 
-## SECTION 1: HOSPITAL FORMS (ШИФОХОНА / СТАЦИОНАР)
+## SECTION 1: HOSPITAL FORMS
 
-### 1.1 Hospital Journals (Шифохона бўлими журналлари / Журналы стационарного отделения)
+### 1.1 Hospital Journals
 *Used at Level 1-2-3-4 facilities*
 
-| Form # | Uzbek Name | Russian Translation | English Translation | Type | Storage |
-|--------|------------|---------------------|---------------------|------|---------|
-| 001-х/ш | Тиббий муассасага қабул қилинган ёки рад этилганларни хисобга олиш журнали | Журнал учёта поступивших или отказанных в приёме в медицинское учреждение | Journal for registering admitted or rejected patients | Журнал | 25 years |
-| 002-х/ш | Қабул қилинган ва рад этилган ҳомиладорларни, туққан аёлларни хисобга олиш журнали | Журнал учёта поступивших и отказанных беременных и родильниц | Journal for registering admitted/rejected pregnant women and mothers | Журнал | 25 years |
-| 006-х/ш | Ўтказилган наркозларни қайд этиш журнали | Журнал регистрации проведённых наркозов | Anesthesia registration journal | Журнал | 25 years |
-| 008-х/ш | Шифохонадаги жарроҳлик амалиётини қайд этиш журнали | Журнал регистрации хирургических операций в стационаре | Hospital surgical operations registration journal | Журнал | 25 years |
-| 009-х/ш | Қон таркибий кисмлари ва препаратлари куйишни хисобга олиш журнали | Журнал учёта переливания компонентов и препаратов крови | Blood components and preparations transfusion journal | Журнал | 25 years |
-| 010-х/ш | Туғруқ бўлимларида туғруқларни қайд этиш журнали | Журнал регистрации родов в родильных отделениях | Childbirth registration journal in maternity departments | Журнал | 25 years |
-| 106-х/ш | Перинатал ўлим гувоҳномасини қайд этиш журнали | Журнал регистрации свидетельств о перинатальной смерти | Perinatal death certificate registration journal | Журнал | 25 years |
-| 106-2-х/ш | Ўлим гувоҳномасини қайд этиш журнали | Журнал регистрации свидетельств о смерти | Death certificate registration journal | Журнал | 25 years |
-| 017-х/ш | Рентген текширувларни қайд этиш журнали | Журнал регистрации рентгенологических исследований | X-ray examination registration journal | Журнал | 5 years |
-| 019-х/ш | КТ ва МРТ текширувларни қайд этиш журнали | Журнал регистрации КТ и МРТ исследований | CT and MRI examination registration journal | Журнал | 5 years |
-| 020-х/ш | ЭКГ текширувларни қайд этиш журнали | Журнал регистрации ЭКГ исследований | ECG examination registration journal | Журнал | 5 years |
-| 021-х/ш | Эзофагогастродуоденоскопик (ЭФГДС), Колоноскопик текширувларни қайд журнали | Журнал регистрации ЭФГДС и колоноскопических исследований | EGDS and colonoscopy registration journal | Журнал | 5 years |
-| 021-1-х/ш | Эндоскопик текширувларни қайд этиш журнали | Журнал регистрации эндоскопических исследований | Endoscopic examination registration journal | Журнал | 5 years |
-| 029-х/ш | Муолажа хонасида қон намуналари олишни қайд килиш журнали | Журнал регистрации забора образцов крови в процедурном кабинете | Treatment room blood sampling registration journal | Журнал | 5 years |
-| 031-х/ш | Физиотерапия хамшираси кундалик қабул журнали | Журнал ежедневного приёма медсестры физиотерапии | Physiotherapy nurse daily reception journal | Журнал | 1 year |
-| 032-х/ш | Тиббий жиҳоз ва асбоб ускуналарни зарарсизлантиришни қайд этиш ва маркази стерилизация бўлимларига топшириш журнали (стерилизация талаб этиладиган ҳолда) | Журнал регистрации дезинфекции медицинского оборудования и сдачи в центральное стерилизационное отделение | Medical equipment disinfection and sterilization submission journal | Журнал | 2 years |
-| 033-х/ш | Асбоб ускуналарни қабул қилиш ва зарарсизлантириш журнали | Журнал приёма и дезинфекции инструментов | Equipment reception and disinfection journal | Журнал | 2 years |
-| 036-х/ш | Меҳнатга лаёқатсизлик вароғини қайд этиш журнали | Журнал регистрации листков нетрудоспособности | Sick leave certificate registration journal | Журнал | 3 years |
-| 059-х/ш | Катта ҳамшира ёки лаборанткаҳнинг бюджет хисобига орган дори воситаси, диагностикум, реактив ва тиббий буюмларни миқдорий хисобга олиш журнали | Журнал количественного учёта лекарственных средств, диагностикумов, реактивов и медицинских изделий за бюджетный счёт старшей медсестрой или лаборантом | Senior nurse/lab technician budget medication inventory journal | Журнал | 2 years |
-| 059-2-х/ш | Шошилинч(тез) тиббий ёрдам кўрсатиш постидан фойдаланган бюджет дори-воситаси, тиббий буюмларни хисобга олиш журнали | Журнал учёта бюджетных лекарственных средств и медицинских изделий, использованных на посту экстренной медицинской помощи | Emergency post budget medication usage journal | Журнал | 5 years |
-| 102-х/ш | Чақалоқлар бўлими(хона) журнали | Журнал отделения (палаты) новорождённых | Newborn department journal | Журнал | 25 years |
+| Form # | Uzbek Name | English Translation | Type | Storage |
+|--------|------------|---------------------|------|---------|
+| 001-х/ш | Тиббий муассасага қабул қилинган ёки рад этилганларни хисобга олиш журнали | Journal for registering admitted or rejected patients | Журнал | 25 years |
+| 002-х/ш | Қабул қилинган ва рад этилган ҳомиладорларни, туққан аёлларни хисобга олиш журнали | Journal for registering admitted/rejected pregnant women and mothers | Журнал | 25 years |
+| 006-х/ш | Ўтказилган наркозларни қайд этиш журнали | Anesthesia registration journal | Журнал | 25 years |
+| 008-х/ш | Шифохонадаги жарроҳлик амалиётини қайд этиш журнали | Hospital surgical operations registration journal | Журнал | 25 years |
+| 009-х/ш | Қон таркибий кисмлари ва препаратлари куйишни хисобга олиш журнали | Blood components and preparations transfusion journal | Журнал | 25 years |
+| 010-х/ш | Туғруқ бўлимларида туғруқларни қайд этиш журнали | Childbirth registration journal in maternity departments | Журнал | 25 years |
+| 106-х/ш | Перинатал ўлим гувоҳномасини қайд этиш журнали | Perinatal death certificate registration journal | Журнал | 25 years |
+| 106-2-х/ш | Ўлим гувоҳномасини қайд этиш журнали | Death certificate registration journal | Журнал | 25 years |
+| 017-х/ш | Рентген текширувларни қайд этиш журнали | X-ray examination registration journal | Журнал | 5 years |
+| 019-х/ш | КТ ва МРТ текширувларни қайд этиш журнали | CT and MRI examination registration journal | Журнал | 5 years |
+| 020-х/ш | ЭКГ текширувларни қайд этиш журнали | ECG examination registration journal | Журнал | 5 years |
+| 021-х/ш | Эзофагогастродуоденоскопик (ЭФГДС), Колоноскопик текширувларни қайд журнали | EGDS and colonoscopy registration journal | Журнал | 5 years |
+| 021-1-х/ш | Эндоскопик текширувларни қайд этиш журнали | Endoscopic examination registration journal | Журнал | 5 years |
+| 029-х/ш | Муолажа хонасида қон намуналари олишни қайд килиш журнали | Treatment room blood sampling registration journal | Журнал | 5 years |
+| 031-х/ш | Физиотерапия хамшираси кундалик қабул журнали | Physiotherapy nurse daily reception journal | Журнал | 1 year |
+| 032-х/ш | Тиббий жиҳоз ва асбоб ускуналарни зарарсизлантиришни қайд этиш ва маркази стерилизация бўлимларига топшириш журнали (стерилизация талаб этиладиган ҳолда) | Medical equipment disinfection and sterilization submission journal | Журнал | 2 years |
+| 033-х/ш | Асбоб ускуналарни қабул қилиш ва зарарсизлантириш журнали | Equipment reception and disinfection journal | Журнал | 2 years |
+| 036-х/ш | Меҳнатга лаёқатсизлик вароғини қайд этиш журнали | Sick leave certificate registration journal | Журнал | 3 years |
+| 059-х/ш | Катта ҳамшира ёки лаборанткаҳнинг бюджет хисобига орган дори воситаси, диагностикум, реактив ва тиббий буюмларни миқдорий хисобга олиш журнали | Senior nurse/lab technician budget medication inventory journal | Журнал | 2 years |
+| 059-2-х/ш | Шошилинч(тез) тиббий ёрдам кўрсатиш постидан фойдаланган бюджет дори-воситаси, тиббий буюмларни хисобга олиш журнали | Emergency post budget medication usage journal | Журнал | 5 years |
+| 102-х/ш | Чақалоқлар бўлими(хона) журнали | Newborn department journal | Журнал | 25 years |
 
-### 1.2 Hospital Medical Cards (Шифохона тиббий карталар / Медицинские карты стационара)
+### 1.2 Hospital Medical Cards
 *Used at Level 1-2-3-4 facilities*
 
-| Form # | Uzbek Name | Russian Translation | English Translation | Type | Storage |
-|--------|------------|---------------------|---------------------|------|---------|
-| 003-х/ш | Стационар беморнинг тиббий картаси | Медицинская карта стационарного больного | Inpatient medical card | Карта | 25 years |
-| 003-1-х/ш | Ҳомиладорликни вақтидан олдин тугатиш тиббий картаси | Медицинская карта прерывания беременности | Pregnancy termination medical card | Карта | 25 years |
-| 005-х/ш | Реанимация (хона) ва интенсив терапия бўлимидаги беморни динамик кузатув картаси | Карта динамического наблюдения больного в отделении реанимации и интенсивной терапии | ICU patient dynamic observation card | Карта | 25 years |
-| 031-1-х/ш | Физиотерапия бўлимида (хонада) даволанаётган бемор картаси | Карта больного, лечащегося в отделении (кабинете) физиотерапии | Physiotherapy department patient card | Карта | 5 years |
-| 045-х/ш | Антирабик ёрдамга мурожаат қилганнинг картаси | Карта обратившегося за антирабической помощью | Anti-rabies treatment application card | Карта | 5 years |
-| 096-х/ш | Туғруқ тиббий картаси | Медицинская карта родов | Childbirth medical card | Карта | 25 years |
-| 097-х/ш | Чақалоқнинг ривожланиш тиббий картаси | Медицинская карта развития новорождённого | Newborn development medical card | Карта | 25 years |
+| Form # | Uzbek Name | English Translation | Type | Storage |
+|--------|------------|---------------------|------|---------|
+| 003-х/ш | Стационар беморнинг тиббий картаси | Inpatient medical card | Карта | 25 years |
+| 003-1-х/ш | Ҳомиладорликни вақтидан олдин тугатиш тиббий картаси | Pregnancy termination medical card | Карта | 25 years |
+| 005-х/ш | Реанимация (хона) ва интенсив терапия бўлимидаги беморни динамик кузатув картаси | ICU patient dynamic observation card | Карта | 25 years |
+| 031-1-х/ш | Физиотерапия бўлимида (хонада) даволанаётган бемор картаси | Physiotherapy department patient card | Карта | 5 years |
+| 045-х/ш | Антирабик ёрдамга мурожаат қилганнинг картаси | Anti-rabies treatment application card | Карта | 5 years |
+| 096-х/ш | Туғруқ тиббий картаси | Childbirth medical card | Карта | 25 years |
+| 097-х/ш | Чақалоқнинг ривожланиш тиббий картаси | Newborn development medical card | Карта | 25 years |
 
-### 1.3 Hospital Forms/Blanks (Шифохона бланкалар / Бланки стационара)
+### 1.3 Hospital Forms/Blanks
 *Used at Level 1-2-3-4 facilities*
 
-| Form # | Uzbek Name | Russian Translation | English Translation | Type | Storage |
-|--------|------------|---------------------|---------------------|------|---------|
-| 005-х/ш | Наркоз варақаси | Наркозный лист | Anesthesia form | Бланк | 25 years |
-| 007-х/ш | Беморнинг қелиб кетиши ва шифохонанинг ўрин фонди хисобга бориш варақаси | Лист учёта движения больных и коечного фонда стационара | Patient admission/discharge and bed fund registration | Бланк | 3 years |
-| 011-х/ш | Бола (ҳомила) ривожланишининг туғма нуқсони ва /ёки хромосом бузилишлар билан туғиланлиги тўғрисида билдиришнома | Извещение о рождении ребёнка (плода) с врождённым пороком развития и/или хромосомным нарушением | Congenital defect/chromosomal disorder birth notification | Бланк | 1 year |
-| 016-х/ш | Шифохона ўлими, кундузги шифохона ёки ихтисослигига кўра ўринлар фондининг йиғма билдиришномаси | Сводное извещение о смерти в стационаре, дневном стационаре или коечном фонде по специальности | Hospital death/bed fund summary notification | Бланк | 5 years |
-| 018-х/ш | Ультратовуш текширувлари протокол шакллари | Протоколы ультразвуковых исследований | Ultrasound examination protocol forms | Бланк | 2 years |
-| 058-х/ш | Юқумли касаллик, озиқ-овқатдан ўткир, касбига кўра иш жойида заҳарланиш, эмланганида ўзгача реакциялар ҳақида тезкор хабар | Экстренное извещение об инфекционном заболевании, остром пищевом отравлении, профессиональном отравлении, нетипичной реакции на прививку | Infectious disease/food poisoning/vaccination reaction urgent report | Бланк | 1 year |
-| 113-х/ш | Амбулатория-поликлиника муассасасининг алмашиш картаси | Обменная карта амбулаторно-поликлинического учреждения | Outpatient-polyclinic exchange card | Бланк | 3 years |
+| Form # | Uzbek Name | English Translation | Type | Storage |
+|--------|------------|---------------------|------|---------|
+| 005-х/ш | Наркоз варақаси | Anesthesia form | Бланк | 25 years |
+| 007-х/ш | Беморнинг қелиб кетиши ва шифохонанинг ўрин фонди хисобга бориш варақаси | Patient admission/discharge and bed fund registration | Бланк | 3 years |
+| 011-х/ш | Бола (ҳомила) ривожланишининг туғма нуқсони ва /ёки хромосом бузилишлар билан туғиланлиги тўғрисида билдиришнома | Congenital defect/chromosomal disorder birth notification | Бланк | 1 year |
+| 016-х/ш | Шифохона ўлими, кундузги шифохона ёки ихтисослигига кўра ўринлар фондининг йиғма билдиришномаси | Hospital death/bed fund summary notification | Бланк | 5 years |
+| 018-х/ш | Ультратовуш текширувлари протокол шакллари | Ultrasound examination protocol forms | Бланк | 2 years |
+| 058-х/ш | Юқумли касаллик, озиқ-овқатдан ўткир, касбига кўра иш жойида заҳарланиш, эмланганида ўзгача реакциялар ҳақида тезкор хабар | Infectious disease/food poisoning/vaccination reaction urgent report | Бланк | 1 year |
+| 113-х/ш | Амбулатория-поликлиника муассасасининг алмашиш картаси | Outpatient-polyclinic exchange card | Бланк | 3 years |
 
 ---
 
-## SECTION 2: OUTPATIENT-POLYCLINIC FORMS (АМБУЛАТОРИЯ-ПОЛИКЛИНИКА / АМБУЛАТОРНО-ПОЛИКЛИНИЧЕСКАЯ СЛУЖБА)
+## SECTION 2: OUTPATIENT-POLYCLINIC FORMS
 
-### 2.1 Outpatient Journals (Амбулаторные журналы)
+### 2.1 Outpatient Journals
 *Used at Level 1-2-3-4 facilities*
 
-| Form # | Uzbek Name | Russian Translation | English Translation | Type | Storage |
-|--------|------------|---------------------|---------------------|------|---------|
-| 106-х/ш | Ўлим гувоҳномасини қайд этиш журнали | Журнал регистрации свидетельств о смерти | Death certificate registration journal | Журнал | 25 years |
-| 024-х/ш | Амбулатор-поликлиника муассасасига келганларни қайд этиш журнали | Журнал регистрации посещений амбулаторно-поликлинического учреждения | Outpatient visit registration journal | Журнал | 5 years |
-| 023-х/ш | Тез тиббий ёрдами орқали қабул қилинган чақирувлар журнали | Журнал регистрации вызовов скорой медицинской помощи | Emergency medical care calls registration journal | Журнал | 5 years |
-| 024-1-х/ш | Шифокорнинг кундалик қабул журнали | Журнал ежедневного приёма врача | Doctor's daily reception journal | Журнал | 5 years |
-| 024-2-х/ш | Акушер-гинеколог (доя) кундалик қабул журнали | Журнал ежедневного приёма акушера-гинеколога (акушерки) | Obstetrician-gynecologist (midwife) daily reception journal | Журнал | 5 years |
-| 035-х/ш | Шифокорлик маслаҳат комиссиясининг ёзиш журнали | Журнал записей врачебной консультативной комиссии | Medical consultation commission records journal | Журнал | 3 years |
-| 036-х/ш | Меҳнатга лаёқатсизлик вароғини қайд этиш журнали | Журнал регистрации листков нетрудоспособности | Sick leave certificate registration journal | Журнал | 3 years |
-| 029-х/ш | Муолажа хонасида қон намуналари олишни қайд қилиш журнали | Журнал регистрации забора образцов крови в процедурном кабинете | Treatment room blood sampling journal | Журнал | 5 years |
-| 031-х/ш | Физиотерапия хамшираси кундалик қабул журнали | Журнал ежедневного приёма медсестры физиотерапии | Physiotherapy nurse daily reception journal | Журнал | 1 year |
-| 032-х/ш | Тиббий жиҳоз ва асбоб ускуналарни зарарсизлантиришни қайд этиш журнали | Журнал регистрации дезинфекции медицинского оборудования и инструментов | Medical equipment disinfection journal | Журнал | 2 years |
-| 033-х/ш | Асбоб ускуналарни қабул қилиш ва зарарсизлантириш журнали | Журнал приёма и дезинфекции инструментов | Equipment reception and disinfection journal | Журнал | 2 years |
-| 051-х/ш | Оила ҳамшираси кундалик фаолият журнали | Журнал ежедневной деятельности семейной медсестры | Family nurse daily activity journal | Журнал | 2 years |
-| 059-1-х/ш | Муолажаларни қайд қилиш журнали | Журнал регистрации процедур | Treatment procedures registration journal | Журнал | 5 years |
-| 060-х/ш | Юқумли касалликларни қайд этиш журнали | Журнал регистрации инфекционных заболеваний | Infectious diseases registration journal | Журнал | 5 years |
-| 064-х/ш | Эмлашни қайд этиш журнали (АПМ-ларида) | Журнал регистрации прививок (в АПМ) | Vaccination registration journal (at APM) | Журнал | 5 years |
+| Form # | Uzbek Name | English Translation | Type | Storage |
+|--------|------------|---------------------|------|---------|
+| 106-х/ш | Ўлим гувоҳномасини қайд этиш журнали | Death certificate registration journal | Журнал | 25 years |
+| 024-х/ш | Амбулатор-поликлиника муассасасига келганларни қайд этиш журнали | Outpatient visit registration journal | Журнал | 5 years |
+| 023-х/ш | Тез тиббий ёрдами орқали қабул қилинган чақирувлар журнали | Emergency medical care calls registration journal | Журнал | 5 years |
+| 024-1-х/ш | Шифокорнинг кундалик қабул журнали | Doctor's daily reception journal | Журнал | 5 years |
+| 024-2-х/ш | Акушер-гинеколог (доя) кундалик қабул журнали | Obstetrician-gynecologist (midwife) daily reception journal | Журнал | 5 years |
+| 035-х/ш | Шифокорлик маслаҳат комиссиясининг ёзиш журнали | Medical consultation commission records journal | Журнал | 3 years |
+| 036-х/ш | Меҳнатга лаёқатсизлик вароғини қайд этиш журнали | Sick leave certificate registration journal | Журнал | 3 years |
+| 029-х/ш | Муолажа хонасида қон намуналари олишни қайд қилиш журнали | Treatment room blood sampling journal | Журнал | 5 years |
+| 031-х/ш | Физиотерапия хамшираси кундалик қабул журнали | Physiotherapy nurse daily reception journal | Журнал | 1 year |
+| 032-х/ш | Тиббий жиҳоз ва асбоб ускуналарни зарарсизлантиришни қайд этиш журнали | Medical equipment disinfection journal | Журнал | 2 years |
+| 033-х/ш | Асбоб ускуналарни қабул қилиш ва зарарсизлантириш журнали | Equipment reception and disinfection journal | Журнал | 2 years |
+| 051-х/ш | Оила ҳамшираси кундалик фаолият журнали | Family nurse daily activity journal | Журнал | 2 years |
+| 059-1-х/ш | Муолажаларни қайд қилиш журнали | Treatment procedures registration journal | Журнал | 5 years |
+| 060-х/ш | Юқумли касалликларни қайд этиш журнали | Infectious diseases registration journal | Журнал | 5 years |
+| 064-х/ш | Эмлашни қайд этиш журнали (АПМ-ларида) | Vaccination registration journal (at APM) | Журнал | 5 years |
 
-### 2.2 Outpatient Cards and Forms (Амбулаторные карты и бланки)
+### 2.2 Outpatient Cards and Forms
 *Used at Level 1-2-3-4 facilities*
 
-| Form # | Uzbek Name | Russian Translation | English Translation | Type | Storage |
-|--------|------------|---------------------|---------------------|------|---------|
-| 025-х/ш | Пациентнинг амбулатор тиббий картаси | Медицинская карта амбулаторного больного | Patient outpatient medical card | Карта | 25 years |
-| 025-2-х/ш | Якуний (аниқ) ташхисларни қайдлаш учун статистик талон | Статистический талон для регистрации заключительных (уточнённых) диагнозов | Statistical coupon for final diagnoses | Бланк | 3 years |
-| 030-х/ш | Диспансер кузатувининг назорат картаси | Контрольная карта диспансерного наблюдения | Dispensary observation control card | Карта | 3 years |
-| 030-1-х/ш | Руҳий касаллиги бор беморнинг диспансер кузатув назорат картаси | Контрольная карта диспансерного наблюдения больного с психическим заболеванием | Mental illness patient dispensary card | Карта | 3 years |
-| 030-2-х/ш | Психоневрологик муассасанинг диспансер рўйхатидан ўчирилган бемор учун статистик талон | Статистический талон на больного, снятого с диспансерного учёта психоневрологического учреждения | Psychoneurological facility deregistration statistical coupon | Бланк | 3 years |
-| 030-3-х/ш | Диспансер кузатув (онко) назорат картаси | Контрольная карта диспансерного наблюдения (онкология) | Oncology dispensary observation card | Карта | 3 years |
-| 030-4-х/ш | Сил касалига қарши муассаса контингентини диспансер кузатув назорат картаси | Контрольная карта диспансерного наблюдения контингента противотуберкулёзного учреждения | TB institution dispensary observation card | Карта | 25 years |
-| 037-х/ш | Йўлланма алмашиш вароғи | Направление-обменный лист | Referral exchange form | Бланк | 25 years |
-| 039-х/ш | Амбулатор поликлиника муассасаларига, уйларга врач қатновларининг қайдлов билдиришномаси | Извещение о регистрации посещений врача в амбулаторно-поликлинические учреждения и на дому | Doctor home visit notification | Бланк | 5 years |
-| 043-х/ш | Тиббий маълумотнома (чет эл фуқаролари учун) | Медицинская справка (для иностранных граждан) | Medical certificate (for foreign citizens) | Бланк | 3 years |
-| 044-х/ш | Чет элга кетаётганлар учун тиббий маълумотнома | Медицинская справка для выезжающих за рубеж | Medical certificate for those traveling abroad | Бланк | 3 years |
-| 045-х/ш | Антирабик ёрдамга мурожаат қилганнинг картаси | Карта обратившегося за антирабической помощью | Anti-rabies treatment card | Карта | 5 years |
-| 053-х/ш | Ҳарбий хизматга чақирилувчининг даволаниш картаси вароғи | Карта лечения призывника на военную службу | Military conscript treatment card | Карта | 5 years |
-| 063-х/ш | Профилактик эмлаш картаси | Карта профилактических прививок | Preventive vaccination card | Бланк | 25 years |
-| 066-х/ш | Шифохонадан чиқарилганларнинг статистик картаси | Статистическая карта выбывшего из стационара | Hospital discharge statistical card | Бланк | 10 years |
-| 066-1-х/ш | Руҳий касалликлар (наркологик) шифохонасидан чиқарилган беморнинг статистик картаси | Статистическая карта больного, выбывшего из психиатрической (наркологической) больницы | Psychiatric/narcology hospital discharge statistical card | Бланк | 50 years |
-| 086-х/ш | Тиббий маълумотнома (Олий ўқув юртлари, лицей, коллежларга кирувчилар учун) | Медицинская справка (для поступающих в вузы, лицеи, колледжи) | Medical certificate for university/lyceum/college applicants | Бланк | 3 years |
-| 086-1-х/ш | Тиббий маълумотнома (судьялик лавозимига тайинланадиган номзодлар учун) | Медицинская справка (для кандидатов на должность судьи) | Medical certificate for judge candidates | Бланк | 3 years |
-| 086-2-х/ш | Кариялар ва ногиронлик олганлар учун тиббий маълумотнома | Медицинская справка для пожилых и лиц с инвалидностью | Medical certificate for elderly and disabled | Бланк | 3 years |
-| 095-х/ш | Талаба меҳнатга лаёқатсизлик мактаб | Справка о нетрудоспособности студента | Student sick leave certificate | Бланк | - |
-| 106-х/ш | Ўлим гувоҳномаси | Свидетельство о смерти | Death certificate | Бланк | - |
-| 111-х/ш | Ҳомиладор ва туққан аёлнинг индивидуал картаси | Индивидуальная карта беременной и родильницы | Pregnant/postpartum woman's individual card | Карта | 5 years |
-| 113-х/ш | Амбулатор-поликлиника муассасаси ва туғруқ бўлимининг алмашиш картаси | Обменная карта амбулаторно-поликлинического учреждения и родильного отделения | Outpatient facility and maternity exchange card | Бланк | 3 years |
+| Form # | Uzbek Name | English Translation | Type | Storage |
+|--------|------------|---------------------|------|---------|
+| 025-х/ш | Пациентнинг амбулатор тиббий картаси | Patient outpatient medical card | Карта | 25 years |
+| 025-2-х/ш | Якуний (аниқ) ташхисларни қайдлаш учун статистик талон | Statistical coupon for final diagnoses | Бланк | 3 years |
+| 030-х/ш | Диспансер кузатувининг назорат картаси | Dispensary observation control card | Карта | 3 years |
+| 030-1-х/ш | Руҳий касаллиги бор беморнинг диспансер кузатув назорат картаси | Mental illness patient dispensary card | Карта | 3 years |
+| 030-2-х/ш | Психоневрологик муассасанинг диспансер рўйхатидан ўчирилган бемор учун статистик талон | Psychoneurological facility deregistration statistical coupon | Бланк | 3 years |
+| 030-3-х/ш | Диспансер кузатув (онко) назорат картаси | Oncology dispensary observation card | Карта | 3 years |
+| 030-4-х/ш | Сил касалига қарши муассаса контингентини диспансер кузатув назорат картаси | TB institution dispensary observation card | Карта | 25 years |
+| 037-х/ш | Йўлланма алмашиш вароғи | Referral exchange form | Бланк | 25 years |
+| 039-х/ш | Амбулатор поликлиника муассасаларига, уйларга врач қатновларининг қайдлов билдиришномаси | Doctor home visit notification | Бланк | 5 years |
+| 043-х/ш | Тиббий маълумотнома (чет эл фуқаролари учун) | Medical certificate (for foreign citizens) | Бланк | 3 years |
+| 044-х/ш | Чет элга кетаётганлар учун тиббий маълумотнома | Medical certificate for those traveling abroad | Бланк | 3 years |
+| 045-х/ш | Антирабик ёрдамга мурожаат қилганнинг картаси | Anti-rabies treatment card | Карта | 5 years |
+| 053-х/ш | Ҳарбий хизматга чақирилувчининг даволаниш картаси вароғи | Military conscript treatment card | Карта | 5 years |
+| 063-х/ш | Профилактик эмлаш картаси | Preventive vaccination card | Бланк | 25 years |
+| 066-х/ш | Шифохонадан чиқарилганларнинг статистик картаси | Hospital discharge statistical card | Бланк | 10 years |
+| 066-1-х/ш | Руҳий касалликлар (наркологик) шифохонасидан чиқарилган беморнинг статистик картаси | Psychiatric/narcology hospital discharge statistical card | Бланк | 50 years |
+| 086-х/ш | Тиббий маълумотнома (Олий ўқув юртлари, лицей, коллежларга кирувчилар учун) | Medical certificate for university/lyceum/college applicants | Бланк | 3 years |
+| 086-1-х/ш | Тиббий маълумотнома (судьялик лавозимига тайинланадиган номзодлар учун) | Medical certificate for judge candidates | Бланк | 3 years |
+| 086-2-х/ш | Кариялар ва ногиронлик олганлар учун тиббий маълумотнома | Medical certificate for elderly and disabled | Бланк | 3 years |
+| 095-х/ш | Талаба меҳнатга лаёқатсизлик мактаб | Student sick leave certificate | Бланк | - |
+| 106-х/ш | Ўлим гувоҳномаси | Death certificate | Бланк | - |
+| 111-х/ш | Ҳомиладор ва туққан аёлнинг индивидуал картаси | Pregnant/postpartum woman's individual card | Карта | 5 years |
+| 113-х/ш | Амбулатор-поликлиника муассасаси ва туғруқ бўлимининг алмашиш картаси | Outpatient facility and maternity exchange card | Бланк | 3 years |
 
 ---
 
-## SECTION 3: LABORATORY FORMS (ЛАБОРАТОРИЯ / ЛАБОРАТОРИЯ)
+## SECTION 3: LABORATORY FORMS
 
-| Form # | Uzbek Name | Russian Translation | English Translation | Type | Storage |
-|--------|------------|---------------------|---------------------|------|---------|
-| 034-х/ш | Қон таҳлили натижаларини қайд қилиш журнали | Журнал регистрации результатов анализа крови | Blood test results registration journal | Журнал | 1 year |
-| 038-х/ш | Пешоб, капрология ва суртма таҳлилини қайд қилиш журнали | Журнал регистрации анализов мочи, копрологии и мазков | Urine, coprology, and smear test registration journal | Журнал | 1 year |
-| 040-х/ш | Сийдик таҳлили | Анализ мочи | Urine analysis form | Бланк | 1 year |
-| 041-х/ш | Балғам таҳлили | Анализ мокроты | Sputum analysis form | Бланк | 1 year |
-| 042-х/ш | Спермограмма | Спермограмма | Spermogram form | Бланк | 1 year |
-| 046-х/ш | Простата бези ширасининг таҳлили | Анализ секрета предстательной железы | Prostate secretion analysis | Бланк | 1 year |
-| 047-х/ш | TORCH инфекцияси текширув | Исследование на TORCH-инфекции | TORCH infection test | Бланк | 1 year |
-| 048-х/ш | Нажас таҳлили | Анализ кала | Feces analysis form | Бланк | 1 year |
-| 049-х/ш | Дуоденал шираси таҳлили | Анализ дуоденального содержимого | Duodenal juice analysis | Бланк | 1 year |
-| 050-х/ш | Орқа мия суюқлиги таҳлили | Анализ спинномозговой жидкости | Cerebrospinal fluid analysis | Бланк | 1 year |
-| 052-х/ш | Қоннинг умумий таҳлили | Общий анализ крови | Complete blood count | Бланк | 1 year |
-| 054-х/ш | Суяк илик пунктати таҳлили | Анализ пунктата костного мозга | Bone marrow punctate analysis | Бланк | 1 year |
-| 055-х/ш | Қоннинг биокимёвий таҳлили | Биохимический анализ крови | Blood biochemistry analysis | Бланк | 1 year |
-| 056-х/ш | Қондаги гормонларни текшириш | Исследование гормонов в крови | Blood hormone test | Бланк | 1 year |
-| 057-х/ш | Коагулограмма | Коагулограмма | Coagulogram | Бланк | 1 year |
-| 093-х/ш | Микробиологик текшируларни қайд қилиш журнали | Журнал регистрации микробиологических исследований | Microbiological test results journal | Бланк | 1 year |
-| 094-х/ш | Кимё-терапевтик препаратларга ажратилган культураларни сезгирлигини аниқлаш ва микробиологик текширув натижалари | Результаты микробиологического исследования и определения чувствительности выделенных культур к химиотерапевтическим препаратам | Antibiotic sensitivity test results | Бланк | 1 year |
-| 095-х/ш | Антистрептолизин-0, антигиалуронидаза, С-реактив оқсил ва ревматоид омилига қонни текшириш таҳлили | Анализ крови на антистрептолизин-О, антигиалуронидазу, С-реактивный белок и ревматоидный фактор | ASO, C-reactive protein, rheumatoid factor blood test | Бланк | 1 year |
-| 098-х/ш | Гепатит "В" антиген – HBSAG, гепатит "С" – анти-HCV таҳлили | Анализ на антиген гепатита В (HBsAg) и гепатита С (анти-HCV) | Hepatitis B antigen (HBsAg) and Hepatitis C (anti-HCV) test | Бланк | 1 year |
-| 099-х/ш | Шифокор-лаборантнинг ҳар кунлик ишини ҳисоб этиш вароғи | Лист учёта ежедневной работы врача-лаборанта | Laboratory doctor daily work accounting sheet | Бланк | 1 year |
-| 100-х/ш | Резус-фактор ва қон группаси таҳлили | Анализ резус-фактора и группы крови | Rh factor and blood group analysis | Бланк | 1 year |
-| 101-х/ш | Клиник-диагностик лаборатория миелограмма | Миелограмма клинико-диагностической лаборатории | Clinical diagnostic laboratory myelogram | Бланк | 1 year |
-
----
-
-## SECTION 4: EMERGENCY MEDICAL CARE & SANITARY AVIATION (ТЕЗ ТИББИЙ ЁРДАМ ВА САНИТАРИЯ АВИАЦИЯ / СКОРАЯ МЕДИЦИНСКАЯ ПОМОЩЬ И САНИТАРНАЯ АВИАЦИЯ)
-
-| Form # | Uzbek Name | Russian Translation | English Translation | Type | Storage |
-|--------|------------|---------------------|---------------------|------|---------|
-| 059-3-х/ш | Шошилинч тез тиббий ёрдам илмий маркази ва тез тиббий ёрдам санитар авиацияда дорилари кирим ва чиқим хисоб журнали | Журнал учёта прихода и расхода лекарственных средств в научном центре экстренной медицинской помощи и санитарной авиации | Emergency medical center medication inventory journal | Журнал | 3 years |
-| 061-х/ш | Мурожаатларни қайд қилиш журнали | Журнал регистрации обращений | Call registration journal | Журнал | 3 years |
-| 062-х/ш | Тез тиббий ёрдам чақирув картаси | Карта вызова скорой медицинской помощи | Emergency medical care call card | Карта | 1 year |
-| 065-х/ш | Кузатув варақаси | Лист наблюдения | Observation form | Бланк | 1 year |
-| 067-х/ш | Кундалик подстанция ишши | Журнал ежедневной работы подстанции | Daily substation work journal | Журнал | 1 year |
-| 068-х/ш | Тез тиббий ёрдам станцияси ва санитар авиацияси бўлимида вазиятларни хисобга олиш журнали | Журнал учёта ситуаций на станции скорой медицинской помощи и в отделении санитарной авиации | Emergency station and sanitary aviation situation accounting journal | Журнал | 3 years |
-| 069-х/ш | Тез тиббий ёрдам станцияси хабар вароғи | Извещение станции скорой медицинской помощи | Emergency station notification form | Бланк | 1 year |
-| 070-х/ш | Санитар авиацияси автоуловлари фаолиятини рўйҳатга олиш журнали | Журнал регистрации деятельности автотранспорта санитарной авиации | Sanitary aviation vehicle activity registration journal | Журнал | 3 years |
-| 071-х/ш | Санитар вилиациясига чақирувларни қайд этиш журнали | Журнал регистрации вызовов санитарной авиации | Sanitary aviation call registration journal | Журнал | 3 years |
-| 072-х/ш | Санитар авиацияси маслаҳатчи шифокор вароғи | Лист врача-консультанта санитарной авиации | Sanitary aviation consultant doctor form | Бланк | 1 year |
+| Form # | Uzbek Name | English Translation | Type | Storage |
+|--------|------------|---------------------|------|---------|
+| 034-х/ш | Қон таҳлили натижаларини қайд қилиш журнали | Blood test results registration journal | Журнал | 1 year |
+| 038-х/ш | Пешоб, капрология ва суртма таҳлилини қайд қилиш журнали | Urine, coprology, and smear test registration journal | Журнал | 1 year |
+| 040-х/ш | Сийдик таҳлили | Urine analysis form | Бланк | 1 year |
+| 041-х/ш | Балғам таҳлили | Sputum analysis form | Бланк | 1 year |
+| 042-х/ш | Спермограмма | Spermogram form | Бланк | 1 year |
+| 046-х/ш | Простата бези ширасининг таҳлили | Prostate secretion analysis | Бланк | 1 year |
+| 047-х/ш | TORCH инфекцияси текширув | TORCH infection test | Бланк | 1 year |
+| 048-х/ш | Нажас таҳлили | Feces analysis form | Бланк | 1 year |
+| 049-х/ш | Дуоденал шираси таҳлили | Duodenal juice analysis | Бланк | 1 year |
+| 050-х/ш | Орқа мия суюқлиги таҳлили | Cerebrospinal fluid analysis | Бланк | 1 year |
+| 052-х/ш | Қоннинг умумий таҳлили | Complete blood count | Бланк | 1 year |
+| 054-х/ш | Суяк илик пунктати таҳлили | Bone marrow punctate analysis | Бланк | 1 year |
+| 055-х/ш | Қоннинг биокимёвий таҳлили | Blood biochemistry analysis | Бланк | 1 year |
+| 056-х/ш | Қондаги гормонларни текшириш | Blood hormone test | Бланк | 1 year |
+| 057-х/ш | Коагулограмма | Coagulogram | Бланк | 1 year |
+| 093-х/ш | Микробиологик текшируларни қайд қилиш журнали | Microbiological test results journal | Бланк | 1 year |
+| 094-х/ш | Кимё-терапевтик препаратларга ажратилган культураларни сезгирлигини аниқлаш ва микробиологик текширув натижалари | Antibiotic sensitivity test results | Бланк | 1 year |
+| 095-х/ш | Антистрептолизин-0, антигиалуронидаза, С-реактив оқсил ва ревматоид омилига қонни текшириш таҳлили | ASO, C-reactive protein, rheumatoid factor blood test | Бланк | 1 year |
+| 098-х/ш | Гепатит "В" антиген – HBSAG, гепатит "С" – анти-HCV таҳлили | Hepatitis B antigen (HBsAg) and Hepatitis C (anti-HCV) test | Бланк | 1 year |
+| 099-х/ш | Шифокор-лаборантнинг ҳар кунлик ишини ҳисоб этиш вароғи | Laboratory doctor daily work accounting sheet | Бланк | 1 year |
+| 100-х/ш | Резус-фактор ва қон группаси таҳлили | Rh factor and blood group analysis | Бланк | 1 year |
+| 101-х/ш | Клиник-диагностик лаборатория миелограмма | Clinical diagnostic laboratory myelogram | Бланк | 1 year |
 
 ---
 
-## SECTION 5: PATHOLOGY CENTER (ПАТОЛОГОАНАТОМИЯ МАРКАЗИ / ПАТОЛОГОАНАТОМИЧЕСКИЙ ЦЕНТР)
+## SECTION 4: EMERGENCY MEDICAL CARE & SANITARY AVIATION
 
-| Form # | Uzbek Name | Russian Translation | English Translation | Type | Storage |
-|--------|------------|---------------------|---------------------|------|---------|
-| 012-х/ш | Патологоанатомик текширув учун ёрилган мурдаларни қайд қилиш журнали | Журнал регистрации вскрытий трупов для патологоанатомического исследования | Autopsy registration journal | Журнал | 10 years |
-| 013-х/ш | Патолого-анатомик тадқиқот баённи | Протокол патологоанатомического исследования | Pathological-anatomical examination protocol | Бланк | 10 years |
-| 014-х/ш | Патолого-гистологик тадқиқот учун йўлланма | Направление на патолого-гистологическое исследование | Histopathological examination referral | Бланк | 1 year |
-| 014-1-х/ш | Секцион материал патолого-гистологик текширувларни қайд этиш журнали | Журнал регистрации патолого-гистологических исследований секционного материала | Sectional material histopathological examination journal | Журнал | 10 years |
-| 014-2-х/ш | Биопсия ва операция материаллари юзасидан текширувларни қайд этиш журнали | Журнал регистрации исследований биопсийного и операционного материала | Biopsy and surgical material examination journal | Журнал | 10 years |
-| 015-х/ш | Мурдаларни қабул қилиш ва олиб кетиш журнали | Журнал приёма и выдачи трупов | Corpse reception and release journal | Журнал | 5 years |
-
----
-
-## SECTION 6: FORENSIC MEDICAL EXAMINATION CENTER (СУД-ТИББИЙ ЭКСПЕРТИЗА МАРКАЗИ / ЦЕНТР СУДЕБНО-МЕДИЦИНСКОЙ ЭКСПЕРТИЗЫ)
-
-| Form # | Uzbek Name | Russian Translation | English Translation | Type | Storage |
-|--------|------------|---------------------|---------------------|------|---------|
-| 073-х/ш | Суд-тиббий текширув далолатномаси | Акт судебно-медицинского освидетельствования | Forensic medical examination protocol | Бланк | 25 years |
-| 074-х/ш | Эксперт хулосаси | Заключение эксперта | Expert conclusion | Бланк | 25 years |
-| 075-х/ш | Суд-тиббий лаборатория ва мутахассисис маслаҳатига йўлланма | Направление на судебно-медицинскую лабораторию и консультацию специалиста | Forensic laboratory and specialist consultation referral | Бланк | 25 years |
-| 076-х/ш | Суд-гистологик текширувга йўлланма | Направление на судебно-гистологическое исследование | Forensic histological examination referral | Бланк | 10 years |
-| 077-х/ш | Танатология бўлимида мурдаларни рўйҳатга олиш журнали | Журнал регистрации трупов в отделении танатологии | Thanatology department corpse registration journal | Журнал | 10 years |
-| 078-х/ш | Суд-тиббий амбулаторияда шахсларни рўйхатга олиш журнали | Журнал регистрации лиц в судебно-медицинской амбулатории | Forensic outpatient person registration journal | Журнал | 10 years |
-| 079-х/ш | Қайта, комиссион, комплекс ва муракаб экспертизаларни рўйҳатга олиш журнали | Журнал регистрации повторных, комиссионных, комплексных и сложных экспертиз | Re-examination and complex expertise registration journal | Журнал | 10 years |
-| 080-х/ш | Суд биологик бўлимда ашёвий далилларни ва уларга тегишли ҳужжатларни рўйҳатга олиш журнали | Журнал регистрации вещественных доказательств и относящихся к ним документов в судебно-биологическом отделении | Forensic biology department evidence registration journal | Журнал | 10 years |
-| 081-х/ш | Суд биологик бўлимда мурда қони, суртма ва тикимлар текширувини рўйҳатга олиш журнали | Журнал регистрации исследований трупной крови, мазков и срезов в судебно-биологическом отделении | Forensic biology corpse blood/tissue examination journal | Журнал | 10 years |
-| 082-х/ш | Суд гистологик бўлимда материал ва ҳужжатларни рўйҳатга олиш журнали | Журнал регистрации материалов и документов в судебно-гистологическом отделении | Forensic histology material and documents journal | Журнал | 10 years |
-| 083-х/ш | Микродоннорлардан олинган қонни қайд этиш журнали | Журнал регистрации крови, взятой от микродоноров | Microdonor blood registration journal | Журнал | 10 years |
-| 084-х/ш | Кийим, ашёвий далиллар, киммабаҳо буюмлар ва ҳужжатларни рўйҳатга олиш журнали | Журнал регистрации одежды, вещественных доказательств, ценных вещей и документов | Clothing, evidence, valuables registration journal | Журнал | 10 years |
-| 085-х/ш | Суд-кимё бўлимда ашёвий далиллар ва уларга тегишли ҳужжатларни рўйҳатга олиш журнали | Журнал регистрации вещественных доказательств и относящихся к ним документов в судебно-химическом отделении | Forensic chemistry evidence registration journal | Журнал | 10 years |
-| 087-х/ш | Суд-кимё бўлимда тирик шахслардан наркологик текширувларни рўйҳатга олиш журнали | Журнал регистрации наркологических исследований живых лиц в судебно-химическом отделении | Forensic chemistry narcological examination journal | Журнал | 10 years |
-| 088-х/ш | Фуқаролар мурожаатларни қайд этиш журнали | Журнал регистрации обращений граждан | Citizen appeals registration journal | Журнал | 10 years |
-| 088-1-х/ш | Маълумотларни йиғиш журнали | Журнал сбора информации | Information collection journal | Журнал | 10 years |
-| 092-х/ш | Тиббий криминалистика бўлимда ашёвий далиллар ва уларга тегишли ҳужжатларни рўйҳатга олиш журнали | Журнал регистрации вещественных доказательств и относящихся к ним документов в отделении медицинской криминалистики | Medical criminalistics evidence registration journal | Журнал | 10 years |
+| Form # | Uzbek Name | English Translation | Type | Storage |
+|--------|------------|---------------------|------|---------|
+| 059-3-х/ш | Шошилинч тез тиббий ёрдам илмий маркази ва тез тиббий ёрдам санитар авиацияда дорилари кирим ва чиқим хисоб журнали | Emergency medical center medication inventory journal | Журнал | 3 years |
+| 061-х/ш | Мурожаатларни қайд қилиш журнали | Call registration journal | Журнал | 3 years |
+| 062-х/ш | Тез тиббий ёрдам чақирув картаси | Emergency medical care call card | Карта | 1 year |
+| 065-х/ш | Кузатув варақаси | Observation form | Бланк | 1 year |
+| 067-х/ш | Кундалик подстанция ишши | Daily substation work journal | Журнал | 1 year |
+| 068-х/ш | Тез тиббий ёрдам станцияси ва санитар авиацияси бўлимида вазиятларни хисобга олиш журнали | Emergency station and sanitary aviation situation accounting journal | Журнал | 3 years |
+| 069-х/ш | Тез тиббий ёрдам станцияси хабар вароғи | Emergency station notification form | Бланк | 1 year |
+| 070-х/ш | Санитар авиацияси автоуловлари фаолиятини рўйҳатга олиш журнали | Sanitary aviation vehicle activity registration journal | Журнал | 3 years |
+| 071-х/ш | Санитар вилиациясига чақирувларни қайд этиш журнали | Sanitary aviation call registration journal | Журнал | 3 years |
+| 072-х/ш | Санитар авиацияси маслаҳатчи шифокор вароғи | Sanitary aviation consultant doctor form | Бланк | 1 year |
 
 ---
 
-## SECTION 7: SCREENING CENTER (СКРИНИНГ МАРКАЗИ / СКРИНИНГ-ЦЕНТР)
+## SECTION 5: PATHOLOGY CENTER
 
-| Form # | Uzbek Name | Russian Translation | English Translation | Type | Storage |
-|--------|------------|---------------------|---------------------|------|---------|
-| 103-х/ш | Ҳомила хромосом синдромига пренатал инвазив муолажа ўтказиш учун ихтиёрий розилик билдиришномаси | Информированное добровольное согласие на проведение пренатальной инвазивной процедуры при хромосомном синдроме плода | Prenatal invasive procedure consent for chromosomal syndrome | Бланк | 5 years |
-| 104-х/ш | Пренатал инвазив муолажа баённомаси | Протокол пренатальной инвазивной процедуры | Prenatal invasive procedure protocol | Бланк | 5 years |
-| 105-х/ш | Ҳомила хромосом синдромига пренатал инвазив муолажа хулосаси | Заключение пренатальной инвазивной процедуры при хромосомном синдроме плода | Prenatal invasive procedure conclusion | Бланк | 5 years |
-| 107-х/ш | Ҳомила хромосом синдромига пренатал инвазив муолажа ўтказишни рад этиш билдиришномаси | Уведомление об отказе от пренатальной инвазивной процедуры при хромосомном синдроме плода | Prenatal invasive procedure refusal notification | Бланк | 5 years |
-| 108-х/ш | I триместр биокимёвий пренатал скрининг хулосаси | Заключение биохимического пренатального скрининга I триместра | 1st trimester biochemical prenatal screening conclusion | Бланк | 5 years |
-| 109-х/ш | II триместр пренатал биохимик текширув хулосаси | Заключение пренатального биохимического исследования II триместра | 2nd trimester prenatal biochemical screening conclusion | Бланк | 5 years |
-| 110-х/ш | Ирсий-генетик касаллик билан бемор амбулатор картаси | Амбулаторная карта больного с наследственно-генетическим заболеванием | Hereditary-genetic disease patient outpatient card | Карта | 5 years |
-| 112-х/ш | Ирсий-генетик касаллик билан беморнинг диспансер кузатув генетик картаси | Генетическая карта диспансерного наблюдения больного с наследственно-генетическим заболеванием | Hereditary-genetic disease dispensary observation card | Карта | 5 years |
-| 114-х/ш | Тиббий генетик хулосаси | Медико-генетическое заключение | Medical genetic conclusion | Бланк | 5 years |
-| 116-х/ш | Неонатал скрининг таҳлили | Анализ неонатального скрининга | Neonatal screening test | Бланк | 5 years |
-| 117-х/ш | Тандем масс-спектрометрия таҳлили | Анализ тандемной масс-спектрометрии | Tandem mass spectrometry analysis | Бланк | 5 years |
-| 118-х/ш | Кариотип таҳлили | Анализ кариотипа | Karyotype analysis | Бланк | 5 years |
-| 119-х/ш | Тер синамаси таҳлили | Анализ потовой пробы | Sweat test analysis | Бланк | 5 years |
+| Form # | Uzbek Name | English Translation | Type | Storage |
+|--------|------------|---------------------|------|---------|
+| 012-х/ш | Патологоанатомик текширув учун ёрилган мурдаларни қайд қилиш журнали | Autopsy registration journal | Журнал | 10 years |
+| 013-х/ш | Патолого-анатомик тадқиқот баённи | Pathological-anatomical examination protocol | Бланк | 10 years |
+| 014-х/ш | Патолого-гистологик тадқиқот учун йўлланма | Histopathological examination referral | Бланк | 1 year |
+| 014-1-х/ш | Секцион материал патолого-гистологик текширувларни қайд этиш журнали | Sectional material histopathological examination journal | Журнал | 10 years |
+| 014-2-х/ш | Биопсия ва операция материаллари юзасидан текширувларни қайд этиш журнали | Biopsy and surgical material examination journal | Журнал | 10 years |
+| 015-х/ш | Мурдаларни қабул қилиш ва олиб кетиш журнали | Corpse reception and release journal | Журнал | 5 years |
 
 ---
 
-## SECTION 8: AIDS CENTER (ОИТС ВА ҚАРШИ КРАШ МАРКАЗИ / ЦЕНТР ПО БОРЬБЕ СО СПИДОМ)
+## SECTION 6: FORENSIC MEDICAL EXAMINATION CENTER
 
-| Form # | Uzbek Name | Russian Translation | English Translation | Type | Storage |
-|--------|------------|---------------------|---------------------|------|---------|
-| 180-х/ш | Беморнинг диспансер-назорат картаси | Диспансерно-контрольная карта больного | Patient dispensary observation card | Карта | 25 years |
-| 181-х/ш | ОИВ инфекцияси тасдиқланган беморларни диспансер назоратига олиш журнали | Журнал постановки на диспансерный учёт больных с подтверждённой ВИЧ-инфекцией | HIV-confirmed patient dispensary registration journal | Журнал | 5 years |
-| 182-х/ш | Аноним хонага мурожаат этган шахслардан қон олишни қайд этиш журнали | Журнал регистрации забора крови у лиц, обратившихся в кабинет анонимного приёма | Anonymous room blood collection registration journal | Журнал | 5 years |
-| 183-х/ш | ОИВ инфекциияли беморларга АРВ препаратларни тарқатиш ва хисобга олиш журнали | Журнал распределения и учёта АРВ-препаратов больным с ВИЧ-инфекцией | HIV patient ARV medication distribution journal | Журнал | 25 years |
-| 184-х/ш | ОИВ инфекциясига полимераза занжирли реакция (ПЗР-ДНК, ВЮ) усулида текширилган шахсларни рўйҳатга олиш журнали | Журнал регистрации лиц, обследованных на ВИЧ-инфекцию методом ПЦР (ДНК, вирусная нагрузка) | HIV PCR (DNA, viral load) test registration journal | Журнал | 5 years |
-| 185-х/ш | ОИВ инфекцияли беморларни иммунологик (СД4 хужайралар)га текширувларни қайд этиш журнали | Журнал регистрации иммунологических исследований (CD4-клетки) больных с ВИЧ-инфекцией | HIV patient immunological (CD4) test registration journal | Журнал | 5 years |
-
----
-
-## SECTION 9: BLOOD SERVICE (ҚОН БИЛАН ИШЛАШ ХИЗМАТИ / СЛУЖБА КРОВИ)
-
-| Form # | Uzbek Name | Russian Translation | English Translation | Type | Storage |
-|--------|------------|---------------------|---------------------|------|---------|
-| 120-х/ш | Қон топширган донорга берилаган маълумотномаларни қайд этиш журнали | Журнал регистрации справок, выданных донорам, сдавшим кровь | Blood donor certificate registration journal | Журнал | 3 years |
-| 121-х/ш | Донорлар бўлимига мурожат қилган беғараз донорларни рўйҳатга олиш журнали | Журнал регистрации безвозмездных доноров, обратившихся в отделение доноров | Voluntary donor registration journal | Журнал | 5 years |
-| 122-х/ш | Донорни хисобга олиш картаси | Карта учёта донора | Donor registration card | Дафтар | 50 years |
-| 123-х/ш | Донорлардан плазма ва цитафирез усули билан қон компонентларини тайёрлашни хисобга олиш журнали | Журнал учёта заготовки компонентов крови методом плазма- и цитафереза от доноров | Plasma and cytapheresis blood component preparation journal | Журнал | 25 years |
-| 124-х/ш | Беғараз донор картаси | Карта безвозмездного донора | Voluntary donor card | Дафтар | 50 years |
-| 125-х/ш | Комиссия иштирокида қон олишни қайд этиш журнали | Журнал регистрации забора крови с участием комиссии | Commission blood collection registration journal | Журнал | 25 years |
-| 126-х/ш | Ўлик қон тайёрлашни хисобга олиш журнали | Журнал учёта заготовки трупной крови | Cadaveric blood preparation registration journal | Журнал | 25 years |
-| 127-х/ш | АВО тизимдаги стандарт ва резусга қарши зардобни тайёрлаш учун келган маҳсулотлари журнали | Журнал поступления продукции для приготовления стандартной сыворотки системы АВО и антирезусной сыворотки | ABO system standard and anti-Rh serum preparation journal | Журнал | 3 years |
-| 128-х/ш | АВО тизими бўйича тайёрланган стандарт ва резусга қарши зардобни қайд этиш журнали | Журнал регистрации приготовленной стандартной сыворотки системы АВО и антирезусной сыворотки | ABO standard and anti-Rh serum registration journal | Журнал | 3 years |
-| 129-х/ш | Донорлар қон гуруҳи ва резус фактори натижаларни қайд этиш журнали | Журнал регистрации результатов определения группы крови и резус-фактора доноров | Donor blood group and Rh factor results journal | Журнал | 3 years |
-| 130-х/ш | Қонни бруцеллёзга серологик текширишни қайд этиш журнали (Хендельсон реакцияси) | Журнал регистрации серологического исследования крови на бруцеллёз (реакция Хеддельсона) | Blood brucellosis serological test (Hendelsohn) journal | Журнал | 3 years |
-| 131-х/ш | Консервланган қон ва унинг компонентларини стериллика текширишни қайд этиш журнали | Журнал регистрации исследования консервированной крови и её компонентов на стерильность | Preserved blood sterility test registration journal | Журнал | 3 years |
-| 132-х/ш | Яроқсиз қон компонентларини йўқ қилиш журнали | Журнал уничтожения непригодных компонентов крови | Unsuitable blood component disposal journal | Журнал | 3 years |
-| 133-х/ш | Беғараз донорлардан тайёрланган қон компонентларни хисобга олиш журнали | Журнал учёта компонентов крови, заготовленных от безвозмездных доноров | Voluntary donor blood component registration journal | Журнал | 5 years |
-| 134-х/ш | Крiopреципитат тайёрлашни қайд этиш журнали | Журнал регистрации приготовления криопреципитата | Cryoprecipitate preparation registration journal | Журнал | 3 years |
-| 135-х/ш | Плазма тайёрлашни қайд этиш журнали (Янги музлатилган, антистафилокок ва изоиммун плазма) | Журнал регистрации приготовления плазмы (свежезамороженной, антистафилококковой и изоиммунной) | Plasma preparation journal (FFP, antistaphylococcal, isoimmune) | Журнал | 3 years |
-| 136-х/ш | Юбилган эритроцитларни тайёрлашни қайд этиш журнали | Журнал регистрации приготовления отмытых эритроцитов | Washed erythrocyte preparation journal | Журнал | 3 years |
-| 137-х/ш | Даволаш профилактика муассасаларига берилён қон маҳсулотларини қайд этиш журнали | Журнал регистрации продукции крови, выданной лечебно-профилактическим учреждениям | Treatment facility blood product distribution journal | Журнал | 25 years |
-| 138-х/ш | Қон компанентларини қон захираларини бўлимига қабул қилишни қайд этиш журнали | Журнал регистрации приёма компонентов крови в отделение запасов крови | Blood component reserve department reception journal | Журнал | 25 years |
-| 139-х/ш | Қон таркибий кисмлари ва препаратларни олиш учун талабнома | Заявка на получение компонентов и препаратов крови | Blood component and preparation request form | Бланк | 3 years |
-| 140-х/ш | Қон препаратларини экспедициятга топшириш журнали | Журнал сдачи препаратов крови в экспедицию | Blood preparation dispatch submission journal | Журнал | 3 years |
-| 141-х/ш | Қон препаратлари бўлимига кирим қилинган плазмаларни қайд этиш журнали | Журнал регистрации плазмы, поступившей в отделение препаратов крови | Blood preparation department plasma reception journal | Журнал | 3 years |
-| 142-х/ш | ОИВга серопозитив донорларни қайд этиш журнали (ИФА ва ИБЛ) | Журнал регистрации серопозитивных доноров на ВИЧ (ИФА и ИБ) | HIV seropositive donor registration journal (ELISA, IB) | Журнал | 5 years |
-| 143-х/ш | Зaxм, HCV, HbsAg ва ОИВга текширишларни қайд этиш журнали | Журнал регистрации исследований на сифилис, HCV, HBsAg и ВИЧ | Syphilis, HCV, HBsAg, HIV test registration journal | Журнал | 25 years |
-| 144-х/ш | Донорларни клиник ва биокимик таҳлилларни қайд этиш журнали | Журнал регистрации клинических и биохимических анализов доноров | Donor clinical and biochemical test registration journal | Журнал | 3 years |
+| Form # | Uzbek Name | English Translation | Type | Storage |
+|--------|------------|---------------------|------|---------|
+| 073-х/ш | Суд-тиббий текширув далолатномаси | Forensic medical examination protocol | Бланк | 25 years |
+| 074-х/ш | Эксперт хулосаси | Expert conclusion | Бланк | 25 years |
+| 075-х/ш | Суд-тиббий лаборатория ва мутахассисис маслаҳатига йўлланма | Forensic laboratory and specialist consultation referral | Бланк | 25 years |
+| 076-х/ш | Суд-гистологик текширувга йўлланма | Forensic histological examination referral | Бланк | 10 years |
+| 077-х/ш | Танатология бўлимида мурдаларни рўйҳатга олиш журнали | Thanatology department corpse registration journal | Журнал | 10 years |
+| 078-х/ш | Суд-тиббий амбулаторияда шахсларни рўйхатга олиш журнали | Forensic outpatient person registration journal | Журнал | 10 years |
+| 079-х/ш | Қайта, комиссион, комплекс ва муракаб экспертизаларни рўйҳатга олиш журнали | Re-examination and complex expertise registration journal | Журнал | 10 years |
+| 080-х/ш | Суд биологик бўлимда ашёвий далилларни ва уларга тегишли ҳужжатларни рўйҳатга олиш журнали | Forensic biology department evidence registration journal | Журнал | 10 years |
+| 081-х/ш | Суд биологик бўлимда мурда қони, суртма ва тикимлар текширувини рўйҳатга олиш журнали | Forensic biology corpse blood/tissue examination journal | Журнал | 10 years |
+| 082-х/ш | Суд гистологик бўлимда материал ва ҳужжатларни рўйҳатга олиш журнали | Forensic histology material and documents journal | Журнал | 10 years |
+| 083-х/ш | Микродоннорлардан олинган қонни қайд этиш журнали | Microdonor blood registration journal | Журнал | 10 years |
+| 084-х/ш | Кийим, ашёвий далиллар, киммабаҳо буюмлар ва ҳужжатларни рўйҳатга олиш журнали | Clothing, evidence, valuables registration journal | Журнал | 10 years |
+| 085-х/ш | Суд-кимё бўлимда ашёвий далиллар ва уларга тегишли ҳужжатларни рўйҳатга олиш журнали | Forensic chemistry evidence registration journal | Журнал | 10 years |
+| 087-х/ш | Суд-кимё бўлимда тирик шахслардан наркологик текширувларни рўйҳатга олиш журнали | Forensic chemistry narcological examination journal | Журнал | 10 years |
+| 088-х/ш | Фуқаролар мурожаатларни қайд этиш журнали | Citizen appeals registration journal | Журнал | 10 years |
+| 088-1-х/ш | Маълумотларни йиғиш журнали | Information collection journal | Журнал | 10 years |
+| 092-х/ш | Тиббий криминалистика бўлимда ашёвий далиллар ва уларга тегишли ҳужжатларни рўйҳатга олиш журнали | Medical criminalistics evidence registration journal | Журнал | 10 years |
 
 ---
 
-## SECTION 10: SANITARY-EPIDEMIOLOGICAL SERVICE (САНИТАРИЯ-ЭПИДЕМИОЛОГИЯ ХИЗМАТИ / САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКАЯ СЛУЖБА)
+## SECTION 7: SCREENING CENTER
 
-| Form # | Uzbek Name | Russian Translation | English Translation | Type | Storage |
-|--------|------------|---------------------|---------------------|------|---------|
-| 145-х/ш | Давлат санитария назоратига олинган объектларни рўйҳатга олиш журнали | Журнал регистрации объектов, состоящих под государственным санитарным надзором | State sanitary supervision objects registration journal | Журнал | 10 years |
-| 146-х/ш | Куйилиш учун ажратилган ер-майдони бўйича хулоса | Заключение по земельному участку, отведённому под строительство | Land allocation conclusion | Бланк | 5 years |
-| 147-х/ш | Куйилиш учун ажратилган ер майдонларига берилган хулосаларни рўйҳатга олиш журнали | Журнал регистрации заключений по земельным участкам, отведённым под строительство | Land allocation conclusions registration journal | Журнал | Permanent |
-| 148-х/ш | Лойиҳа бўйича хулоса | Заключение по проекту | Project conclusion | Бланк | Permanent |
-| 149-х/ш | Лойиҳа бўйича хулосаларни рўйҳатга олиш журнали | Журнал регистрации заключений по проектам | Project conclusions registration journal | Журнал | Permanent |
-| 150-х/ш | Қурилаётган (тамирланаётган) объект бўйича оғоҳлантирувчи санитария назорати картаси | Карта предупредительного санитарного надзора за строящимся (ремонтируемым) объектом | Construction/repair sanitary supervision card | Бланк | 5 years |
-| 151-х/ш | Жорий санитария назоратига олинган объектнинг картаси | Карта объекта, состоящего под текущим санитарным надзором | Current sanitary supervision object card | Бланк | Permanent |
-| 152-х/ш | Боланларни дам олиш, соғломлаштириш жойларига чиқиш учун берилган санитария рухсатнома | Санитарное разрешение на выезд детей в места отдыха и оздоровления | Children's recreation facility sanitary permit | Бланк | 1 year |
-| 153-х/ш | Сув намунасини олиш далолатномаси | Акт отбора пробы воды | Water sample collection protocol | Бланк | 5 years |
-| 154-х/ш | Озиқ-овқат маҳсулотларидан намуналар олиш бўйича далолатнома | Акт отбора проб пищевых продуктов | Food product sample collection protocol | Бланк | 3 years |
-| 155-х/ш | Қишлоқ хўжалиги ва озиқ овқат маҳсулотлари намуналарида пестицидлар қолдиқ миқдорларини аниқлаш бўйича далолатнома | Акт определения остаточных количеств пестицидов в образцах сельскохозяйственной и пищевой продукции | Agricultural product pesticide residue analysis protocol | Бланк | 3 years |
-| 156-х/ш | Ташқи муҳит анжомларидан суртмалар олиш бўйича далолатнома | Акт отбора смывов с объектов внешней среды | Environmental swab collection protocol | Бланк | 3 years |
-| 157-х/ш | Юқумли касаллик билан оғриган беморни (эвакуация) вароғаси | Лист эвакуации больного с инфекционным заболеванием | Infectious disease patient evacuation form | Бланк | 1 year |
-| 158-х/ш | Юқумли касаллик билан оғриган беморни эвакуация қилишни қайд этиш журнали | Журнал регистрации эвакуации больных с инфекционными заболеваниями | Infectious patient evacuation registration journal | Журнал | 3 years |
-| 159-х/ш | Киймлар, ўрналиқ анжомлари, оёқ кийими ва бошқа нарсаларни камерали дезинфекция (дезинсекция) хисобга олиш журнали | Журнал учёта камерной дезинфекции (дезинсекции) одежды, постельных принадлежностей, обуви и других предметов | Clothing/bedding chamber disinfection journal | Журнал | 3 years |
-| 160-х/ш | Юқумли касалликлар ўчоғида ўтказилган дезинфекцияни хисобга олиш журнали | Журнал учёта дезинфекции, проведённой в очагах инфекционных заболеваний | Infectious disease focus disinfection registration journal | Журнал | 3 years |
-| 161-х/ш | Юқумли касаллиқлар ўчоғини эпидемиологик текшириш картаси | Карта эпидемиологического обследования очага инфекционного заболевания | Infectious disease focus epidemiological investigation card | Бланк | 3 years |
-| 162-х/ш | Овқатдан заҳарланиш ҳолларини рўйҳатга олиш журнали | Журнал регистрации случаев пищевого отравления | Food poisoning case registration journal | Журнал | 3 years |
-| 163-х/ш | Овқатдан заҳарланганда ва касб касалликларида шошилинч хабарни рўйҳатга олиш журнали | Журнал регистрации экстренных сообщений при пищевых отравлениях и профессиональных заболеваниях | Food poisoning and occupational disease urgent report journal | Журнал | 5 years |
-| 164-х/ш | Гельминтоз ва ичак соддаларга текширувларни рўйҳатга олиш журнали | Журнал регистрации обследований на гельминтозы и кишечные простейшие | Helminthiasis and intestinal protozoa examination journal | Журнал | 5 years |
-| 165-х/ш | Ажратиб олинган бруцеллаларни тавсифномаси қайд этиш журнали | Журнал регистрации характеристик выделенных бруцелл | Isolated brucella characteristics registration journal | - | - |
-| 166-х/ш | Қонни бруцеллёзга серологик текшириш | Серологическое исследование крови на бруцеллёз | Blood brucellosis serological test | Журнал | 10 years |
-| 167-х/ш | Сут ва сут маҳсулотларни серологик текширувини қайд этиш журнали | Журнал регистрации серологических исследований молока и молочных продуктов | Milk/dairy products serological test registration journal | Журнал | 10 years |
-| 168-х/ш | Сув хавзасининг ҳолати бўйича тавсифномаси | Характеристика состояния водоёма | Water reservoir condition description | Бланк | 5 years |
-| 169-х/ш | Ташқи муҳит объектларидан ва беморлардан олинган намуналарни кўйдирги касаллигига бактериолоик ва серологик текширувларни қайд этиш журнали | Журнал регистрации бактериологических и серологических исследований на сибирскую язву образцов от объектов внешней среды и больных | Environmental/patient sample anthrax test registration journal | Журнал | 10 years |
-| 170-х/ш | Биопробаларни қайд этиш журнали | Журнал регистрации биопроб | Bioprobe registration journal | Журнал | 10 years |
-| 171-х/ш | Куйдирги микробининг хусусиятларини тавсифномаси | Характеристика свойств микроба сибирской язвы | Anthrax microbe characteristics description | - | - |
-| 196-х/ш | Зооноз касалликларига текширув хулосаси | Заключение обследования на зоонозные заболевания | Zoonotic disease examination conclusion | - | - |
-| 197-х/ш | Идентификацияга юборилган культураларнинг текширув натижаси | Результат исследования культур, направленных на идентификацию | Culture identification test results | - | - |
-| 199-х/ш | Чет элдан штаммларни қабул қилиш журнали | Журнал приёма штаммов из-за рубежа | Foreign strain reception journal | - | - |
-| 202-х/ш | Штаммларни қабул қилиш далолатномаси | Акт приёма штаммов | Strain reception protocol | - | - |
-| 203-х/ш | Ажратилган куйдирги қўзғатувчиси штаммларини қайд қилиш ва идентификация натижалари журнали | Журнал регистрации и результатов идентификации выделенных штаммов возбудителя сибирской язвы | Anthrax strain identification results journal | - | - |
-| 212-х/ш | Безгак ва канали қайталама тифига қон препаратларини текширувларини рўйхатга олиш журнали | Журнал регистрации исследований препаратов крови на малярию и клещевой возвратный тиф | Malaria and tick-borne typhus blood test registration journal | - | - |
-| 214-х/ш | Дезинфекция воситаларини натижаларини қайд этиш журнали | Журнал регистрации результатов дезинфицирующих средств | Disinfection agent results registration journal | - | - |
-| 221-х/ш | Тақиқлаш қарори | Постановление о запрещении | Prohibition decision | - | - |
-| 222-х/ш | Ичимлик сувини текшириш ва натижаларини қайд этиш журнали | Журнал регистрации исследований и результатов питьевой воды | Drinking water test results registration journal | - | - |
-| 224-х/ш | Сан-эпид текширув далолатномаси | Акт санитарно-эпидемиологического обследования | Sanitary-epidemiological examination protocol | - | - |
-| 230-х/ш | Лейшманиоз касаллигига текширишларини рўйхатга олиш журнали | Журнал регистрации исследований на лейшманиоз | Leishmaniasis examination registration journal | - | - |
+| Form # | Uzbek Name | English Translation | Type | Storage |
+|--------|------------|---------------------|------|---------|
+| 103-х/ш | Ҳомила хромосом синдромига пренатал инвазив муолажа ўтказиш учун ихтиёрий розилик билдиришномаси | Prenatal invasive procedure consent for chromosomal syndrome | Бланк | 5 years |
+| 104-х/ш | Пренатал инвазив муолажа баённомаси | Prenatal invasive procedure protocol | Бланк | 5 years |
+| 105-х/ш | Ҳомила хромосом синдромига пренатал инвазив муолажа хулосаси | Prenatal invasive procedure conclusion | Бланк | 5 years |
+| 107-х/ш | Ҳомила хромосом синдромига пренатал инвазив муолажа ўтказишни рад этиш билдиришномаси | Prenatal invasive procedure refusal notification | Бланк | 5 years |
+| 108-х/ш | I триместр биокимёвий пренатал скрининг хулосаси | 1st trimester biochemical prenatal screening conclusion | Бланк | 5 years |
+| 109-х/ш | II триместр пренатал биохимик текширув хулосаси | 2nd trimester prenatal biochemical screening conclusion | Бланк | 5 years |
+| 110-х/ш | Ирсий-генетик касаллик билан бемор амбулатор картаси | Hereditary-genetic disease patient outpatient card | Карта | 5 years |
+| 112-х/ш | Ирсий-генетик касаллик билан беморнинг диспансер кузатув генетик картаси | Hereditary-genetic disease dispensary observation card | Карта | 5 years |
+| 114-х/ш | Тиббий генетик хулосаси | Medical genetic conclusion | Бланк | 5 years |
+| 116-х/ш | Неонатал скрининг таҳлили | Neonatal screening test | Бланк | 5 years |
+| 117-х/ш | Тандем масс-спектрометрия таҳлили | Tandem mass spectrometry analysis | Бланк | 5 years |
+| 118-х/ш | Кариотип таҳлили | Karyotype analysis | Бланк | 5 years |
+| 119-х/ш | Тер синамаси таҳлили | Sweat test analysis | Бланк | 5 years |
 
 ---
 
-## APPENDIX 2: ELECTRONIC FORMS (Page 18) / ЭЛЕКТРОННЫЕ ФОРМЫ
-*Family passport and territory journals maintained electronically / Паспорта семьи и территории, ведущиеся в электронном виде*
+## SECTION 8: AIDS CENTER
 
-| # | Uzbek Name | Russian Translation | English Translation |
-|---|------------|---------------------|---------------------|
-| 1 | Оила паспорти | Паспорт семьи | Family passport |
-| 2 | Худуд паспорти | Паспорт территории | Territory passport |
-| 2.1 | Дислокация ҳудуд жойлашуви | Дислокация территориального расположения | Territory location dislocation |
-| 2.2 | Ҳудуддаги ахоли сони тўғрисида маълумот | Информация о численности населения на территории | Territory population information |
-| 2.3 | Ахоли ёш жадвали | Возрастная таблица населения | Population age table |
-| 2.4 | Ахолининг иқтимоий таркиби | Социальный состав населения | Population social composition |
-| 2.5 | Хисобга олинган ҳомиладорлар тўғрисида маълумот | Информация об учтённых беременных | Registered pregnant women information |
-| 2.6 | Ёш оилалар тўғрисида маълумот | Информация о молодых семьях | Young families information |
-| 2.7 | 1-ёшгача бўлган болалар тўғрисида маълумот | Информация о детях до 1 года | Children under 1 year information |
-| 2.8 | Ногиронлар тўғрисида маълумот | Информация об инвалидах | Disabled persons information |
-| 2.9 | Имтиёзли гуруҳга мансуб ахоли тўғрисида маълумот | Информация о населении, относящемся к льготным группам | Privileged group population information |
-| 2.10 | Диспансер назоратидаги беморлар тўғрисида маълумот | Информация о больных, состоящих под диспансерным наблюдением | Dispensary observation patients information |
-| 3 | Соҳа мутахассисларининг амбулатор карталари | Амбулаторные карты участковых специалистов | Sector specialists' outpatient cards |
+| Form # | Uzbek Name | English Translation | Type | Storage |
+|--------|------------|---------------------|------|---------|
+| 180-х/ш | Беморнинг диспансер-назорат картаси | Patient dispensary observation card | Карта | 25 years |
+| 181-х/ш | ОИВ инфекцияси тасдиқланган беморларни диспансер назоратига олиш журнали | HIV-confirmed patient dispensary registration journal | Журнал | 5 years |
+| 182-х/ш | Аноним хонага мурожаат этган шахслардан қон олишни қайд этиш журнали | Anonymous room blood collection registration journal | Журнал | 5 years |
+| 183-х/ш | ОИВ инфекциияли беморларга АРВ препаратларни тарқатиш ва хисобга олиш журнали | HIV patient ARV medication distribution journal | Журнал | 25 years |
+| 184-х/ш | ОИВ инфекциясига полимераза занжирли реакция (ПЗР-ДНК, ВЮ) усулида текширилган шахсларни рўйҳатга олиш журнали | HIV PCR (DNA, viral load) test registration journal | Журнал | 5 years |
+| 185-х/ш | ОИВ инфекцияли беморларни иммунологик (СД4 хужайралар)га текширувларни қайд этиш журнали | HIV patient immunological (CD4) test registration journal | Журнал | 5 years |
+
+---
+
+## SECTION 9: BLOOD SERVICE
+
+| Form # | Uzbek Name | English Translation | Type | Storage |
+|--------|------------|---------------------|------|---------|
+| 120-х/ш | Қон топширган донорга берилаган маълумотномаларни қайд этиш журнали | Blood donor certificate registration journal | Журнал | 3 years |
+| 121-х/ш | Донорлар бўлимига мурожат қилган беғараз донорларни рўйҳатга олиш журнали | Voluntary donor registration journal | Журнал | 5 years |
+| 122-х/ш | Донорни хисобга олиш картаси | Donor registration card | Дафтар | 50 years |
+| 123-х/ш | Донорлардан плазма ва цитафирез усули билан қон компонентларини тайёрлашни хисобга олиш журнали | Plasma and cytapheresis blood component preparation journal | Журнал | 25 years |
+| 124-х/ш | Беғараз донор картаси | Voluntary donor card | Дафтар | 50 years |
+| 125-х/ш | Комиссия иштирокида қон олишни қайд этиш журнали | Commission blood collection registration journal | Журнал | 25 years |
+| 126-х/ш | Ўлик қон тайёрлашни хисобга олиш журнали | Cadaveric blood preparation registration journal | Журнал | 25 years |
+| 127-х/ш | АВО тизимдаги стандарт ва резусга қарши зардобни тайёрлаш учун келган маҳсулотлари журнали | ABO system standard and anti-Rh serum preparation journal | Журнал | 3 years |
+| 128-х/ш | АВО тизими бўйича тайёрланган стандарт ва резусга қарши зардобни қайд этиш журнали | ABO standard and anti-Rh serum registration journal | Журнал | 3 years |
+| 129-х/ш | Донорлар қон гуруҳи ва резус фактори натижаларни қайд этиш журнали | Donor blood group and Rh factor results journal | Журнал | 3 years |
+| 130-х/ш | Қонни бруцеллёзга серологик текширишни қайд этиш журнали (Хендельсон реакцияси) | Blood brucellosis serological test (Hendelsohn) journal | Журнал | 3 years |
+| 131-х/ш | Консервланган қон ва унинг компонентларини стериллика текширишни қайд этиш журнали | Preserved blood sterility test registration journal | Журнал | 3 years |
+| 132-х/ш | Яроқсиз қон компонентларини йўқ қилиш журнали | Unsuitable blood component disposal journal | Журнал | 3 years |
+| 133-х/ш | Беғараз донорлардан тайёрланган қон компонентларни хисобга олиш журнали | Voluntary donor blood component registration journal | Журнал | 5 years |
+| 134-х/ш | Крiopреципитат тайёрлашни қайд этиш журнали | Cryoprecipitate preparation registration journal | Журнал | 3 years |
+| 135-х/ш | Плазма тайёрлашни қайд этиш журнали (Янги музлатилган, антистафилокок ва изоиммун плазма) | Plasma preparation journal (FFP, antistaphylococcal, isoimmune) | Журнал | 3 years |
+| 136-х/ш | Юбилган эритроцитларни тайёрлашни қайд этиш журнали | Washed erythrocyte preparation journal | Журнал | 3 years |
+| 137-х/ш | Даволаш профилактика муассасаларига берилён қон маҳсулотларини қайд этиш журнали | Treatment facility blood product distribution journal | Журнал | 25 years |
+| 138-х/ш | Қон компанентларини қон захираларини бўлимига қабул қилишни қайд этиш журнали | Blood component reserve department reception journal | Журнал | 25 years |
+| 139-х/ш | Қон таркибий кисмлари ва препаратларни олиш учун талабнома | Blood component and preparation request form | Бланк | 3 years |
+| 140-х/ш | Қон препаратларини экспедициятга топшириш журнали | Blood preparation dispatch submission journal | Журнал | 3 years |
+| 141-х/ш | Қон препаратлари бўлимига кирим қилинган плазмаларни қайд этиш журнали | Blood preparation department plasma reception journal | Журнал | 3 years |
+| 142-х/ш | ОИВга серопозитив донорларни қайд этиш журнали (ИФА ва ИБЛ) | HIV seropositive donor registration journal (ELISA, IB) | Журнал | 5 years |
+| 143-х/ш | Зaxм, HCV, HbsAg ва ОИВга текширишларни қайд этиш журнали | Syphilis, HCV, HBsAg, HIV test registration journal | Журнал | 25 years |
+| 144-х/ш | Донорларни клиник ва биокимик таҳлилларни қайд этиш журнали | Donor clinical and biochemical test registration journal | Журнал | 3 years |
+
+---
+
+## SECTION 10: SANITARY-EPIDEMIOLOGICAL SERVICE
+
+| Form # | Uzbek Name | English Translation | Type | Storage |
+|--------|------------|---------------------|------|---------|
+| 145-х/ш | Давлат санитария назоратига олинган объектларни рўйҳатга олиш журнали | State sanitary supervision objects registration journal | Журнал | 10 years |
+| 146-х/ш | Куйилиш учун ажратилган ер-майдони бўйича хулоса | Land allocation conclusion | Бланк | 5 years |
+| 147-х/ш | Куйилиш учун ажратилган ер майдонларига берилган хулосаларни рўйҳатга олиш журнали | Land allocation conclusions registration journal | Журнал | Permanent |
+| 148-х/ш | Лойиҳа бўйича хулоса | Project conclusion | Бланк | Permanent |
+| 149-х/ш | Лойиҳа бўйича хулосаларни рўйҳатга олиш журнали | Project conclusions registration journal | Журнал | Permanent |
+| 150-х/ш | Қурилаётган (тамирланаётган) объект бўйича оғоҳлантирувчи санитария назорати картаси | Construction/repair sanitary supervision card | Бланк | 5 years |
+| 151-х/ш | Жорий санитария назоратига олинган объектнинг картаси | Current sanitary supervision object card | Бланк | Permanent |
+| 152-х/ш | Боланларни дам олиш, соғломлаштириш жойларига чиқиш учун берилган санитария рухсатнома | Children's recreation facility sanitary permit | Бланк | 1 year |
+| 153-х/ш | Сув намунасини олиш далолатномаси | Water sample collection protocol | Бланк | 5 years |
+| 154-х/ш | Озиқ-овқат маҳсулотларидан намуналар олиш бўйича далолатнома | Food product sample collection protocol | Бланк | 3 years |
+| 155-х/ш | Қишлоқ хўжалиги ва озиқ овқат маҳсулотлари намуналарида пестицидлар қолдиқ миқдорларини аниқлаш бўйича далолатнома | Agricultural product pesticide residue analysis protocol | Бланк | 3 years |
+| 156-х/ш | Ташқи муҳит анжомларидан суртмалар олиш бўйича далолатнома | Environmental swab collection protocol | Бланк | 3 years |
+| 157-х/ш | Юқумли касаллик билан оғриган беморни (эвакуация) вароғаси | Infectious disease patient evacuation form | Бланк | 1 year |
+| 158-х/ш | Юқумли касаллик билан оғриган беморни эвакуация қилишни қайд этиш журнали | Infectious patient evacuation registration journal | Журнал | 3 years |
+| 159-х/ш | Киймлар, ўрналиқ анжомлари, оёқ кийими ва бошқа нарсаларни камерали дезинфекция (дезинсекция) хисобга олиш журнали | Clothing/bedding chamber disinfection journal | Журнал | 3 years |
+| 160-х/ш | Юқумли касалликлар ўчоғида ўтказилган дезинфекцияни хисобга олиш журнали | Infectious disease focus disinfection registration journal | Журнал | 3 years |
+| 161-х/ш | Юқумли касаллиқлар ўчоғини эпидемиологик текшириш картаси | Infectious disease focus epidemiological investigation card | Бланк | 3 years |
+| 162-х/ш | Овқатдан заҳарланиш ҳолларини рўйҳатга олиш журнали | Food poisoning case registration journal | Журнал | 3 years |
+| 163-х/ш | Овқатдан заҳарланганда ва касб касалликларида шошилинч хабарни рўйҳатга олиш журнали | Food poisoning and occupational disease urgent report journal | Журнал | 5 years |
+| 164-х/ш | Гельминтоз ва ичак соддаларга текширувларни рўйҳатга олиш журнали | Helminthiasis and intestinal protozoa examination journal | Журнал | 5 years |
+| 165-х/ш | Ажратиб олинган бруцеллаларни тавсифномаси қайд этиш журнали | Isolated brucella characteristics registration journal | - | - |
+| 166-х/ш | Қонни бруцеллёзга серологик текшириш | Blood brucellosis serological test | Журнал | 10 years |
+| 167-х/ш | Сут ва сут маҳсулотларни серологик текширувини қайд этиш журнали | Milk/dairy products serological test registration journal | Журнал | 10 years |
+| 168-х/ш | Сув хавзасининг ҳолати бўйича тавсифномаси | Water reservoir condition description | Бланк | 5 years |
+| 169-х/ш | Ташқи муҳит объектларидан ва беморлардан олинган намуналарни кўйдирги касаллигига бактериолоик ва серологик текширувларни қайд этиш журнали | Environmental/patient sample anthrax test registration journal | Журнал | 10 years |
+| 170-х/ш | Биопробаларни қайд этиш журнали | Bioprobe registration journal | Журнал | 10 years |
+| 171-х/ш | Куйдирги микробининг хусусиятларини тавсифномаси | Anthrax microbe characteristics description | - | - |
+| 196-х/ш | Зооноз касалликларига текширув хулосаси | Zoonotic disease examination conclusion | - | - |
+| 197-х/ш | Идентификацияга юборилган культураларнинг текширув натижаси | Culture identification test results | - | - |
+| 199-х/ш | Чет элдан штаммларни қабул қилиш журнали | Foreign strain reception journal | - | - |
+| 202-х/ш | Штаммларни қабул қилиш далолатномаси | Strain reception protocol | - | - |
+| 203-х/ш | Ажратилган куйдирги қўзғатувчиси штаммларини қайд қилиш ва идентификация натижалари журнали | Anthrax strain identification results journal | - | - |
+| 212-х/ш | Безгак ва канали қайталама тифига қон препаратларини текширувларини рўйхатга олиш журнали | Malaria and tick-borne typhus blood test registration journal | - | - |
+| 214-х/ш | Дезинфекция воситаларини натижаларини қайд этиш журнали | Disinfection agent results registration journal | - | - |
+| 221-х/ш | Тақиқлаш қарори | Prohibition decision | - | - |
+| 222-х/ш | Ичимлик сувини текшириш ва натижаларини қайд этиш журнали | Drinking water test results registration journal | - | - |
+| 224-х/ш | Сан-эпид текширув далолатномаси | Sanitary-epidemiological examination protocol | - | - |
+| 230-х/ш | Лейшманиоз касаллигига текширишларини рўйхатга олиш журнали | Leishmaniasis examination registration journal | - | - |
+
+---
+
+## APPENDIX 2: ELECTRONIC FORMS (Page 18)
+*Family passport and territory journals maintained electronically*
+
+| # | Uzbek Name | English Translation |
+|---|------------|---------------------|
+| 1 | Оила паспорти | Family passport |
+| 2 | Худуд паспорти | Territory passport |
+| 2.1 | Дислокация ҳудуд жойлашуви | Territory location dislocation |
+| 2.2 | Ҳудуддаги ахоли сони тўғрисида маълумот | Territory population information |
+| 2.3 | Ахоли ёш жадвали | Population age table |
+| 2.4 | Ахолининг иқтимоий таркиби | Population social composition |
+| 2.5 | Хисобга олинган ҳомиладорлар тўғрисида маълумот | Registered pregnant women information |
+| 2.6 | Ёш оилалар тўғрисида маълумот | Young families information |
+| 2.7 | 1-ёшгача бўлган болалар тўғрисида маълумот | Children under 1 year information |
+| 2.8 | Ногиронлар тўғрисида маълумот | Disabled persons information |
+| 2.9 | Имтиёзли гуруҳга мансуб ахоли тўғрисида маълумот | Privileged group population information |
+| 2.10 | Диспансер назоратидаги беморлар тўғрисида маълумот | Dispensary observation patients information |
+| 3 | Соҳа мутахассисларининг амбулатор карталари | Sector specialists' outpatient cards |
 
 ---
 
@@ -481,56 +480,52 @@ OUTPATIENT ──► SPECIALIST ──► HOSPITAL ──► DISCHARGE
 
 ---
 
-## REGULATORY UPDATES / НОРМАТИВНЫЕ ОБНОВЛЕНИЯ
+## REGULATORY UPDATES
 
-**Important / Важно:** Some forms have been updated by subsequent orders / Некоторые формы были обновлены последующими приказами:
+**Important:** Some forms have been updated by subsequent orders:
 
-| Original Order / Исходный приказ | Update Order / Обновляющий приказ | Affected Forms / Затронутые формы | Effective Date / Дата вступления |
+| Original Order | Update Order | Affected Forms | Effective Date |
 |----------------------------------|-----------------------------------|-----------------------------------|----------------------------------|
-| Order 363 (Dec 31, 2020) / Приказ 363 (31.12.2020) | Order 16 (Jan 17, 2022) / Приказ 16 (17.01.2022) | Outpatient forms (items 40-79) / Амбулаторные формы (пункты 40-79) | Feb 1, 2022 / 1.02.2022 |
+| Order 363 (Dec 31, 2020) | Order 16 (Jan 17, 2022) | Outpatient forms (items 40-79) | Feb 1, 2022 |
 
 Order 16 specifically updates the outpatient-polyclinic documentation to streamline primary healthcare facilities (family polyclinics, family doctor points).
 
-Приказ №16 обновляет документацию амбулаторно-поликлинических учреждений для оптимизации работы учреждений первичной медико-санитарной помощи (семейных поликлиник, пунктов семейных врачей).
+---
+
+## FACILITY TYPES AND APPLICABLE FORMS
+
+| Facility Type | Uzbek Name | Primary Forms Used |
+|---------------|------------|-------------------|
+| Multi-branch Central Polyclinic | Куп тармокли марказий поликлиника | 024-1, 025, 030, 034, 059-1, 060, 064 |
+| Family Polyclinic | Оилавий поликлиника | 024-1, 025, 028, 051, 063 |
+| Family Doctor Point | Оилавий шифокор пункти | 024-1, 025, 028, 051 |
+| Hospital | Шифохона | 001-021, 003, 005, 096-097, 102 |
+| Laboratory | Лаборатория | 034, 038, 040-057, 093-101 |
+| Emergency Service | Тез тиббий ёрдам | 059-3, 061-072 |
+| Screening Center | Скрининг маркази | 103-119 |
+| AIDS Center | ОИТС маркази | 180-185 |
+| Blood Service | Қон хизмати | 120-144 |
+| Forensic Medicine | Суд тиббий экспертиза | 073-092 |
+| Sanitary-Epidemiological | СЭО | 145-230 |
 
 ---
 
-## FACILITY TYPES AND APPLICABLE FORMS / ТИПЫ УЧРЕЖДЕНИЙ И ПРИМЕНЯЕМЫЕ ФОРМЫ
+## DOCUMENT RETENTION SUMMARY
 
-| Facility Type | Uzbek Name | Russian Name | Primary Forms Used |
-|---------------|------------|--------------|-------------------|
-| Multi-branch Central Polyclinic | Куп тармокли марказий поликлиника | Многопрофильная центральная поликлиника | 024-1, 025, 030, 034, 059-1, 060, 064 |
-| Family Polyclinic | Оилавий поликлиника | Семейная поликлиника | 024-1, 025, 028, 051, 063 |
-| Family Doctor Point | Оилавий шифокор пункти | Пункт семейного врача | 024-1, 025, 028, 051 |
-| Hospital | Шифохона | Стационар/Больница | 001-021, 003, 005, 096-097, 102 |
-| Laboratory | Лаборатория | Лаборатория | 034, 038, 040-057, 093-101 |
-| Emergency Service | Тез тиббий ёрдам | Скорая медицинская помощь | 059-3, 061-072 |
-| Screening Center | Скрининг маркази | Скрининг-центр | 103-119 |
-| AIDS Center | ОИТС маркази | Центр по борьбе со СПИДом | 180-185 |
-| Blood Service | Қон хизмати | Служба крови | 120-144 |
-| Forensic Medicine | Суд тиббий экспертиза | Судебно-медицинская экспертиза | 073-092 |
-| Sanitary-Epidemiological | СЭО | Санитарно-эпидемиологическая служба | 145-230 |
-
----
-
-## DOCUMENT RETENTION SUMMARY / СРОКИ ХРАНЕНИЯ ДОКУМЕНТОВ
-
-| Retention Period | Form Types (EN) | Типы форм (RU) |
-|------------------|-----------------|----------------|
-| **50 years / 50 лет** | Donor registration cards (122, 124), Psychiatric discharge statistics (066-1) | Карты учёта доноров (122, 124), Статистические карты выписки из психиатрической больницы (066-1) |
-| **25 years / 25 лет** | Patient medical cards, Birth/death records, Blood transfusion journals | Медицинские карты пациентов, Записи о рождении/смерти, Журналы переливания крови |
-| **10 years / 10 лет** | Pathology journals, Forensic examination journals, Disease surveillance | Патологоанатомические журналы, Журналы судебно-медицинских экспертиз, Эпидемиологический надзор |
-| **5 years / 5 лет** | Specialist consultations, Treatment cards, Vaccination cards | Консультации специалистов, Карты лечения, Прививочные карты |
-| **3 years / 3 года** | Referrals, Statistical coupons, Committee conclusions | Направления, Статистические талоны, Заключения комиссий |
-| **1-2 years / 1-2 года** | Daily journals, Equipment sterilization logs, Lab test journals | Ежедневные журналы, Журналы стерилизации оборудования, Журналы лабораторных исследований |
+| Retention Period | Form Types |
+|------------------|-----------------|
+| **50 years** | Donor registration cards (122, 124), Psychiatric discharge statistics (066-1) |
+| **25 years** | Patient medical cards, Birth/death records, Blood transfusion journals |
+| **10 years** | Pathology journals, Forensic examination journals, Disease surveillance |
+| **5 years** | Specialist consultations, Treatment cards, Vaccination cards |
+| **3 years** | Referrals, Statistical coupons, Committee conclusions |
+| **1-2 years** | Daily journals, Equipment sterilization logs, Lab test journals |
 
 ---
 
 *Catalog generated from Order 363 of the Ministry of Health of the Republic of Uzbekistan (December 31, 2020)*
-*Каталог составлен на основе Приказа №363 Министерства здравоохранения Республики Узбекистан (31 декабря 2020 г.)*
 
 *Updated with information from Order 16 (January 17, 2022)*
-*Обновлено информацией из Приказа №16 (17 января 2022 г.)*
 
 # Form Relationships Analysis - Order 363
 ## Uzbekistan Healthcare Forms - Detailed Relationship Mapping
@@ -550,7 +545,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 1: HOSPITAL FORMS (ШИФОХОНА)
+# SECTION 1: HOSPITAL FORMS
 
 ## 1.1 PATIENT ADMISSION CLUSTER
 
@@ -1076,7 +1071,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 2: OUTPATIENT-POLYCLINIC FORMS (АМБУЛАТОРИЯ-ПОЛИКЛИНИКА)
+# SECTION 2: OUTPATIENT-POLYCLINIC FORMS
 
 ## 2.1 PRIMARY CARE VISIT CLUSTER
 
@@ -1687,7 +1682,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 3: LABORATORY FORMS (ЛАБОРАТОРИЯ)
+# SECTION 3: LABORATORY FORMS
 
 ## 3.1 LABORATORY WORKFLOW OVERVIEW
 
@@ -2354,7 +2349,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 4: EMERGENCY MEDICAL CARE (ТЕЗ ТИББИЙ ЁРДАМ)
+# SECTION 4: EMERGENCY MEDICAL CARE
 
 ## 4.1 EMERGENCY MEDICAL SERVICES WORKFLOW OVERVIEW
 
@@ -2917,7 +2912,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 5: PATHOLOGY CENTER (ПАТОЛОГОАНАТОМИЯ)
+# SECTION 5: PATHOLOGY CENTER
 
 ## 5.1 PATHOLOGY SERVICES OVERVIEW
 
@@ -3294,7 +3289,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 6: FORENSIC MEDICAL EXAMINATION CENTER (СУД-ТИББИЙ ЭКСПЕРТИЗА)
+# SECTION 6: FORENSIC MEDICAL EXAMINATION CENTER
 
 ## 6.1 FORENSIC SERVICES OVERVIEW
 
@@ -4017,7 +4012,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 7: SCREENING CENTER (СКРИНИНГ МАРКАЗИ)
+# SECTION 7: SCREENING CENTER
 
 ## 7.1 SCREENING SERVICES OVERVIEW
 
@@ -4516,7 +4511,7 @@ Order 16 specifically updates the outpatient-polyclinic documentation to streaml
 
 ---
 
-# SECTION 8: AIDS CENTER (ОИТС МАРКАЗИ)
+# SECTION 8: AIDS CENTER
 
 ## 8.1 AIDS CENTER SERVICES OVERVIEW
 
@@ -5853,7 +5848,7 @@ NON-REACTIVE                                                              REACTI
 
 ---
 
-# SECTION 10: SANITARY-EPIDEMIOLOGICAL SERVICE (САНИТАРИЯ-ЭПИДЕМИОЛОГИЯ)
+# SECTION 10: SANITARY-EPIDEMIOLOGICAL SERVICE
 
 ## 10.1 SANITARY-EPIDEMIOLOGICAL SERVICE OVERVIEW
 
@@ -6885,7 +6880,7 @@ PATIENT MANAGEMENT                                            EPIDEMIOLOGICAL
 
                     ┌─────────────────────────────────────────────────────────────────┐
                     │              SANITARY-EPIDEMIOLOGICAL SERVICE                    │
-                    │                   (СЭО / СЭС / SES)                              │
+                    │                           (SES)                                   │
                     └────────────────────────────┬────────────────────────────────────┘
                                                  │
        ┌─────────────────────────────────────────┼─────────────────────────────────────────┐
@@ -7084,7 +7079,7 @@ PATIENT MANAGEMENT                                            EPIDEMIOLOGICAL
 
 ---
 
-## APPENDIX 2: ELECTRONIC FORMS (ЭЛЕКТРОН ФОРМАЛАР)
+## APPENDIX 2: ELECTRONIC FORMS
 
 ### APP2.1 Overview
 
@@ -7127,7 +7122,7 @@ individual patient records to territorial healthcare planning.
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### APP2.2 Form 1: Family Passport (Оила паспорти)
+### APP2.2 Form 1: Family Passport
 
 The Family Passport is the central electronic registry for each household, aggregating
 all family members' health information and demographic data.
@@ -7180,7 +7175,7 @@ all family members' health information and demographic data.
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### APP2.3 Form 2: Territory Passport (Худуд паспорти)
+### APP2.3 Form 2: Territory Passport
 
 The Territory Passport aggregates population and health data for a defined catchment
 area, typically corresponding to a Family Doctor Point or Family Polyclinic service zone.
@@ -7380,7 +7375,7 @@ area, typically corresponding to a Family Doctor Point or Family Polyclinic serv
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### APP2.5 Form 3: Sector Specialists' Outpatient Cards (Соҳа мутахассисларининг амбулатор карталари)
+### APP2.5 Form 3: Sector Specialists' Outpatient Cards
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
