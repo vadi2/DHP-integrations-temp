@@ -115,7 +115,7 @@ graph LR
 
 Для данных, требующих юридической аутентификации и долгосрочного хранения (например, Форма 003 для стационара, Форма 096 для рождений), DHP использует **клинические документы** - Bundle, содержащий заголовок Composition с метаданными и аттестацией, а также связанные клинические ресурсы (Patient, Observation, Condition и др.).
 
-Когда требуется физическая подпись, документ печатается, подписывается, сканируется и загружается как PDF. DocumentReference связывает отсканированную копию с оригинальным Composition.
+Когда требуется физическая подпись, документ печатается, подписывается, сканируется, и PDF встраивается в [Provenance.signature.data](https://hl7.org/fhir/R5/provenance-definitions.html#Provenance.signature). DHP заблаговременно принимает переработанные правила R6 из [6.1.2.2.9 Signing Bundles](https://build.fhir.org/signatures.html#Bundles), так как они обеспечивают более чистый подход - подпись хранится вместе с Bundle и очевидно, что весь документ подписан.
 
 #### Выбор подхода
 
@@ -128,9 +128,9 @@ flowchart TD
     Q3{"Needs physical<br/>signature?"}
 
     Request["Request Resource<br/>(ServiceRequest, MedicationRequest,<br/>Appointment, etc.)"]
-    Document["Clinical Document<br/>(Bundle + Composition)<br/>with digital signature"]
+    Document["Clinical Document<br/>(Bundle + Composition)"]
     Physical["Print, Sign, Scan"]
-    DocRef["DocumentReference<br/>(scanned PDF)"]
+    Provenance["Provenance.signature<br/>(scanned PDF in signature.data)"]
 
     Start --> Q1
     Q1 -->|"Yes"| Request
@@ -141,12 +141,12 @@ flowchart TD
     Document --> Q3
     Q3 -->|"Yes"| Physical
     Q3 -->|"No"| Done1["Done"]
-    Physical --> DocRef
-    DocRef -->|"relatesTo.code = signs"| Document
+    Physical --> Provenance
+    Provenance -->|"target = Bundle"| Document
 
     style Request fill:#E8F4F8,stroke:#4A90E2,stroke-width:2px
     style Document fill:#FFF4E6,stroke:#F5A623,stroke-width:2px
-    style DocRef fill:#F0E6FF,stroke:#9B59B6,stroke-width:2px
+    style Provenance fill:#F0E6FF,stroke:#9B59B6,stroke-width:2px
     style Physical fill:#FCE4EC,stroke:#E91E63,stroke-width:2px
 ```
 
