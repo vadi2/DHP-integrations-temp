@@ -4,8 +4,9 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: uz.dhp.integrations
+packageId: uz.dhp.integrations
 canonical: https://dhp.uz/fhir/integrations
-name: DHP integrations
+name: DHP-integrations
 title: Uzbekistan Digital Health Platform - Integrations
 description: Profiles for DHP integrations with systems in Uzbekistan
 status: draft # draft | active | retired | unknown
@@ -27,8 +28,8 @@ publisher:
 dependencies:
   uz.dhp.core:
     id: dhpcore
-    uri: http://dhp.uz/ImplementationGuide/uz.dhp.core
-    version: 0.2.0
+    uri: https://dhp.uz/fhir/core/ImplementationGuide/uz.dhp.core
+    version: 0.3.0
 #
 #
 # The pages property corresponds to IG.definition.page. SUSHI can

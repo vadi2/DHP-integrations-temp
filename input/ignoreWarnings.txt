@@ -3,3 +3,10 @@
 # Add warning and/or information messages here after you've confirmed that they aren't really a problem
 # (And include comments like this justifying why)
 # See https://github.com/FHIR/sample-ig/blob/master/input/ignoreWarnings.txt for examples
+
+# Publisher bug with new .ai.html pages - reported
+unexpected non-end of element null::div at line%
+
+# We get this warning due to mixed languages in the spec - but that is normal
+Resource has a language (uz), and the XHTML has a lang (en), but they differ 
+Resource has a language (ru), and the XHTML has a lang (en), but they differ 
