@@ -27,8 +27,10 @@ publisher:
 dependencies:
   uz.dhp.core:
     id: dhpcore
-    uri: http://dhp.uz/ImplementationGuide/uz.dhp.core
-    version: 0.2.0
+    # uri: http://dhp.uz/ImplementationGuide/uz.dhp.core # QA error: The packageId uz.dhp.core points to the canonical https://dhp.uz/fhir/core which is inconsistent with the stated canonical of http://dhp.uz/ImplementationGuide/uz.dhp.core
+    # uri: https://dhp.uz/fhir/core # QA error: The URL should refer directly to the ImplementationGuide resource (e.g. include '/ImplementationGuide/'), The canonical URL https://dhp.uz/fhir/core doesn't point to an actual ImplementationGuide resource
+    uri: https://dhp.uz/fhir/core/ImplementationGuide/uz.dhp.core
+    version: 0.3.0
 #
 #
 # The pages property corresponds to IG.definition.page. SUSHI can
