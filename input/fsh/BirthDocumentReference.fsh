@@ -1,7 +1,7 @@
-Profile: DocumentReferenceBirth
+Profile: BirthDocumentReference
 Parent: DocumentReference
-Id: document-reference-birth
-Title: "Document Reference Birth"
+Id: birth-document-reference
+Title: "Birth Document Reference"
 Description: "Document reference for Birth profile"
 * ^status = #draft
 
@@ -17,11 +17,11 @@ Description: "Document reference for Birth profile"
 
 * subject MS
 * subject ^short = "Новорожденный ребенок"
-* subject only Reference(PatientBirth)
+* subject only Reference(BirthPatient)
 
 * context MS
 * context ^short = "При encounter с новорожденным ребенком"
-* context only Reference(EncounterBirth)
+* context only Reference(BirthEncounter)
 
 * practiceSetting MS
 * practiceSetting ^short = "Дополнительные сведения о месте создания контента (например, клиническая специализация)"

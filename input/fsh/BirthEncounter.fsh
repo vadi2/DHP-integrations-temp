@@ -1,7 +1,7 @@
-Profile: EncounterBirth
+Profile: BirthEncounter
 Parent: UZCoreEncounter
-Id: encounter-birth
-Title: "Encounter of Birth"
+Id: birth-encounter
+Title: "Birth Encounter"
 Description: "Uzbekistan Birth Encounter profile, used to represent patients administrative information"
 * ^status = #draft
 
@@ -9,7 +9,7 @@ Description: "Uzbekistan Birth Encounter profile, used to represent patients adm
 * serviceType ^short = "Конкретный тип услуги"
 
 * subject MS
-* subject only Reference(PatientBirth) //(Patient - Child Vital Records)
+* subject only Reference(BirthPatient) //(Patient - Child Vital Records)
 * subject ^short = "Младенец, связанный с этой встречей"
 
 * partOf MS

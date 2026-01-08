@@ -1,8 +1,8 @@
-Profile: CompositionBirth
+Profile: BirthComposition
 Parent: Composition
-Id: composition-birth
-Title: "Bith Composition"
-Description: "Composition foor Birth profile"
+Id: birth-composition
+Title: "Birth Composition"
+Description: "Composition for Birth profile"
 * ^experimental = true
 * ^status = #draft
 * ^publisher = "Uzinfocom"

@@ -1,6 +1,6 @@
-Extension: PatientPlaceOfBirthType
-Id: patient-placeOfBirthType
-Title: "Place of Birth Type"
+Extension: BirthPlaceType
+Id: birth-place-type
+Title: "Birth Place Type"
 Description: "Extension to indicate the type of place where the patient was born (e.g. home, hospital, other)."
 * ^status = #active
 * ^context.type = #element

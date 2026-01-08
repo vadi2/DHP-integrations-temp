@@ -1,7 +1,7 @@
-Profile: RelatedPersonBirth
+Profile: BirthRelatedPerson
 Parent: UZCoreRelatedPerson
-Id: related-person-birth
-Title: "RelatedPerson of Birth"
+Id: birth-related-person
+Title: "Birth Related Person"
 Description: "Uzbekistan Birth RelatedPerson profile for new born patient"
 * ^status = #draft
 

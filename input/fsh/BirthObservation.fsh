@@ -1,35 +1,38 @@
-Profile: ObservationAPGAR
+Profile: BirthObservation
 Parent: UZCoreObservation
-Id: observation-apgar
-Title: "Observation APGAR of Birth"
+Id: birth-observation
+Title: "Birth Observation"
 Description: "Assessment of the newborn's condition"
 * ^status = #draft
 
 * identifier MS
-* identifier ^short = "Оценка состояния новорожденного"
+* identifier ^short = "Идентификатор для наблюдения"
 
 * status MS
-* status ^short = "«окончательный» (потому что результаты по шкале Апгар уже закончились)"
+* status ^short = "зарегистрированный | образец в процессе обработки | предварительный | окончательный | измененный | исправленный | добавленный | аннулированный | введенный по ошибке | неизвестный | не может быть получен"
 * status from DocRefComStatusVS (required)
 
 * category MS
-* category ^short = "Категория: обследование или показатели жизнедеятельности"
+* category ^short = "Классификация видов наблюдения"
 * category from https://terminology.dhp.uz/fhir/core/ValueSet/observation-category-vs  (required)
 
 * code MS
 * code ^short = "Тип наблюдения (код/тип)"
-* code from http://loinc.org (required) //need have to add LOINC codes here(in link)
+* code from http://loinc.org (required)
 
 * subject MS
 * subject ^short = "о пациенте (ребенок)"
-* subject only Reference(PatientBirth)
+* subject only Reference(BirthPatient)
+
+* effective[x] MS
+* effective[x] ^short = "Клинически значимое время/период наблюдения"
 
 * performer MS
-* performer ^short = "Специалист, который проверял по шкале Апгар"
+* performer ^short = "Врач или специалист, измеривший результат"
 * performer only Reference(UZCorePractitioner)
 
 * value[x] MS
-* value[x] ^short = "Оценка по шкале Апгар: 1 - 10 результат"
+* value[x] ^short = "Фактический результат"
 
 * valueQuantity MS
 * valueQuantity ^short = "Рост, вес ребенка при рождении"
