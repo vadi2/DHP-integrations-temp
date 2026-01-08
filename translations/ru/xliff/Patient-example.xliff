@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="Patient-example" original="Resource Patient-example" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="Patient-example" resname="HumanName.text">
+             <notes>
+               <note id="n1">Specifies the entire name as it should be displayed e.g. on an application UI. This may be provided instead of or as well as the specific parts.</note>
+             </notes>
+        <source>Boltayev Damir Ketmonovich</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
