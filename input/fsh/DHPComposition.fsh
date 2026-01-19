@@ -49,7 +49,7 @@ Description: "Example of a sick leave document composition"
 * identifier[formNumber].value = "095"
 * status = #final
 * type = $loinc#51851-4 "Administrative note"
-* category = document-category-cs#mserv-0005-00001 "Mehnatga layoqatsizlik varaqasi"
+* category = document-category-cs#mserv-0005-00001 "Sick leave"
 * subject = Reference(example-patient)
 * date = "2025-01-15T10:30:00+05:00"
 * author = Reference(example-practitioner)
