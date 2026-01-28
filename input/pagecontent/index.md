@@ -117,6 +117,7 @@ For data requiring legal authentication and long-term persistence (e.g., Form 00
 
 When a physical signature is required, the document is printed, signed, scanned, and the PDF is embedded in [Provenance.signature.data](https://hl7.org/fhir/R5/provenance-definitions.html#Provenance.signature). DHP pre-adopts the reworked R6 rules from [6.1.2.2.9 Signing Bundles](https://build.fhir.org/signatures.html#Bundles) as they provide a cleaner approach - keeping the signature with the Bundle and making it clear the entire document is signed.
 
+This approach balances immediate practicality with future readiness. The scan-and-embed workflow meets current legal requirements and can be deployed in Q1 2026. Meanwhile, the Provenance.signature structure fully supports cryptographic digital signatures—when Uzbekistan's legal and technical infrastructure matures, the same FHIR resources can carry true digital signatures without architectural changes.
 
 #### Choosing the right approach
 
