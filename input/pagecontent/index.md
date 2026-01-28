@@ -115,7 +115,7 @@ For operational workflows requiring status tracking, DHP prefers [request resour
 
 For data requiring legal authentication and long-term persistence (e.g., Form 003 for inpatient stays, Form 096 for births), DHP uses **Clinical Documents** - a Bundle containing a Composition header with metadata and attestation, plus referenced clinical resources (Patient, Observation, Condition, etc.).
 
-When a physical signature is required, the document is printed, signed, scanned, and uploaded as a PDF. A DocumentReference links the scanned copy back to the original Composition.
+When a physical signature is required, the document is printed, signed, scanned, and the PDF is embedded in [Provenance.signature.data](https://hl7.org/fhir/R5/provenance-definitions.html#Provenance.signature). DHP pre-adopts the reworked R6 rules from [6.1.2.2.9 Signing Bundles](https://build.fhir.org/signatures.html#Bundles) as they provide a cleaner approach - keeping the signature with the Bundle and making it clear the entire document is signed.
 
 
 #### Choosing the right approach
@@ -129,9 +129,9 @@ flowchart TD
     Q3{"Needs physical<br/>signature?"}
 
     Request["Request Resource<br/>(ServiceRequest, MedicationRequest,<br/>Appointment, etc.)"]
-    Document["Clinical Document<br/>(Bundle + Composition)<br/>with digital signature"]
+    Document["Clinical Document<br/>(Bundle + Composition)"]
     Physical["Print, Sign, Scan"]
-    DocRef["DocumentReference<br/>(scanned PDF)"]
+    Provenance["Provenance.signature<br/>(scanned PDF in signature.data)"]
 
     Start --> Q1
     Q1 -->|"Yes"| Request
@@ -142,12 +142,12 @@ flowchart TD
     Document --> Q3
     Q3 -->|"Yes"| Physical
     Q3 -->|"No"| Done1["Done"]
-    Physical --> DocRef
-    DocRef -->|"relatesTo.code = signs"| Document
+    Physical --> Provenance
+    Provenance -->|"target = Bundle"| Document
 
     style Request fill:#E8F4F8,stroke:#4A90E2,stroke-width:2px
     style Document fill:#FFF4E6,stroke:#F5A623,stroke-width:2px
-    style DocRef fill:#F0E6FF,stroke:#9B59B6,stroke-width:2px
+    style Provenance fill:#F0E6FF,stroke:#9B59B6,stroke-width:2px
     style Physical fill:#FCE4EC,stroke:#E91E63,stroke-width:2px
 ```
 
