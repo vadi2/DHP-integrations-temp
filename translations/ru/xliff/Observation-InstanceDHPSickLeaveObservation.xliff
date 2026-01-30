@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="Observation-InstanceDHPSickLeaveObservation" original="Resource Observation-InstanceDHPSickLeaveObservation" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>On sick leave from work</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="CodeableConcept.text">
+             <notes>
+               <note id="n1">A human language representation of the concept as seen/selected/uttered by the user who entered the data and/or which represents the intended meaning of the user.</note>
+             </notes>
+        <source>On sick leave from work</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>City affiliation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="CodeableConcept.text">
+             <notes>
+               <note id="n1">A human language representation of the concept as seen/selected/uttered by the user who entered the data and/or which represents the intended meaning of the user.</note>
+             </notes>
+        <source>Tashkent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Place of incident</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="CodeableConcept.text">
+             <notes>
+               <note id="n1">A human language representation of the concept as seen/selected/uttered by the user who entered the data and/or which represents the intended meaning of the user.</note>
+             </notes>
+        <source>Home</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Issuance of sick leave to a patient from another city</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Information about contact with an infectious disease patient</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Degree of kinship</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="CodeableConcept.text">
+             <notes>
+               <note id="n1">A human language representation of the concept as seen/selected/uttered by the user who entered the data and/or which represents the intended meaning of the user.</note>
+             </notes>
+        <source>First degree relative</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Regime/Mode</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="CodeableConcept.text">
+             <notes>
+               <note id="n1">A human language representation of the concept as seen/selected/uttered by the user who entered the data and/or which represents the intended meaning of the user.</note>
+             </notes>
+        <source>AMB</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Data on regime violation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="CodeableConcept.text">
+             <notes>
+               <note id="n1">A human language representation of the concept as seen/selected/uttered by the user who entered the data and/or which represents the intended meaning of the user.</note>
+             </notes>
+        <source>No violations reported</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Temporarily transfer to another job</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Conclusions</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="CodeableConcept.text">
+             <notes>
+               <note id="n1">A human language representation of the concept as seen/selected/uttered by the user who entered the data and/or which represents the intended meaning of the user.</note>
+             </notes>
+        <source>Conclusions example</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Observation-InstanceDHPSickLeaveObservation" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Date of verification</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
