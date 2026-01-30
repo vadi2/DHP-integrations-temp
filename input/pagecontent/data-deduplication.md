@@ -56,8 +56,8 @@ sequenceDiagram
 
     Note over Client: Build bundle with:<br/>- New Composition<br/>- Reference to Patient/123<br/>- Reference to Observation/456<br/>- New Observation for Rh factor
 
-    Client->>Server: POST Bundle (transaction)
-    Server-->>Client: Created: Observation/789, Composition/421
+    Client->>Server: POST /$process-document
+    Server-->>Client: Composition/421, Observation/789, Bundle/archived-123
 ```
 
 ## When to de-duplicate?
@@ -75,8 +75,7 @@ flowchart LR
     subgraph Query["1. Query existing"]
         Q1["Patient by PINFL"]
         Q2["Blood type"]
-        Q3["Rh factor"]
-        Q4["Spouse"]
+        Q3["..."]
     end
 
     subgraph Build["2. Build bundle"]
@@ -87,7 +86,7 @@ flowchart LR
 
     subgraph Submit["3. Submit"]
         TX["Document bundle"]
-        Server["FHIR server"]
+        Server["DHP"]
     end
 
     Query --> Build
@@ -99,9 +98,9 @@ flowchart LR
 
 ### Document bundle structure
 
-A document bundle can contain:
-- References only - to existing server resources
-- New resources - to be created (use `urn:uuid:`)
+A document bundle contains:
+- References to existing server resources (no need to re-include them)
+- New resources to be created (use `urn:uuid:` for internal references)
 
 ```json
 {
@@ -147,3 +146,65 @@ In this example:
 - `Patient/123` - existing, referenced only
 - `Observation/456`, `Observation/789` - existing (blood type, Rh), referenced only
 - `urn:uuid:new-hiv-test` - new, included in bundle
+- `urn:uuid:composition-1` - new Composition tying it all together
+
+### The $process-document operation
+
+DHP provides the [`$process-document`](OperationDefinition-process-document.html) operation to handle document bundle submission. When invoked, it performs two operations:
+
+1. **Resource extraction** - DHP extracts and creates individual resources from the bundle. New resources (with `urn:uuid:` identifiers) are assigned server IDs. References to existing resources are validated and linked.
+
+2. **Archival** - DHP stores a complete, self-contained copy of the document for long-term persistence. All references are resolved and the referenced resources are included in the archived bundle, ensuring the document remains readable even if referenced resources are later modified.
+
+```mermaid
+flowchart LR
+    subgraph Input["Client submits"]
+        Doc["POST /$process-document<br/>(document bundle)"]
+    end
+
+    subgraph DHP["DHP processing"]
+        Extract["Extract &<br/>create resources"]
+        Archive["Resolve references &<br/>archive complete document"]
+    end
+
+    subgraph Output["Result"]
+        Resources["Individual resources<br/>(queryable, referenceable)"]
+        Archived["Archived document<br/>(self-contained)"]
+    end
+
+    Doc --> Extract
+    Doc --> Archive
+    Extract --> Resources
+    Archive --> Archived
+```
+
+#### Example request
+
+```http
+POST [base]/$process-document
+Content-Type: application/fhir+json
+
+{
+  "resourceType": "Bundle",
+  "type": "document",
+  "entry": [...]
+}
+```
+
+#### Example response
+
+```json
+{
+  "resourceType": "Parameters",
+  "parameter": [
+    {"name": "composition", "valueReference": {"reference": "Composition/421"}},
+    {"name": "created", "valueReference": {"reference": "Observation/789"}},
+    {"name": "archived", "valueReference": {"reference": "Bundle/archived-123"}}
+  ]
+}
+```
+
+This approach provides:
+- **Deduplication** - clients reference existing resources instead of re-submitting them
+- **Queryable data** - individual resources can be searched and referenced by other documents
+- **Legal archival** - complete self-contained documents for long-term persistence and attestation
