@@ -88,7 +88,7 @@ parameters:
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 menu:
   Home: index.html
-  Data deduplication: data-deduplication.html
+  Document lifecycle: document-statuses.html
   Artifacts: artifacts.html
   Changelog: changelog.html
 
