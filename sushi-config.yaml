@@ -89,8 +89,8 @@ parameters:
 menu:
   Home: index.html
   Documents:
-    Lifecycle: document-statuses.html
     Categories: document-categories.html
+    Lifecycle: document-statuses.html
   Artifacts: artifacts.html
   Changelog: changelog.html
 
