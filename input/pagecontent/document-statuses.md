@@ -1,8 +1,8 @@
-# Clinical document lifecycle
+### Clinical document lifecycle
 
 Clinical documents in DHP use the [Composition.status](https://hl7.org/fhir/R5/composition-definitions.html#Composition.status) element to track their lifecycle state. This page describes the status codes used and their transitions.
 
-## Status codes
+### Status codes
 
 DHP uses the following R5 Composition status codes:
 
@@ -14,7 +14,7 @@ DHP uses the following R5 Composition status codes:
 | `entered-in-error` | Document was created in error and should be disregarded. |
 | `unknown` | Document status cannot be determined (e.g., imported from external systems). |
 
-## Status transitions
+### Status transitions
 
 ```mermaid
 stateDiagram-v2
@@ -34,24 +34,24 @@ stateDiagram-v2
     state "entered-in-error" as entered_in_error
 ```
 
-## Usage guidelines
+### Usage guidelines
 
-### preliminary
+#### preliminary
 
 When a form is first opened and data entry begins, 3rd party systems should synchronize with DHP using status `preliminary`. This signals to other DHP users that work on this document is in progress.
 
-### final
+#### final
 
 When a form is completed (or signed and completed), 3rd party systems should set the status to `final`. This indicates the document is verified and authoritative.
 
-### amended
+#### amended
 
 If a finalized document requires corrections, 3rd party systems should update the data and set status to `amended`. Systems filtering for completed documents should include both `final` and `amended` statuses.
 
-### entered-in-error
+#### entered-in-error
 
 3rd party systems should use this status to delete or retract a document. The document remains in the system for audit purposes but should be excluded from clinical views.
 
-### unknown
+#### unknown
 
 3rd party systems should use this status when importing documents from external sources where the original status cannot be determined. This acknowledges uncertainty rather than incorrectly assuming a document is `final`.
