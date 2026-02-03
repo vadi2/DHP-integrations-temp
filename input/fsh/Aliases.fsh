@@ -12,5 +12,4 @@ Alias: $observation-category = http://terminology.hl7.org/CodeSystem/observation
 Alias: $data-absent-reason = http://terminology.hl7.org/CodeSystem/data-absent-reason
 
 // DHP CodeSystems
-Alias: $document-category-cs = https://terminology.dhp.uz/fhir/integrations/CodeSystem/document-category-cs
-Alias: $dialysis-equipment = https://dhp.uz/fhir/core/CodeSystem/dialysis-equipment
+Alias: $document-category-cs = https://dhp.uz/fhir/integrations/CodeSystem/document-category-cs

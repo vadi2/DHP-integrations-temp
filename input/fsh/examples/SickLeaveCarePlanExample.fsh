@@ -1,15 +1,18 @@
 Instance: ExamplePatient
-InstanceOf: Patient
+InstanceOf: UZCorePatient
 Usage: #example
 Title: "Example Patient"
 Description: "Minimal example patient for sick leave"
+* identifier[nationalId].value = "31234567890124"
+* name.use = #official
+* name.text = "Karimov Akmal"
 * name.family = "Karimov"
 * name.given = "Akmal"
 
 Instance: Form095CarePlanExample
 InstanceOf: CarePlan
 Usage: #example
-Title: "Form 095 CarePlan Example"
+Title: "Form 095 - Sick leave"
 Description: "Example of a student disability certificate (Form 095) using document category and form number"
 
 * status = #active
