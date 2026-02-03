@@ -97,6 +97,12 @@ Description: "Categories for clinical documents and other knowledge resources in
   * ^designation[+].language = #ru
   * ^designation[=].value = "Регистрация родов в родильных отделениях"
 
+* #form-011 "Gemodializ seansi yozuvi"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Hemodialysis session record"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Запись сеанса гемодиализа"
+
 * #form-096 "Tug'ruq tibbiy kartasi"
   * ^designation[0].language = #en
   * ^designation[=].value = "Birth medical record"
