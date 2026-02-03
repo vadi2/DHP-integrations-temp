@@ -5,6 +5,15 @@ DHP uses several mechanisms to classify and identify clinical documents:
 - External identifiers - link to official form or template numbers when present
 - Instance identifiers - unique UUIDs to distinguish individual document instances
 
+```mermaid
+graph TB
+    Doc[Document]
+    Doc --> Cat[.category<br/>What type?]
+    Doc --> Form[.identifier form-number<br/>Which form?]
+    Doc --> Inst[Bundle.identifier<br/>Which version?]
+    Doc --> Comp[Composition.identifier<br/>Which composition?]
+```
+
 ### Category codes
 
 Category codes are the primary method for identifying document types. Use `Composition.category` or `CarePlan.category` with codes from [DocumentCategoryCS](CodeSystem-document-category-cs.html).

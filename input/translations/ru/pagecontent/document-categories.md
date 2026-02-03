@@ -5,6 +5,15 @@ DHP использует несколько механизмов для клас
 - Внешние идентификаторы - ссылки на официальные номера форм или шаблонов при их наличии
 - Идентификаторы экземпляров - уникальные UUID для различения отдельных экземпляров документов
 
+```mermaid
+graph TB
+    Doc[Документ]
+    Doc --> Cat[.category<br/>Какой тип?]
+    Doc --> Form[.identifier form-number<br/>Какая форма?]
+    Doc --> Inst[Bundle.identifier<br/>Какая версия?]
+    Doc --> Comp[Composition.identifier<br/>Какая композиция?]
+```
+
 ### Коды категорий
 
 Коды категорий являются основным методом определения типов документов. Используйте `Composition.category` или `CarePlan.category` с кодами из [DocumentCategoryCS](CodeSystem-document-category-cs.html).
