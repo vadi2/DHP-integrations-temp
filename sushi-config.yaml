@@ -88,7 +88,9 @@ parameters:
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 menu:
   Home: index.html
-  Document lifecycle: document-statuses.html
+  Documents:
+    Lifecycle: document-statuses.html
+    Categories: document-categories.html
   Artifacts: artifacts.html
   Changelog: changelog.html
 
