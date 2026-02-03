@@ -6,3 +6,7 @@
 
 # Faulty error in IG publisher, this link does work
 The link 'https://dhp.uz/fhir/core/%' cannot be resolved
+
+# Warning that can be ignored for our use since our instances use Uzbek/Russian but generated narrative in English
+Resource has a language (uz), and the XHTML has a lang (en), but they differ
+Resource has a language (ru), and the XHTML has a lang (en), but they differ
