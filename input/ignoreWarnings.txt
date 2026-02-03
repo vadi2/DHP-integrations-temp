@@ -10,3 +10,5 @@ The link 'https://dhp.uz/fhir/core/%' cannot be resolved
 # Warning that can be ignored for our use since our instances use Uzbek/Russian but generated narrative in English
 Resource has a language (uz), and the XHTML has a lang (en), but they differ
 Resource has a language (ru), and the XHTML has a lang (en), but they differ
+"The narrative includes custom content for the default language (en), but does not include translated content for the ru language, so the default language has been used
+"The narrative includes custom content for the default language (en), but does not include translated content for the uz language, so the default language has been used
