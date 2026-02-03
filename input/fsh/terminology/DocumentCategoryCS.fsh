@@ -1,11 +1,133 @@
 CodeSystem: DocumentCategoryCS
 Id: document-category-cs
 Title: "Document Category"
-Description: "Categories for clinical documents and other knowledge resources in Uzbekistan integrations"
+Description: "Categories for clinical documents and other knowledge resources in Uzbekistan integrations. Based on Ministry of Health Order 399."
 * ^experimental = true
 * ^caseSensitive = true
 * ^language = #uz
 
+// 1.0 Hospital forms (first 20 from Order 399)
+* #form-001 "Tibbiy muassasaga qabul qilingan yoki rad etilganlarni hisobga olish"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Registration of patients admitted or refused to medical facility"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Учет принятых или отказанных в медицинское учреждение"
+
+* #form-002 "Chaqaloqlar bo'limi (xona)"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Newborn department (room)"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Отделение (палата) новорожденных"
+
+* #form-003 "Bemorning tibbiy kartasi"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Patient medical record"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Медицинская карта больного"
+
+* #form-003-1 "Homiladorlikni vaqtidan oldin tugatish tibbiy kartasi"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Medical record for early termination of pregnancy"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Медицинская карта прерывания беременности"
+
+* #form-004 "O'tkazilgan narkozlarni qayd etish"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Anesthesia registration"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Регистрация проведенных наркозов"
+
+* #form-005 "Narkoz varaqasi"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Anesthesia record"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Наркозный лист"
+
+* #form-006 "Reanimatsiya (xona) va intensiv terapiya bo'limidagi bemorni dinamik kuzatuv"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Dynamic observation of patient in ICU"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Динамическое наблюдение больного в реанимации и интенсивной терапии"
+
+* #form-007 "Bemorning kelib ketishi va shifoxonaning o'rin fondini hisobga olib borish varaqasi"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Patient movement and hospital bed capacity record"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Листок учета движения больных и коечного фонда больницы"
+
+* #form-008 "Shifoxonadagi jarrohlik muolajalarni yozish"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Hospital surgical procedures record"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Запись хирургических процедур в стационаре"
+
+* #form-009 "Qon tarkibiy qismlari va preparatlari quyishni qayd etish"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Blood components and products transfusion registration"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Регистрация переливания компонентов и препаратов крови"
+
+* #form-009-1 "Qon quyish komissiyasining xulosasi"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Blood transfusion commission conclusion"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Заключение комиссии по переливанию крови"
+
+* #form-009-2 "Gemo (plazma) transfuziya bayonnomasi"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Hemo (plasma) transfusion protocol"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Протокол гемо (плазма) трансфузии"
+
+* #form-009-3 "Ortib qolgan qon va qon tarkibiy qismlarini yo'qotish"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Disposal of remaining blood and blood components"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Уничтожение остатков крови и компонентов крови"
+
+* #form-009-4 "Yaroqsiz qon komponentlarini yo'q qilishni qayd etish"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Registration of disposal of unsuitable blood components"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Регистрация уничтожения непригодных компонентов крови"
+
+* #form-010 "Tug'ruq bo'limlarida tug'ishlarni qayd etish"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Birth registration in maternity departments"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Регистрация родов в родильных отделениях"
+
+* #form-096 "Tug'ruq tibbiy kartasi"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Birth medical record"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Медицинская карта родов"
+
+* #form-097 "Chaqaloqning rivojlanish tibbiy kartasi"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Newborn development medical record"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Медицинская карта развития новорожденного"
+
+* #form-103 "Tug'ilganlik haqida ma'lumotnomani qayd etish"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Birth certificate registration"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Регистрация справки о рождении"
+
+* #form-106 "O'lim ma'lumotnomasini qayd etish"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Death certificate registration"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Регистрация свидетельства о смерти"
+
+* #form-106-2 "Perinatal o'lim ma'lumotnomasini qayd etish"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Perinatal death certificate registration"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Регистрация свидетельства о перинатальной смерти"
+
+// Additional forms
 * #form-053 "Harbiy xizmatga chaqiriluvchilarning tibbiy kartasi"
   * ^designation[0].language = #en
   * ^designation[=].value = "Military conscript medical record"
