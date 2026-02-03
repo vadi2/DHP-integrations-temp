@@ -278,15 +278,12 @@ Instance: provenance-signature
 InstanceOf: Provenance
 Usage: #inline
 * language = #en
-// Target is the Bundle containing the clinical document
-* target = Reference(urn:uuid:550e8400-e29b-41d4-a716-446655440000)
+* target = Reference(Bundle/example-form-011-hemodialysis)
 * recorded = "2026-01-06T13:45:00+05:00"
 * agent.type = http://terminology.hl7.org/CodeSystem/provenance-participant-type#attester "Attester"
 * agent.who = Reference(urn:uuid:d4e5f6a7-b8c9-0123-defa-234567890123) "Karimov A.A."
-// Physical signature: scanned PDF of the signed document
 * signature.type = urn:iso-astm:E1762-95:2013#1.2.840.10065.1.12.1.1 "Author's Signature"
 * signature.when = "2026-01-06T13:45:00+05:00"
 * signature.who = Reference(urn:uuid:d4e5f6a7-b8c9-0123-defa-234567890123) "Karimov A.A."
 * signature.sigFormat = #application/pdf
-// Sample PDF placeholder - in production this would be the actual scanned signed document
 * signature.data = "JVBERi0xLjQKMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovUGFnZXMgMiAwIFIKPj4KZW5kb2JqCjIgMCBvYmoKPDwKL1R5cGUgL1BhZ2VzCi9LaWRzIFszIDAgUl0KL0NvdW50IDEKL01lZGlhQm94IFswIDAgNjEyIDc5Ml0KPj4KZW5kb2JqCjMgMCBvYmoKPDwKL1R5cGUgL1BhZ2UKL1BhcmVudCAyIDAgUgovQ29udGVudHMgNCAwIFIKPj4KZW5kb2JqCjQgMCBvYmoKPDwKL0xlbmd0aCA0NAo+PgpzdHJlYW0KQlQKL0YxIDEyIFRmCjEwMCA3MDAgVGQKKFNhbXBsZSBTaWduZWQgRG9jdW1lbnQpIFRqCkVUCmVuZHN0cmVhbQplbmRvYmoKeHJlZgowIDUKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwMDA5IDAwMDAwIG4gCjAwMDAwMDAwNTggMDAwMDAgbiAKMDAwMDAwMDE0OCAwMDAwMCBuIAowMDAwMDAwMjE3IDAwMDAwIG4gCnRyYWlsZXIKPDwKL1NpemUgNQovUm9vdCAxIDAgUgo+PgpzdGFydHhyZWYKMzEyCiUlRU9G"
