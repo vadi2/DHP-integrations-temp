@@ -1,11 +1,11 @@
-# Document categories and identifiers
+### Document categories and identifiers
 
 DHP uses several mechanisms to classify and identify clinical documents:
 - Category codes - the main way to identify types of resources
 - External identifiers - link to official form or template numbers when present
 - Instance identifiers - unique UUIDs to distinguish individual document instances
 
-## Category codes
+### Category codes
 
 Category codes are the primary method for identifying document types. Use `Composition.category` or `CarePlan.category` with codes from [DocumentCategoryCS](CodeSystem-document-category-cs.html).
 
@@ -24,11 +24,11 @@ Category codes are the primary method for identifying document types. Use `Compo
 
 Categories are based on Ministry of Health standardized forms.
 
-## External identifiers
+### External identifiers
 
 When a document has an official form number or template number, they are recorded in `.identifier`. Not all documents have external identifiers - use them when present.
 
-### Form numbers
+#### Form numbers
 
 Official form numbers (e.g., Form 094):
 
@@ -41,7 +41,7 @@ Official form numbers (e.g., Form 094):
 }
 ```
 
-### Template numbers
+#### Template numbers
 
 Template identifiers (distinct from form numbers):
 
@@ -54,7 +54,7 @@ Template identifiers (distinct from form numbers):
 }
 ```
 
-## Instance identifiers
+### Instance identifiers
 
 Individual instances are distinguished using UUID format in `.identifier`.
 
@@ -85,7 +85,7 @@ When a document is updated (e.g., a form is created and later modified), `Compos
 
 For standalone resources (e.g., CarePlan), use the resource's own `.identifier`.
 
-## Summary
+### Summary
 
 | Element | Purpose | Example |
 |---------|---------|---------|
@@ -94,6 +94,6 @@ For standalone resources (e.g., CarePlan), use the resource's own `.identifier`.
 | `Bundle.identifier` | Unique document instance | v1: `urn:uuid:aaa...`, v2: `urn:uuid:bbb...` |
 | `Composition.identifier` | Composition identity | v1 & v2: `urn:uuid:ccc...` |
 
-## Example
+### Example
 
 See [Form 095 CarePlan Example](CarePlan-Form095CarePlanExample.html) for a complete example showing category, form number, and instance identifier.
