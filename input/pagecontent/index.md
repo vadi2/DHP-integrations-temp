@@ -115,9 +115,7 @@ For operational workflows requiring status tracking, DHP prefers [request resour
 
 For data requiring legal authentication and long-term persistence (e.g., Form 003 for inpatient stays, Form 096 for births), DHP uses **Clinical Documents** - a Bundle containing a Composition header with metadata and attestation, plus referenced clinical resources (Patient, Observation, Condition, etc.).
 
-When a physical signature is required, the document is printed, signed, scanned, and the PDF is embedded in [Provenance.signature.data](https://hl7.org/fhir/R5/provenance-definitions.html#Provenance.signature). DHP pre-adopts the reworked R6 rules from [6.1.2.2.9 Signing Bundles](https://build.fhir.org/signatures.html#Bundles) as they provide a cleaner approach - keeping the signature with the Bundle and making it clear the entire document is signed.
-
-This approach balances immediate practicality with future readiness. The scan-and-embed workflow meets current legal requirements and can be deployed in Q1 2026. Meanwhile, the Provenance.signature structure fully supports cryptographic digital signatures—when Uzbekistan's legal and technical infrastructure matures, the same FHIR resources can carry true digital signatures without architectural changes.
+When a signature is required, 3rd party systems will display an iframe from the DHP platform where practitioners will log in to authenticate themselves using oneID. This will generate a cryptographic signature (either as JWS Digital Signature or based on the W3C Verifiable Credentials Data Model, to be decided) that will be returned to the 3rd party system to be attached as a [Provenance.signature](https://hl7.org/fhir/R5/provenance-definitions.html#Provenance.signature). Additionally, DHP also pre-adopts [R6 signing rules](https://build.fhir.org/signatures.html#Bundles) as they significantly differ from R5 and that is the future direction where FHIR is going.
 
 #### Choosing the right approach
 
@@ -127,12 +125,12 @@ flowchart TD
 
     Q1{"Needs workflow<br/>status tracking?"}
     Q2{"Needs legal<br/>authentication &<br/>persistence?"}
-    Q3{"Needs physical<br/>signature?"}
+    Q3{"Needs<br/>signature?"}
 
     Request["Request Resource<br/>(ServiceRequest, MedicationRequest,<br/>Appointment, etc.)"]
     Document["Clinical Document<br/>(Bundle + Composition)"]
-    Physical["Print, Sign, Scan"]
-    Provenance["Provenance.signature<br/>(scanned PDF in signature.data)"]
+    Iframe["DHP iframe<br/>(oneID authentication)"]
+    Provenance["Provenance.signature"]
 
     Start --> Q1
     Q1 -->|"Yes"| Request
@@ -141,15 +139,15 @@ flowchart TD
     Q2 -->|"No"| Request
 
     Document --> Q3
-    Q3 -->|"Yes"| Physical
+    Q3 -->|"Yes"| Iframe
     Q3 -->|"No"| Done1["Done"]
-    Physical --> Provenance
+    Iframe --> Provenance
     Provenance -->|"target = Bundle"| Document
 
     style Request fill:#E8F4F8,stroke:#4A90E2,stroke-width:2px
     style Document fill:#FFF4E6,stroke:#F5A623,stroke-width:2px
     style Provenance fill:#F0E6FF,stroke:#9B59B6,stroke-width:2px
-    style Physical fill:#FCE4EC,stroke:#E91E63,stroke-width:2px
+    style Iframe fill:#FCE4EC,stroke:#E91E63,stroke-width:2px
 ```
 
 ---
