@@ -1,4 +1,4 @@
-### Form 011 - Hemodialysis Session Protocol
+### Form 011 - Hemodialysis session protocol
 
 This page documents the mapping between Form 011 (Hemodialysis Session Protocol) fields and FHIR resources.
 
@@ -8,38 +8,41 @@ Form 011 captures clinical data from hemodialysis sessions. The form data maps t
 
 ### Field Mapping
 
-| UZ-011 | RU-011 | FHIR Path | Example Value |
-|--------|--------|-----------|---------------|
-| Bemor | Пациент | Patient.name | Aziz John |
-| Sana | Дата | Encounter.identifier | 1/6/2026 |
-| Amb № | Амбулаторный № | Patient.identifier | 1245 |
-| Seans № | № сеанса | Procedure.identifier | 128 |
-| Dializ boshlanishi | Начало диализа | Procedure.occurrence[occurrenceDateTime] | 9:00 |
-| Dializ tugashi | Окончание диализа | Procedure.occurrence[occurrenceDateTime] | 13:00 |
-| Vaqt | Время | Procedure.occurrence[occurrenceTiming] | 9:00 |
-| AQB | Артериальное давление | Observation.code; Observation.value[x] | 150/90 |
-| PS | Пульс | Observation.code; Observation.value[x] | 0:00 |
-| t(°C) | Температура тела (°C) | Observation.code; Observation.value[x] | 36.6 |
-| SPO (SpO₂ (%)) | Сатурация кислорода (%) | Observation.code; Observation.value[x] | 0:00 |
-| Asosiy Davolash | Основное лечение | MedicationAdministration.medicationCodeableConcept | Geparin : 2000ED |
-| Qo'shimcha Davolash | Дополнительное лечение | Observation.code; Observation.value[x] | |
-| Dializator | Диализатор | Procedure.used.concept | FX 80 |
-| Magistral | Магистраль | Procedure.used.concept | Arterial/Venoz |
-| ignalar | Иглы | Procedure.used.concept | AVF 16G |
-| UF | Ультрафильтрация | Observation.code; Observation.value[x] | 2500 ml |
-| Vazn seansgacha | Масса тела до сеанса | Observation.code; Observation.value[x] | 72.5 kg |
-| Vazn seansdan keyin | Масса тела после сеанса | Observation.code; Observation.value[x] | 70.0 kg |
-| Shifokor | Врач | Encounter.participant.actor (Practitioner) | Каримов А.А. |
-| Hamshira | Медсестра | Encounter.participant.actor (Practitioner) | Рахматова М.М. |
-| Fistul | Фистула | Procedure.bodySite | Левая AV-фистула |
+# UZ-011 Hemodialysis Session Form - FHIR Mapping
 
-### Resource Structure
+| UZ-011 | RU-011 | FHIR Path | Code | Example Value |
+|--------|--------|-----------|------|---------------|
+| Bemor | Пациент | Patient.name | - | Aziz John |
+| Sana | Дата | Encounter.period.start | - | 2026-06-01 |
+| Amb № | Амбулаторный № | Patient.identifier | - | 1245 |
+| Seans № | № сеанса | Procedure.identifier | - | 128 |
+| Dializ turi | Тип диализа | Procedure.code | SNOMED CT `302497006` "Hemodialysis (procedure)" | Hemodialysis |
+| Dializ boshlanishi | Начало диализа | Procedure.occurrencePeriod.start | - | 2026-06-01T09:00:00 |
+| Dializ tugashi | Окончание диализа | Procedure.occurrencePeriod.end | - | 2026-06-01T13:00:00 |
+| AQB (sistolik) | Артериальное давление (систолическое) | Observation.component.code / Observation.component.valueQuantity | Observation.code: LOINC `85354-9` "Blood pressure panel"; component.code: LOINC `8480-6` "Systolic blood pressure" | 150 mmHg |
+| AQB (diastolik) | Артериальное давление (диастолическое) | Observation.component.code / Observation.component.valueQuantity | component.code: LOINC `8462-4` "Diastolic blood pressure" | 90 mmHg |
+| PS | Пульс | Observation.valueQuantity | LOINC `8867-4` "Heart rate" | 72 /min |
+| t(°C) | Температура тела (°C) | Observation.valueQuantity | LOINC `8310-5` "Body temperature" | 36.6 Cel |
+| SPO (SpO₂ (%)) | Сатурация кислорода (%) | Observation.valueQuantity | LOINC `2708-6` "Oxygen saturation in Arterial blood"; additional coding: LOINC `59408-5` "Oxygen saturation in Arterial blood by Pulse oximetry" | 98 % |
+| Asosiy Davolash | Основное лечение | MedicationAdministration.medication.concept | Use appropriate medication code, e.g. for Heparin: SNOMED CT `96382006` "Heparin" or ATC `B01AB01` | Geparin 2000 ED |
+| Qo'shimcha Davolash | Дополнительное лечение | Observation.valueString | Local code - TBD | |
+| Dializator | Диализатор | Procedure.used.concept | Local code - TBD (e.g. "FX 80") | FX 80 |
+| Magistral | Магистраль | Procedure.used.concept | Local code - TBD | Arterial/Venoz |
+| Ignalar | Иглы | Procedure.used.concept | Local code - TBD | AVF 16G |
+| UF | Ультрафильтрация | Observation.valueQuantity | Local code - TBD (no standard LOINC for total UF volume per session) | 2500 mL |
+| Vazn seansgacha | Масса тела до сеанса | Observation.valueQuantity | LOINC `8347-7` "Body weight Measured --pre dialysis" | 72.5 kg |
+| Vazn seansdan keyin | Масса тела после сеанса | Observation.valueQuantity | LOINC `8344-4` "Body weight Measured --post dialysis" | 70.0 kg |
+| Shifokor | Врач | Encounter.participant.actor | Encounter.participant.type: SNOMED CT `309343006` "Physician" | Practitioner (Каримов А.А.) |
+| Hamshira | Медсестра | Encounter.participant.actor | Encounter.participant.type: SNOMED CT `106292003` "Professional nurse" | Practitioner (Рахматова М.М.) |
+| Fistul | Фистула | Procedure.bodySite | SNOMED CT `439786007` "Surgically constructed arteriovenous fistula" + laterality qualifier | Левая AV-фистула |
+
+### Bundle structure
 
 The Form 011 document is structured as a FHIR Bundle containing:
 
 ```
 Bundle (document)
-├── Composition (form metadata, sections)
+├── Composition (first entry; sections referencing all resources below)
 ├── Patient (patient demographics)
 ├── Encounter (session encounter)
 ├── Procedure (hemodialysis procedure)
@@ -50,4 +53,4 @@ Bundle (document)
 
 ### Example
 
-See [Form 011 Hemodialysis Example](Bundle-example-form-011-hemodialysis.html) for a complete FHIR document example.
+See [Form 011 hemodialysis example](Bundle-example-form-011-hemodialysis.html) for a complete FHIR document example.
