@@ -1,5 +1,5 @@
 Logical: UZForm011
-Id: uz-form-011
+Id: UzForm011
 Title: "UZ Form 011 - Hemodialysis Session Record"
 Description: "Logical model representing the structure of Uzbekistan Form 011 (Hemodialysis Session Record)"
 * ^status = #active
@@ -49,7 +49,7 @@ Mapping: UZForm011ToFHIR
 Id: uz-form-011-to-fhir
 Title: "Form 011 to FHIR Resource Mapping"
 Source: UZForm011
-Target: "http://hl7.org/fhir"
+Target: "http://hl7.org/fhir/fivews"
 
 // Patient identification
 * bemor -> "Patient.name.text"

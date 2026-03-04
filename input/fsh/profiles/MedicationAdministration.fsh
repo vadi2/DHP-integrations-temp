@@ -20,6 +20,6 @@ Mapping: UZIntegrationsMedicationAdminToForm011
 Id: uz-form-011
 Title: "MedicationAdministration to UZ Form 011 Mapping"
 Source: UZIntegrationsMedicationAdministration
-Target: "https://dhp.uz/fhir/integrations/StructureDefinition/uz-form-011"
+Target: "https://dhp.uz/fhir/integrations/StructureDefinition/UzForm011"
 * medication.concept.text -> "UZForm011.asosiyDavolash"
 * note.text -> "UZForm011.qoshimchaDavolash"
