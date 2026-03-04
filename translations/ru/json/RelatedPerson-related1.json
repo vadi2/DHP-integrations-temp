@@ -1,0 +1,17 @@
+{
+  "id" : "RelatedPerson-related1",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "HumanName.text",
+          "context" : "Specifies the entire name as it should be displayed e.g. on an application UI. This may be provided instead of or as well as the specific parts.",
+          "source" : "Boltayev Damir Ketmonovich",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}
