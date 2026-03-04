@@ -42,7 +42,7 @@ Description: "Example of a hemodialysis session record"
 * entry[=].resource = provenance-signature
 
 Instance: composition-001
-InstanceOf: Composition
+InstanceOf: UZIntegrationsComposition
 Usage: #inline
 * language = #en
 * identifier[0].system = "urn:ietf:rfc:3986"
@@ -118,7 +118,7 @@ Usage: #inline
 * name.given[+] = "M."
 
 Instance: procedure-dialysis
-InstanceOf: Procedure
+InstanceOf: UZIntegrationsProcedure
 Usage: #inline
 * language = #en
 // Organization-scoped dialysis session number
@@ -236,7 +236,7 @@ Usage: #inline
 * language = #en
 * status = #final
 * category = $observation-category#vital-signs "Vital Signs"
-* code = $loinc#29463-7 "Body weight"
+* code = $loinc#8347-7 "Body weight Measured --pre dialysis"
 * code.text = "Pre-session weight"
 * subject = Reference(urn:uuid:b2c3d4e5-f6a7-8901-bcde-f12345678901)
 * encounter = Reference(urn:uuid:c3d4e5f6-a7b8-9012-cdef-123456789012)
@@ -250,7 +250,7 @@ Usage: #inline
 * language = #en
 * status = #final
 * category = $observation-category#vital-signs "Vital Signs"
-* code = $loinc#29463-7 "Body weight"
+* code = $loinc#8344-4 "Body weight Measured --post dialysis"
 * code.text = "Post-session weight"
 * subject = Reference(urn:uuid:b2c3d4e5-f6a7-8901-bcde-f12345678901)
 * encounter = Reference(urn:uuid:c3d4e5f6-a7b8-9012-cdef-123456789012)
@@ -259,7 +259,7 @@ Usage: #inline
 * valueQuantity = 70 'kg' "kg"
 
 Instance: medication-admin-heparin
-InstanceOf: MedicationAdministration
+InstanceOf: UZIntegrationsMedicationAdministration
 Usage: #inline
 * language = #en
 * status = #completed
