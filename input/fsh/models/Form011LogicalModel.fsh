@@ -45,49 +45,55 @@ Description: "Logical model representing the structure of Uzbekistan Form 011 (H
 // Access site
 * fistula 0..1 string "Fistula / Фистула" "Location of vascular access (e.g., Left AV fistula)"
 
-Mapping: UZForm011ToFHIR
-Id: uz-form-011-to-fhir
-Title: "Form 011 to FHIR Resource Mapping"
+Mapping: UZForm011ToUZCorePatient
+Id: uz-form-011-to-uz-core-patient
+Title: "Form 011 to UZ Core Patient"
 Source: UZForm011
-Target: "http://hl7.org/fhir/fivews"
-
-// Patient identification
+Target: "https://dhp.uz/fhir/core/StructureDefinition/uz-core-patient"
 * bemor -> "Patient.name.text"
 * ambRaqam -> "Patient.identifier.value"
 
-// Session metadata
-* sana -> "Encounter.actualPeriod.start.toDate()"
-* seansRaqam -> "Procedure.identifier.value"
-* dializTuri -> "Procedure.code"
+Mapping: UZForm011ToUZCoreEncounter
+Id: uz-form-011-to-uz-core-encounter
+Title: "Form 011 to UZ Core Encounter"
+Source: UZForm011
+Target: "https://dhp.uz/fhir/core/StructureDefinition/uz-core-encounter"
+* sana -> "Encounter.actualPeriod.start"
+* shifokor -> "Encounter.participant.where(type.coding.code='PPRF').actor.display"
+* hamshira -> "Encounter.participant.where(type.coding.code='SPRF').actor.display"
 
-// Dialysis timing
-* dializBoshlanishi -> "Procedure.occurrencePeriod.start"
-* dializTugashi -> "Procedure.occurrencePeriod.end"
-
-// Vital signs
+Mapping: UZForm011ToUZCoreObservation
+Id: uz-form-011-to-uz-core-observation
+Title: "Form 011 to UZ Core Observation"
+Source: UZForm011
+Target: "https://dhp.uz/fhir/core/StructureDefinition/uz-core-observation"
 * vaqt -> "Observation.effectiveDateTime"
 * aqb -> "Observation.where(code.coding.code='85354-9').component"
 * ps -> "Observation.where(code.coding.code='8867-4').valueQuantity.value"
 * harorat -> "Observation.where(code.coding.code='8310-5').valueQuantity.value"
 * spo2 -> "Observation.where(code.coding.code='2708-6').valueQuantity.value"
-
-// Treatment
-* asosiyDavolash -> "MedicationAdministration.medication.concept.text"
-* qoshimchaDavolash -> "MedicationAdministration.note.text"
-
-// Equipment
-* dializator -> "Procedure.used.concept.text"
-* magistral -> "Procedure.used.concept.text"
-* ignalar -> "Procedure.used.concept.text"
-
-// Measurements
 * uf -> "Observation.where(code.coding.code='99741-1').valueQuantity.value"
 * vaznSeansgacha -> "Observation.where(code.coding.code='8347-7').valueQuantity.value"
 * vaznSeansKeyin -> "Observation.where(code.coding.code='8344-4').valueQuantity.value"
 
-// Participants
-* shifokor -> "Encounter.participant.where(type.coding.code='PPRF').actor.display"
-* hamshira -> "Encounter.participant.where(type.coding.code='SPRF').actor.display"
-
-// Access site
+Mapping: UZForm011ToProcedure
+Id: uz-form-011-to-procedure
+Title: "Form 011 to UZ Integrations Procedure"
+Source: UZForm011
+Target: "https://dhp.uz/fhir/integrations/StructureDefinition/uz-integrations-procedure"
+* seansRaqam -> "Procedure.identifier.value"
+* dializTuri -> "Procedure.code"
+* dializBoshlanishi -> "Procedure.occurrencePeriod.start"
+* dializTugashi -> "Procedure.occurrencePeriod.end"
+* dializator -> "Procedure.used.concept.text"
+* magistral -> "Procedure.used.concept.text"
+* ignalar -> "Procedure.used.concept.text"
 * fistula -> "Procedure.bodySite.text"
+
+Mapping: UZForm011ToMedicationAdmin
+Id: uz-form-011-to-medication-admin
+Title: "Form 011 to UZ Integrations MedicationAdministration"
+Source: UZForm011
+Target: "https://dhp.uz/fhir/integrations/StructureDefinition/uz-integrations-medication-administration"
+* asosiyDavolash -> "MedicationAdministration.medication.concept.text"
+* qoshimchaDavolash -> "MedicationAdministration.note.text"
