@@ -4,7 +4,7 @@ This page documents the mapping between Form 011 (Hemodialysis Session Protocol)
 
 ### Overview
 
-Form 011 captures clinical data from hemodialysis sessions. The form data maps to multiple FHIR resources bundled together as a FHIR Document.
+Form 011 captures clinical data from hemodialysis sessions. The form data maps to multiple FHIR resources bundled together as a FHIR Document. Where available, resources conform to [UZ Core](https://dhp.uz/fhir/core/en/artifacts.html) profiles.
 
 ### Field Mapping
 
@@ -12,14 +12,14 @@ Form 011 captures clinical data from hemodialysis sessions. The form data maps t
 
 | UZ-011 | RU-011 | FHIR Path | Code | Example Value |
 |--------|--------|-----------|------|---------------|
-| Bemor | Пациент | Patient.name | - | Aziz John |
-| Sana | Дата | Encounter.period.start | - | 2026-06-01 |
+| Bemor | Пациент | [Patient](https://dhp.uz/fhir/core/en/StructureDefinition-uz-core-patient.html).name | - | Aziz John |
+| Sana | Дата | [Encounter](https://dhp.uz/fhir/core/en/StructureDefinition-uz-core-encounter.html).period.start | - | 2026-06-01 |
 | Amb № | Амбулаторный № | Patient.identifier | - | 1245 |
 | Seans № | № сеанса | Procedure.identifier | - | 128 |
 | Dializ turi | Тип диализа | Procedure.code | SNOMED CT `302497006` "Hemodialysis (procedure)" | Hemodialysis |
 | Dializ boshlanishi | Начало диализа | Procedure.occurrencePeriod.start | - | 2026-06-01T09:00:00 |
 | Dializ tugashi | Окончание диализа | Procedure.occurrencePeriod.end | - | 2026-06-01T13:00:00 |
-| AQB (sistolik) | Артериальное давление (систолическое) | Observation.component.code / Observation.component.valueQuantity | Observation.code: LOINC `85354-9` "Blood pressure panel"; component.code: LOINC `8480-6` "Systolic blood pressure" | 150 mmHg |
+| AQB (sistolik) | Артериальное давление (систолическое) | [Observation](https://dhp.uz/fhir/core/en/StructureDefinition-uz-core-observation.html).component.code / Observation.component.valueQuantity | Observation.code: LOINC `85354-9` "Blood pressure panel"; component.code: LOINC `8480-6` "Systolic blood pressure" | 150 mmHg |
 | AQB (diastolik) | Артериальное давление (диастолическое) | Observation.component.code / Observation.component.valueQuantity | component.code: LOINC `8462-4` "Diastolic blood pressure" | 90 mmHg |
 | PS | Пульс | Observation.valueQuantity | LOINC `8867-4` "Heart rate" | 72 /min |
 | t(°C) | Температура тела (°C) | Observation.valueQuantity | LOINC `8310-5` "Body temperature" | 36.6 Cel |
@@ -32,8 +32,8 @@ Form 011 captures clinical data from hemodialysis sessions. The form data maps t
 | UF | Ультрафильтрация | Observation.valueQuantity | Local code - TBD (no standard LOINC for total UF volume per session) | 2500 mL |
 | Vazn seansgacha | Масса тела до сеанса | Observation.valueQuantity | LOINC `8347-7` "Body weight Measured --pre dialysis" | 72.5 kg |
 | Vazn seansdan keyin | Масса тела после сеанса | Observation.valueQuantity | LOINC `8344-4` "Body weight Measured --post dialysis" | 70.0 kg |
-| Shifokor | Врач | Encounter.participant.actor | Encounter.participant.type: SNOMED CT `309343006` "Physician" | Practitioner (Каримов А.А.) |
-| Hamshira | Медсестра | Encounter.participant.actor | Encounter.participant.type: SNOMED CT `106292003` "Professional nurse" | Practitioner (Рахматова М.М.) |
+| Shifokor | Врач | Encounter.participant.actor | Encounter.participant.type: SNOMED CT `309343006` "Physician" | [Practitioner](https://dhp.uz/fhir/core/en/StructureDefinition-uz-core-practitioner.html) (Каримов А.А.) |
+| Hamshira | Медсестра | Encounter.participant.actor | Encounter.participant.type: SNOMED CT `106292003` "Professional nurse" | [Practitioner](https://dhp.uz/fhir/core/en/StructureDefinition-uz-core-practitioner.html) (Рахматова М.М.) |
 | Fistul | Фистула | Procedure.bodySite | SNOMED CT `439786007` "Surgically constructed arteriovenous fistula" + laterality qualifier | Левая AV-фистула |
 
 ### Bundle structure
